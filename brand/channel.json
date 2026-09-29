@@ -1,0 +1,42 @@
+{
+  "name": "Subatomic Secrets",
+  "tagline": "EVERY FACT. EVERYWHERE.",
+  "language": "en",
+  "topic_mix": {"ai_tech": 0.7, "science": 0.3, "window": 10},
+  "colors": {
+    "yellow": "#FDCB04",
+    "black": "#111111",
+    "white": "#FFFFFF",
+    "accent_teal": "#249A9E",
+    "accent_orange": "#F58C2E"
+  },
+  "voice": {
+    "narrator": "en-US-AndrewNeural",
+    "arjun": "en-IN-PrabhatNeural",
+    "nimi": "en-US-BrianNeural"
+  },
+  "video": {"width": 1080, "height": 1920, "fps": 30, "min_s": 30, "max_s": 59,
+            "safe_top": 250, "safe_bottom": 1650},
+  "styles": ["story", "newsflash", "cosmic", "lab", "countdown", "mythfact"],
+  "scoring": {
+    "recency": 1.5,
+    "source_credibility": 2.0,
+    "novelty": 1.5,
+    "audience_interest": 2.0,
+    "explainable_in_45s": 1.5,
+    "visual_potential": 1.2,
+    "wow_factor": 1.5,
+    "factual_certainty": 2.0,
+    "search_interest": 1.0,
+    "evergreen_value": 0.5,
+    "india_relevance": 0.6,
+    "low_risk": 1.5
+  },
+  "youtube": {
+    "category": "Science & Technology",
+    "made_for_kids": false,
+    "privacy": "public",
+    "disclosure": "This video is animated and voiced with AI tools.",
+    "base_hashtags": ["#Shorts", "#SubatomicSecrets"]
+  }
+}

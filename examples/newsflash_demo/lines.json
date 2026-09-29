@@ -1,0 +1,29 @@
+{
+  "duration": 15.54,
+  "lines": [
+    {
+      "text": "Here's a secret hiding in plain sight.",
+      "start": 0.6,
+      "dur": 2.028,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "The sunlight on your face right now left the Sun about eight minutes ago.",
+      "start": 3.078,
+      "dur": 3.5,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "So every time you see the Sun, you are looking into the past.",
+      "start": 7.028,
+      "dur": 3.227,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "And light from distant stars can be thousands of years old.",
+      "start": 10.705,
+      "dur": 2.987,
+      "wav": "line_3.wav"
+    }
+  ]
+}
