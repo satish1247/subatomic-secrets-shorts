@@ -71,10 +71,14 @@ Write runs/RUN_DATE/script.md:
    ```
    Then `git checkout -` back. VIDEO_URL = REPO_RAW/claude/video-RUN_DATE/runs/RUN_DATE/short.mp4.
    Check it with `curl -sIL VIDEO_URL`: it must return 200 and a content-length equal to the file size.
-3. Zapier MCP: call `inspect_zapier_actions` to find the YouTube "Upload Video" action and its exact params.
-   Then run `execute_zapier_write_action` with the file = VIDEO_URL, title, description, tags, category,
-   privacy status = **public**, and not made for kids. Retry once on error. Capture the returned YouTube video URL/ID.
-   If no YouTube upload action is enabled, go to FAILURE with "Zapier YouTube action not enabled".
+3. Zapier MCP (the YouTube connection posts to the Subatomic Secrets channel, @subatomicsecrets):
+   call `inspect_zapier_actions` with tool_name `youtube_upload_video` to confirm the params, then run
+   `execute_zapier_write_action` (selected_api from the inspect result, action `upload_video`) with params:
+   video = VIDEO_URL, title, description, tags (list), category_id = "28" (Science & Technology),
+   privacy_status = "public", made_for_kids = "false", notify_subscribers = "true",
+   default_language = "en", default_audio_language = "en".
+   Retry once on error. Capture the returned YouTube video ID/URL.
+   If the action is missing or unauthorised, go to FAILURE with "Zapier YouTube action not available".
 4. Cleanup (best effort, ignore errors): delete remote `claude/video-*` branches older than 14 days.
 
 ## 7. Record & finish
