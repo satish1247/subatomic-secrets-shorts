@@ -1,0 +1,41 @@
+{
+  "duration": 40.49,
+  "lines": [
+    {
+      "text": "Twenty-six satellites. One rocket. And a first for Starship.",
+      "start": 0.35,
+      "dur": 4.347,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On September 28th, SpaceX's Starship reached orbit for the very first time, on its fourteenth test flight.",
+      "start": 5.147,
+      "dur": 6.075,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "About 275 kilometres above Earth, it released all 26 of its passengers: new Starlink V3 internet satellites.",
+      "start": 11.672,
+      "dur": 9.333,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Each V3 is designed for about one terabit per second of download capacity, roughly ten times the older version.",
+      "start": 21.455,
+      "dur": 6.181,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "They're too big for SpaceX's Falcon 9 rocket, so they need Starship. A full load could carry up to sixty.",
+      "start": 28.085,
+      "dur": 5.949,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Why it matters: the giant rocket just proved it can deliver real cargo to orbit.",
+      "start": 34.484,
+      "dur": 4.157,
+      "wav": "line_5.wav"
+    }
+  ]
+}

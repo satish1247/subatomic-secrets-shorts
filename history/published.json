@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "date": "2026-09-30",
+    "title": "Starship Just Reached Orbit for the First Time",
+    "topic": "Starship reaches orbit for the first time on Flight 14",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=zQMGjagZ95M",
+    "video_branch": "claude/video-2026-09-30"
+  }
+]
