@@ -7,5 +7,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=zQMGjagZ95M",
     "video_branch": "claude/video-2026-09-30"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "The First Quantum Computer to Run in Space",
+    "topic": "First quantum photonic processor operated in orbit (University of Vienna)",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=9Dlt3lbrIg8",
+    "video_branch": "claude/video-2026-10-01"
   }
 ]

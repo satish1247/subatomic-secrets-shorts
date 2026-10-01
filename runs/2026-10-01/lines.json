@@ -1,0 +1,53 @@
+{
+  "duration": 48.5,
+  "lines": [
+    {
+      "text": "A quantum computer just ran in space. For the first time ever.",
+      "start": 0.35,
+      "dur": 3.215,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "A team led by the University of Vienna shrank a quantum lab to the size of a shoebox and put it on a tiny satellite.",
+      "start": 4.015,
+      "dur": 6.102,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "It launched on a Falcon 9 rocket in June 2025, to an orbit about 550 kilometres up.",
+      "start": 10.567,
+      "dur": 6.341,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Instead of electricity, it computes with single particles of light called photons.",
+      "start": 17.358,
+      "dur": 4.361,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "But space fought back. Half of its six detectors failed, and its laser dimmed from 20 milliwatts to just 4.",
+      "start": 22.168,
+      "dur": 5.611,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Sunlight swamped it too, so it worked in Earth's shadow, about 30 minutes of each 92-minute orbit.",
+      "start": 28.229,
+      "dur": 5.685,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Still, over eight months, it made pairs of photons, steered them through a programmable chip, and saw them interfere.",
+      "start": 34.364,
+      "dur": 5.923,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Real quantum physics, in orbit. One day, satellites could use chips like this to analyse their own images on board.",
+      "start": 40.737,
+      "dur": 5.916,
+      "wav": "line_7.wav"
+    }
+  ]
+}
