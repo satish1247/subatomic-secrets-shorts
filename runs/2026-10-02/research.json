@@ -1,0 +1,3703 @@
+{
+ "run_date": "2026-10-02",
+ "category_rule": "history has 2 entries (1 ai_tech, 1 science), below the 10-video window; both literal rules trigger, so applied the 70/30 target proportionally: science is already 50%, so today is ai_tech.",
+ "style_rule": "last two styles were newsflash and cosmic; chose countdown (3 -> 2 -> 1 facts).",
+ "search_queries": [
+  "AI model release October 1 2026",
+  "OpenAI announces September 30 2026",
+  "Google Gemini launch October 2026",
+  "Anthropic Claude announcement October 2026",
+  "OpenAI Dots always-on agents DevDay 2026",
+  "open-source AI model released this week open weights October 2026",
+  "Meta AI announcement October 1 2026",
+  "smartphone launch October 1 2026",
+  "Meta Connect 2026 VR glasses announced",
+  "Nvidia chip announcement October 2026",
+  "electric vehicle news October 1 2026 launch battery",
+  "humanoid robot news September 30 2026",
+  "Figure robots molten steel Finland Schwarzenegger",
+  "Tesla Roadster unveiling October 1 2026",
+  "cybersecurity vulnerability disclosed October 1 2026",
+  "ISRO mission October 2026",
+  "Tesla Roadster reveal Waco results flying thrusters",
+  "Anthropic GLM-5.3 concerns",
+  "India tech news AI launch October 1 2026",
+  "space mission launch September 30 2026 NASA",
+  "TakeMe2Space MOI-1A orbital computing satellite Transporter-18",
+  "SpaceX Transporter-18 launch payloads",
+  "Crew-13 launch October 1 docking",
+  "GPT-6.1 Sol release price",
+  "Google Project Suncatcher TPU satellite launched Planet",
+  "Starfish Space Otter launch inspect dead satellites NASA",
+  "Apple announcement September 30 2026",
+  "Samsung announces October 1 2026",
+  "The Neuron everything that happened in AI October 1 2026",
+  "FTC investigation frontier AI models September 30 2026",
+  "Microsoft announces October 1 2026 AI",
+  "developer tools release GitHub Copilot Codex new feature October 2026",
+  "Amazon AI announcement September 30 2026 Alexa",
+  "Crew-13 fastest trip ISS 7 hours 55 minutes record",
+  "Figure 02 decommission Imatra furnace robots jump how many robots",
+  "Project Suncatcher MVP satellite four TPUs launched October 1 Gemini in space",
+  "Redmi 17C 5G launched India price specs",
+  "Vivo X Fold 6 launched global October 1",
+  "Bitget $387.5 million hack zero-day",
+  "China AI model launch September 30 2026 DeepSeek Qwen Kimi",
+  "Waymo robotaxi expansion announcement October 2026",
+  "Apple iPhone 18 Pro iPhone Duo foldable event September 2026",
+  "Runway Praxis-1 world action model robots",
+  "quantum computing announcement September 30 2026",
+  "semiconductor TSMC Intel AMD news October 1 2026",
+  "Sarvam AI OR Krutrim OR Reliance Jio AI launch September 30 2026",
+  "Blue Origin New Glenn October 2026 launch",
+  "BYD EV new model launch October 2026 charging",
+  "Claude discovered enzyme CRISPR-like Anthropic",
+  "\"October 1, 2026\" robotics startup unveils robot",
+  "Codex Security Cloud Daybreak Blue OpenAI",
+  "OpenRouter Space Bunny Alpha stealth model",
+  "AI safety accord signed tech leaders White House September 29 2026",
+  "AI video generation model launch September 30 2026 Veo Sora Kling",
+  "Rocket Lab OR ESA OR China space launch October 1 2026",
+  "Google announces new feature September 30 2026 Android Pixel",
+  "India startup tech news October 2 2026",
+  "xAI Grok new release September 30 2026",
+  "Cowboy Space Reason-1 laser power beaming satellite",
+  "Neuralink OR brain-computer interface news October 1 2026",
+  "OnePlus 16 launch date confirmed specs official",
+  "TakeMe2Space MOI-1A launched successfully deployed orbit",
+  "heise Figure F.02 Schwarzenegger furnace 1600 degrees Imatra Ovako",
+  "geekwire Starfish Otter Transporter-18 orbit SSPICY",
+  "Transporter-18 Google Suncatcher satellite deployed Planet statement",
+  "tech news October 2 2026 announced today AI",
+  "Meta Muse Charm AI model Connect 2026",
+  "Microsoft Copilot Autopilot computer use desktop apps October 1",
+  "Agibot overtakes Unitree humanoid shipments first half 2026 report",
+  "9to5google OpenAI Dots custom rules cloud computer 4,000 apps price Pro",
+  "interestingengineering Figure F.02 molten steel stunt artists simulation commemorative",
+  "Crew-13 Jessica Watkins heirloom mission length Kutryk first Canadian",
+  "Apple CoreGraphics CVE-2026-86950 proof of concept PDF",
+  "science discovery October 1 2026",
+  "NASA news September 30 2026",
+  "astronomers discover new study October 2026",
+  "physicists breakthrough study published this week October 2026",
+  "ISRO mission news October 2026",
+  "lutetium atomic clock most accurate",
+  "neutron star merger magnetar X-ray flashes Einstein Probe study",
+  "superfluid helium qubit error rates 100 times",
+  "Curiosity rover 5000 sols postcard",
+  "new species discovered biology study September 30 2026",
+  "quantum simulator energy ladder conformal field theory Caltech Nature",
+  "bats evolved in Europe genomic fossil study",
+  "new cat species discovered 2026",
+  "Crew-13 launch Dragon Grace ISS docking October 2026",
+  "Mount Etna eruption Harvest Moon APOD October 2026",
+  "chemistry discovery new material study late September 2026",
+  "Earth science geology ocean study published September 29 2026",
+  "Transporter-18 SpaceX 130 payloads Google satellite",
+  "surprising science facts human body evergreen",
+  "mind-blowing space facts neutron star teaspoon Venus day longer than year",
+  "Scientists misread 2-billion-year-old clue about Earth oxygen",
+  "Australian stick insect new species lidded eggs",
+  "NASA PRIMA far-infrared probe mission advances",
+  "Hubble 200,000th orbit milestone"
+ ],
+ "weights": {
+  "recency": 1.5,
+  "source_credibility": 2.0,
+  "novelty": 1.5,
+  "audience_interest": 2.0,
+  "explainable_in_45s": 1.5,
+  "visual_potential": 1.2,
+  "wow_factor": 1.5,
+  "factual_certainty": 2.0,
+  "search_interest": 1.0,
+  "evergreen_value": 0.5,
+  "india_relevance": 0.6,
+  "low_risk": 1.5
+ },
+ "n_candidates": 123,
+ "selected": "Figure melts its retired F.02 humanoid robots by having them leap into molten steel",
+ "selection_reason": "Top-2 by weighted score (148.9), highest wow/visual of the ai_tech pool, 6+ independent outlets plus company post/CEO statement; #1 (Crew-13 ISS record) demoted for being a third consecutive space story.",
+ "runner_up": "Crew-13 makes fastest-ever US spacecraft trip to the ISS: 7 h 55 min",
+ "selected_verification": {
+  "extra_queries": [
+   "Figure F.02 decommission molten steel Finland robots",
+   "Figure robots molten steel lithium-ion batteries foundry refused Schwarzenegger \"melt them\"",
+   "Figure F.02 molten steel Imatra lithium-ion foundries United States Mexico"
+  ],
+  "status": "All script claims confirmed by >=2 independent outlets (search-result text; direct page fetches blocked by sandbox proxy). See script.md.",
+  "omitted": [
+   "number of robots melted (not stated in sources)",
+   "MythBusters involvement (single source)"
+  ]
+ },
+ "deep_dives": [
+  {
+   "title": "Figure melts its retired F.02 humanoid robots by having them leap into molten steel",
+   "suggested_style": "story",
+   "facts": [
+    {
+     "fact": "Figure posted the film 'F02 decommission' on September 30, 2026; it runs 3 minutes 40 seconds and CEO Brett Adcock says the video is real.",
+     "sources": [
+      "https://x.com/AGTPinsights/status/2105461681593946235",
+      "https://www.geeksaresexy.net/2026/09/30/hasta-la-vista-figure-02-watch-retired-humanoids-leap-into-molten-steel/"
+     ]
+    },
+    {
+     "fact": "The F.02 robots were sent to a foundry in Imatra, Finland, and leaped autonomously into a 75-ton electric arc furnace.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.heise.de/en/news/Arnold-Schwarzenegger-humanoid-F-02-a-blast-furnace-Figure-disposes-of-robot-11472202.html",
+      "https://rtfclmgzn.com/article/figure-ai-f02-decommission-molten-steel"
+     ]
+    },
+    {
+     "fact": "Arnold Schwarzenegger told Figure to 'melt them' and later joined the project.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.tao.media/figure-decommissions-f-02-fleet-by-melting-robots-in-finland-with-arnold-schwarzenegger/"
+     ]
+    },
+    {
+     "fact": "Figure says the footage was not digitally generated; the robots physically travelled to Finland and performed the jumps themselves.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.notebookcheck.net/Real-footage-Arnold-Schwarzenegger-sends-robots-into-a-furnace.1413422.0.html"
+     ]
+    },
+    {
+     "fact": "A new AI control model was trained in simulation using stunt performers' movements as reference; Figure also practised with airbags, having robots leap from a second floor at its San Jose HQ.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.figure.ai/news/f-02-decommission"
+     ]
+    },
+    {
+     "fact": "The team had 24 hours and six melts; each melt allowed only a ~20-minute window before the steel crusted over.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.heise.de/en/news/Arnold-Schwarzenegger-humanoid-F-02-a-blast-furnace-Figure-disposes-of-robot-11472202.html"
+     ]
+    },
+    {
+     "fact": "Figure had even sought help from former MythBusters members while looking for a facility willing to accept the robots.",
+     "sources": [
+      "https://www.tao.media/figure-decommissions-f-02-fleet-by-melting-robots-in-finland-with-arnold-schwarzenegger/"
+     ]
+    },
+    {
+     "fact": "The recovered metal is being machined into a limited run of commemorative F.02 artifacts; protected components were destroyed so no one could reuse them.",
+     "sources": [
+      "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+      "https://www.heise.de/en/news/Arnold-Schwarzenegger-humanoid-F-02-a-blast-furnace-Figure-disposes-of-robot-11472202.html"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Crew-13 makes fastest-ever US spacecraft trip to the ISS: 7 h 55 min",
+   "suggested_style": "newsflash",
+   "facts": [
+    {
+     "fact": "Crew-13 launched on a SpaceX Falcon 9 / Dragon on Thursday Oct 1, 2026 at 11:10 a.m. EDT from Space Launch Complex 40, Cape Canaveral.",
+     "sources": [
+      "https://www.nasa.gov/blogs/commercialcrew/2026/09/30/nasa-spacex-conclude-review-crew-13-go-for-launch/",
+      "https://www.space.com/space-exploration/human-spaceflight/spacex-crew-13-astronaut-mission-iss-launch"
+     ]
+    },
+    {
+     "fact": "Dragon docked at 7:05 p.m. EDT on Oct 1, 7 hours 55 minutes after launch: the fastest any American spacecraft has reached the ISS.",
+     "sources": [
+      "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+      "https://www.cbc.ca/news/canada/livestory/crew-13-launch-october-1-canadian-astronaut-joshua-kutruk-iss-mission-nasa-9.7363250"
+     ]
+    },
+    {
+     "fact": "Previous US record was 12 h 33 min (cargo Dragon CRS-31, Nov 2024); fastest crewed US trip before was 14 h 43 min (Crew-11, Aug 2025).",
+     "sources": [
+      "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft"
+     ]
+    },
+    {
+     "fact": "Overall crewed record remains Russia's Soyuz MS-17: 3 h 3 min on Oct 14, 2020.",
+     "sources": [
+      "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft"
+     ]
+    },
+    {
+     "fact": "Crew: NASA's Jessica Watkins and Luke Delaney, CSA's Joshua Kutryk, Roscosmos' Sergey Teteryatnikov.",
+     "sources": [
+      "https://www.nasa.gov/blogs/commercialcrew/2026/10/01/meet-the-crew-of-nasas-spacex-crew-13/",
+      "https://www.cbc.ca/news/canada/livestory/crew-13-launch-october-1-canadian-astronaut-joshua-kutruk-iss-mission-nasa-9.7363250",
+      "https://tass.com/science/2196401"
+     ]
+    },
+    {
+     "fact": "Dragon docked to the forward-facing port of the Harmony module.",
+     "sources": [
+      "https://www.cbc.ca/news/canada/livestory/crew-13-launch-october-1-canadian-astronaut-joshua-kutruk-iss-mission-nasa-9.7363250"
+     ]
+    },
+    {
+     "fact": "Watkins is the first NASA astronaut to launch on Dragon twice (previously Crew-4, 170 days in space in 2022).",
+     "sources": [
+      "https://www.nasa.gov/blogs/commercialcrew/2026/10/01/meet-the-crew-of-nasas-spacex-crew-13/",
+      "https://www.wknofm.org/2026-09-30/nasas-spacex-crew-13-prelaunch-news-conference-sept-30-2026"
+     ]
+    },
+    {
+     "fact": "Kutryk is the first Canadian launched under NASA's Commercial Crew Program, on a ~6-month mission, carrying a 100+-year-old family pocket watch.",
+     "sources": [
+      "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
+      "https://abcnews.com/US/nasas-spacex-crew-13-astronaut-bringing-100-year/story?id=136906539"
+     ]
+    },
+    {
+     "fact": "Launch had slipped from Sept 30 to Oct 1.",
+     "sources": [
+      "https://www.wknofm.org/2026-09-30/nasas-spacex-crew-13-prelaunch-news-conference-sept-30-2026",
+      "https://www.nasa.gov/blogs/spacestation/2026/09/22/nasa-spacex-move-to-final-crew-13-prelaunch-prep-for-oct-1-liftoff/"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Google's Project Suncatcher puts its first AI chips (TPUs) into orbit",
+   "suggested_style": "lab",
+   "facts": [
+    {
+     "fact": "SpaceX launched Transporter-18 from Vandenberg at 11:22 a.m. PT on Oct 1, 2026 with 130 payloads to sun-synchronous orbit.",
+     "sources": [
+      "https://x.com/SpaceX/status/2105697062927147516",
+      "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+      "https://starlust.org/watch-space-xs-transporter-18-sends-googles-ai-test-satellite-to-orbit-with-129-other-payloads/"
+     ]
+    },
+    {
+     "fact": "The Suncatcher prototype is one satellite built with Planet carrying four Google TPUs (Trillium generation); it is the first in-orbit test of Project Suncatcher.",
+     "sources": [
+      "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "https://financefeeds.com/google-project-suncatcher-4-tpus-orbit-transporter-18/",
+      "https://www.kpbs.org/news/science-technology/2026/10/01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space"
+     ]
+    },
+    {
+     "fact": "Solar panels supply about 1 kW; the chips run short Gemini/AI inference workloads in ~15-minute windows before shutting down to cool.",
+     "sources": [
+      "https://www.kpbs.org/news/science-technology/2026/10/01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space",
+      "https://financefeeds.com/google-project-suncatcher-4-tpus-orbit-transporter-18/"
+     ]
+    },
+    {
+     "fact": "Google first announced Project Suncatcher as a research moonshot in November 2025.",
+     "sources": [
+      "https://financefeeds.com/google-project-suncatcher-4-tpus-orbit-transporter-18/",
+      "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-tpus-into-orbit-with-planet-labs-envisions-1km-arrays-of-81-satellite-compute-clusters/"
+     ]
+    },
+    {
+     "fact": "The long-term design envisions clusters of 81 satellites within a 1 km radius at ~650 km altitude, linked by free-space lasers.",
+     "sources": [
+      "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-tpus-into-orbit-with-planet-labs-envisions-1km-arrays-of-81-satellite-compute-clusters/",
+      "https://financefeeds.com/google-project-suncatcher-4-tpus-orbit-transporter-18/"
+     ]
+    },
+    {
+     "fact": "Planet is contracted for two more prototype satellites targeting 2027 to test high-bandwidth laser links; the satellite uses the bus of Planet's next-gen Owl satellite.",
+     "sources": [
+      "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "https://www.kpbs.org/news/science-technology/2026/10/01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space"
+     ]
+    },
+    {
+     "fact": "Same rideshare also carried Planet's Tanager-2 (with Carbon Mapper) and 18 SuperDoves.",
+     "sources": [
+      "https://x.com/planet/status/2105522649707532749",
+      "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "India's TakeMe2Space launches MOI-1A, billed as India's first orbital computing satellite",
+   "suggested_style": "newsflash",
+   "facts": [
+    {
+     "fact": "MOI-1A was manifested on SpaceX's Transporter-18 rideshare, which launched at 11:22 a.m. PT on Oct 1, 2026 (some Indian outlets had cited Oct 2 as the date).",
+     "sources": [
+      "https://americanbazaaronline.com/2026/10/01/indian-space-tech-startup-takeme2space-to-launch-ai-satellite-aboard-spacex-mission-489218/",
+      "https://www.dqindia.com/dqdeeptech/takeme2space-sets-october-2-launch-for-ai-computing-in-orbit-12613738",
+      "https://x.com/SpaceX/status/2105697062927147516"
+     ]
+    },
+    {
+     "fact": "TakeMe2Space calls MOI-1A India's first orbital computing satellite.",
+     "sources": [
+      "https://www.newsbytesapp.com/news/science/takeme2space-says-moi-1a-is-indias-1st-orbital-computing-satellite/tldr",
+      "https://www.thebridgechronicle.com/news/nation/indian-startup-takeme2space-to-launch-countrys-first-orbital-computing-satellite-on-spacex-mission"
+     ]
+    },
+    {
+     "fact": "It weighs about 14 kg in a 6U CubeSat configuration.",
+     "sources": [
+      "https://americanbazaaronline.com/2026/10/01/indian-space-tech-startup-takeme2space-to-launch-ai-satellite-aboard-spacex-mission-489218/",
+      "https://www.technology.org/2026/09/28/takeme2space-moi-1a-orbital-computing-satellite-spacex/"
+     ]
+    },
+    {
+     "fact": "It uses Nvidia Orin NX edge processors (up to 117 TOPS) and about 150 W of power to run customer AI models in orbit.",
+     "sources": [
+      "https://americanbazaaronline.com/2026/10/01/indian-space-tech-startup-takeme2space-to-launch-ai-satellite-aboard-spacex-mission-489218/",
+      "https://www.technology.org/2026/09/28/takeme2space-moi-1a-orbital-computing-satellite-spacex/"
+     ]
+    },
+    {
+     "fact": "It processes Earth-observation imagery on board and downlinks only the results, cutting raw data transfer.",
+     "sources": [
+      "https://www.analyticsinsight.net/news/indias-first-orbital-computing-satellite-launches-today",
+      "https://www.technology.org/2026/09/28/takeme2space-moi-1a-orbital-computing-satellite-spacex/"
+     ]
+    },
+    {
+     "fact": "23 customers, including mapping firms and universities, have signed up.",
+     "sources": [
+      "https://www.technology.org/2026/09/28/takeme2space-moi-1a-orbital-computing-satellite-spacex/",
+      "https://kingy.ai/news/takeme2space-ai-satellite-moi-1a/"
+     ]
+    },
+    {
+     "fact": "Its predecessor MOI-1 was lost in January 2026 after an anomaly on ISRO's PSLV-C62 mission.",
+     "sources": [
+      "https://americanbazaaronline.com/2026/10/01/indian-space-tech-startup-takeme2space-to-launch-ai-satellite-aboard-spacex-mission-489218/"
+     ]
+    },
+    {
+     "fact": "CAVEAT: as of research time no source confirmed MOI-1A is operating in orbit; say 'launched', not 'working'.",
+     "sources": [
+      "https://www.analyticsinsight.net/news/indias-first-orbital-computing-satellite-launches-today"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "OpenAI launches Dots: always-on ChatGPT agents with their own cloud computers",
+   "suggested_style": "newsflash",
+   "facts": [
+    {
+     "fact": "OpenAI launched dots on Tuesday, Sept 29, 2026 at DevDay 2026 in San Francisco.",
+     "sources": [
+      "https://9to5google.com/2026/09/29/openai-dots-agent/",
+      "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+      "https://betanews.com/article/openai-dots-agents-chatgpt/"
+     ]
+    },
+    {
+     "fact": "Each dot runs on GPT-6 Astra (introduced Sept 3) and works from its own cloud computer and browser.",
+     "sources": [
+      "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+      "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/"
+     ]
+    },
+    {
+     "fact": "Dots connect to more than 4,000 apps via plugins and keep working on goals in the background without re-prompting.",
+     "sources": [
+      "https://betanews.com/article/openai-dots-agents-chatgpt/",
+      "https://shattered.io/openai-dots-4000-apps-skip-uk-eu-2026/"
+     ]
+    },
+    {
+     "fact": "Users set Custom Rules for what a dot may do alone, must ask about, or must never do; linking a personal computer is optional and off by default.",
+     "sources": [
+      "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+      "https://www.producthunt.com/products/dots-by-openai"
+     ]
+    },
+    {
+     "fact": "Rolling out to ChatGPT Pro and Business Premium; first dot included with Pro 100/200/500 ($100/$200/$500 per month).",
+     "sources": [
+      "https://9to5google.com/2026/09/29/openai-dots-agent/",
+      "https://www.eesel.ai/blog/openai-dots-pricing"
+     ]
+    },
+    {
+     "fact": "Pro access excludes the EEA, Switzerland and the UK for now.",
+     "sources": [
+      "https://9to5google.com/2026/09/29/openai-dots-agent/",
+      "https://shattered.io/openai-dots-4000-apps-skip-uk-eu-2026/"
+     ]
+    },
+    {
+     "fact": "Alongside dots OpenAI released GPT-6.1 Sol at $2/$10 per million input/output tokens, one-fifth of Astra's price.",
+     "sources": [
+      "https://thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
+      "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/"
+     ]
+    }
+   ]
+  }
+ ],
+ "top10": [
+  [
+   "Crew-13 makes fastest-ever US spacecraft trip to the ISS: 7 h 55 min",
+   151.7
+  ],
+  [
+   "Figure melts its retired F.02 humanoid robots by having them leap into molten steel",
+   148.9
+  ],
+  [
+   "Google's Project Suncatcher puts its first AI chips (TPUs) into orbit",
+   148.3
+  ],
+  [
+   "Cowboy Space launches Reason-1 to beam solar power from orbit to Earth by laser",
+   141.2
+  ],
+  [
+   "OpenAI launches Dots: always-on ChatGPT agents with their own cloud computers",
+   140.8
+  ],
+  [
+   "Most accurate atomic clock ever runs on a single lutetium ion",
+   140.4
+  ],
+  [
+   "Crew-13 reaches ISS in under 8 hours - fastest US crewed trip ever",
+   139.7
+  ],
+  [
+   "Octopuses have three hearts and blue blood",
+   137.4
+  ],
+  [
+   "A 10-minute X-ray flash reveals a magnetar born from colliding neutron stars",
+   137.1
+  ],
+  [
+   "A day on Venus is longer than its year",
+   137.0
+  ]
+ ],
+ "candidates": [
+  {
+   "title": "Crew-13 makes fastest-ever US spacecraft trip to the ISS: 7 h 55 min",
+   "summary": "SpaceX Dragon carried Crew-13 from Florida to the ISS in 7 hours 55 minutes on Oct 1, beating the previous US-vehicle record of 12 h 33 min.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+    "https://www.cbc.ca/news/canada/livestory/crew-13-launch-october-1-canadian-astronaut-joshua-kutruk-iss-mission-nasa-9.7363250",
+    "https://www.nasa.gov/blogs/commercialcrew/2026/10/01/launch-day-for-nasas-spacex-crew-13-mission/",
+    "https://abcnews.com/US/nasas-spacex-crew-13-astronaut-bringing-100-year/story?id=136906539"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 10,
+    "search_interest": 8,
+    "evergreen_value": 7,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 151.7,
+   "note": "Ranked #1 by score but demoted: the last two videos (Starship orbit, quantum processor in orbit) were both space stories; third space video in a row hurts variety/novelty. Kept as runner-up."
+  },
+  {
+   "title": "Figure melts its retired F.02 humanoid robots by having them leap into molten steel",
+   "summary": "Figure AI retired its F.02 fleet by training the robots to autonomously jump into a 75-ton electric arc furnace in Imatra, Finland, an idea inspired by Arnold Schwarzenegger.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://interestingengineering.com/ai-robotics/humanoid-robot-decommissioned-molten-steel",
+    "https://theaiinsider.tech/2026/10/01/figure-ai-retires-humanoid-robot-fleet-by-having-them-jump-into-a-vat-of-molten-steel/",
+    "https://www.dexerto.com/entertainment/arnold-schwarzenegger-terminates-real-ai-robots-judgment-day-style-using-molten-steel-3414772/",
+    "https://www.figure.ai/news/f-02-decommission",
+    "https://www.heise.de/en/news/Arnold-Schwarzenegger-humanoid-F-02-a-blast-furnace-Figure-disposes-of-robot-11472202.html",
+    "https://www.notebookcheck.net/Real-footage-Arnold-Schwarzenegger-sends-robots-into-a-furnace.1413422.0.html",
+    "https://www.tao.media/figure-decommissions-f-02-fleet-by-melting-robots-in-finland-with-arnold-schwarzenegger/",
+    "https://x.com/adcock_brett/status/2105356889974562983"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 10,
+    "audience_interest": 10,
+    "explainable_in_45s": 9,
+    "visual_potential": 10,
+    "wow_factor": 10,
+    "factual_certainty": 8,
+    "search_interest": 9,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted_score": 148.9,
+   "style": "countdown"
+  },
+  {
+   "title": "Google's Project Suncatcher puts its first AI chips (TPUs) into orbit",
+   "summary": "A Planet-built prototype satellite carrying four Google Trillium TPUs launched on SpaceX Transporter-18, the first in-orbit test of solar-powered AI data centers in space.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+    "https://www.kpbs.org/news/science-technology/2026/10/01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space",
+    "https://www.wxpr.org/2026-10-01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space",
+    "https://tribuneindia.com/news/falcon-9/googles-project-suncatcher-takes-flight-as-spacex-launches-falcon-9-to-test-ai-chips-in-orbit",
+    "https://www.planet.com/pulse/planet-to-build-and-operate-advanced-space-platform-for-google-s-project-suncatcher-moonshot/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 9,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 7,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_score": 148.3
+  },
+  {
+   "title": "Cowboy Space launches Reason-1 to beam solar power from orbit to Earth by laser",
+   "summary": "Baiju Bhatt's Cowboy Space launched a kilowatt-class laser satellite on Transporter-18 to attempt the first orbit-to-ground laser power beaming, as soon as late October.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://x.com/CowboySpaceCorp/status/2104658525750513991",
+    "https://www.geekwire.com/2026/spacex-rideshare-starfish-space-first-otter/",
+    "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/",
+    "https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 10,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 141.2
+  },
+  {
+   "title": "OpenAI launches Dots: always-on ChatGPT agents with their own cloud computers",
+   "summary": "At DevDay 2026, OpenAI launched dots, persistent GPT-6 Astra agents that each run on a dedicated cloud computer/browser and connect to 4,000+ apps.",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://9to5google.com/2026/09/29/openai-dots-agent/",
+    "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+    "https://betanews.com/article/openai-dots-agents-chatgpt/",
+    "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+    "https://openai.com/index/devday-2026-recap/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 9,
+    "explainable_in_45s": 8,
+    "visual_potential": 6,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 10,
+    "evergreen_value": 6,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 140.8
+  },
+  {
+   "title": "Most accurate atomic clock ever runs on a single lutetium ion",
+   "summary": "Singapore's CQT built a lutetium-ion clock with 1e-19 uncertainty (19 decimal places), 41% better than the previous record and a frontrunner to redefine the second in 2030.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.livescience.com/physics-mathematics/physicists-unveil-the-most-accurate-atomic-clock-ever-and-it-could-literally-redefine-the-second",
+    "https://newatlas.com/engineering/new-atomic-clock-breaks-record-for-worlds-most-accurate/",
+    "https://interestingengineering.com/science/worlds-most-accurate-atomic-clock-lutetium",
+    "https://www.tribuneindia.com/news/science-technology/researchers-develop-highly-accurate-atomic-clock-using-lutetium"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 6,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_score": 140.4
+  },
+  {
+   "title": "Crew-13 reaches ISS in under 8 hours - fastest US crewed trip ever",
+   "summary": "Crew Dragon 'Grace' launched Oct 1 and docked 7h55m later, beating the previous American record by ~5 hours.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+    "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+    "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 139.7
+  },
+  {
+   "title": "Octopuses have three hearts and blue blood",
+   "summary": "Two hearts pump blood through the gills, one to the body; copper-based haemocyanin makes the blood blue.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://ocean.si.edu/ocean-life/invertebrates/octopuses",
+    "https://www.britannica.com/animal/octopus-mollusk"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 4,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 10,
+    "wow_factor": 9,
+    "factual_certainty": 10,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 137.4
+  },
+  {
+   "title": "A 10-minute X-ray flash reveals a magnetar born from colliding neutron stars",
+   "summary": "Einstein Probe event EP250704a shows some neutron-star mergers leave a newborn magnetar powering X-rays for minutes, explaining mystery flashes.",
+   "category": "science",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+    "https://www.eurekalert.org/news-releases/1145534",
+    "https://phys.org/news/2026-09-astronomers-link-mysterious-cosmic-collisions.html",
+    "https://scitechdaily.com/einstein-probe-discovers-a-secret-phase-of-neutron-star-collisions/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 137.1
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "Venus rotates once in 243 Earth days but orbits the Sun in 225, and spins backwards.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/venus/venus-facts/",
+    "https://www.britannica.com/place/Venus-planet"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 4,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 10,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 137.0
+  },
+  {
+   "title": "A teaspoon of neutron star weighs about a billion tonnes",
+   "summary": "Neutron stars pack more than a Sun's mass into a ~20 km ball, so matter is crushed to nuclear density.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html",
+    "https://www.britannica.com/science/neutron-star"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 4,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 8,
+    "wow_factor": 10,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 135.9
+  },
+  {
+   "title": "Helium was discovered in the Sun from India before it was found on Earth",
+   "summary": "During the 1868 total solar eclipse seen from Guntur, Pierre Janssen spotted an unknown yellow spectral line - helium - found on Earth only in 1895.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.rsc.org/periodic-table/element/2/helium",
+    "https://www.britannica.com/science/helium-chemical-element"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 10,
+    "low_risk": 10
+   },
+   "weighted_score": 135.6
+  },
+  {
+   "title": "The Himalayas are still growing every year",
+   "summary": "India's tectonic plate keeps pushing into Asia (~5 cm/yr), raising the Himalayas by millimetres each year.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://pubs.usgs.gov/gip/dynamic/himalaya.html",
+    "https://www.britannica.com/place/Himalayas"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 10,
+    "low_risk": 10
+   },
+   "weighted_score": 135.3
+  },
+  {
+   "title": "Saturn is less dense than water",
+   "summary": "Saturn's average density (~0.69 g/cm3) is lower than water - in a big enough bathtub it would float.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/saturn/facts/",
+    "https://www.britannica.com/place/Saturn-planet"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 4,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 134.6
+  },
+  {
+   "title": "Lightning is about five times hotter than the Sun's surface",
+   "summary": "A lightning bolt can heat air to ~30,000 C versus ~5,500 C at the Sun's surface.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.weather.gov/safety/lightning-science-overview",
+    "https://science.nasa.gov/sun/facts/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 4,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "weighted_score": 134.5
+  },
+  {
+   "title": "India's TakeMe2Space launches MOI-1A, billed as India's first orbital computing satellite",
+   "summary": "The 14 kg, 6U CubeSat with an Nvidia Orin NX chip rode SpaceX Transporter-18 to run customers' AI models in orbit; 23 customers signed up.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://americanbazaaronline.com/2026/10/01/indian-space-tech-startup-takeme2space-to-launch-ai-satellite-aboard-spacex-mission-489218/",
+    "https://www.dqindia.com/dqdeeptech/takeme2space-sets-october-2-launch-for-ai-computing-in-orbit-12613738",
+    "https://www.technology.org/2026/09/28/takeme2space-moi-1a-orbital-computing-satellite-spacex/",
+    "https://www.analyticsinsight.net/news/indias-first-orbital-computing-satellite-launches-today",
+    "https://www.thebridgechronicle.com/news/nation/indian-startup-takeme2space-to-launch-countrys-first-orbital-computing-satellite-on-spacex-mission"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 6,
+    "india_relevance": 10,
+    "low_risk": 9
+   },
+   "weighted_score": 134.1
+  },
+  {
+   "title": "First new living wild cat species in 100+ years: Leopardus tilcayo",
+   "summary": "Tiny 3-pound cloud-forest cat from Bolivia's Yungas described in Current Biology; split from tiger cats ~1.4M years ago.",
+   "category": "science",
+   "date": "2026-09-17",
+   "sources": [
+    "https://www.washingtonpost.com/climate-environment/2026/09/17/new-cat-species-discovered-bolivia/",
+    "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow",
+    "https://news.mongabay.com/2026/09/a-new-cat-species-was-just-discovered-several-more-may-follow/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 9,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 134.1
+  },
+  {
+   "title": "Tardigrades survived the vacuum of space",
+   "summary": "In ESA's 2007 FOTON-M3 experiment, water bears survived open-space exposure and some even reproduced afterwards.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.britannica.com/animal/tardigrade",
+    "https://www.cell.com/current-biology/fulltext/S0960-9822(08)00805-1"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 133.6
+  },
+  {
+   "title": "Harvest Moon rises over erupting Mount Etna (NASA APOD)",
+   "summary": "Oct 1 APOD shows the Harvest Moon, Belt of Venus and Etna's ash plume - a great hook to explain the Belt of Venus and antitwilight.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
+    "https://www.timeanddate.com/astronomy/moon/harvest.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 10,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 133.4
+  },
+  {
+   "title": "SpaceX Transporter-18 lofts 130 payloads in one rideshare",
+   "summary": "Falcon 9 launched 130 payloads to sun-synchronous orbit from Vandenberg on Oct 1, including Google's TPU satellite, Starfish Otter and NASA SPRITE.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+    "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/",
+    "https://x.com/SpaceX/status/2105697062927147516"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 6,
+    "low_risk": 10
+   },
+   "weighted_score": 133.2
+  },
+  {
+   "title": "Google sends AI chips (TPUs) to orbit to test space data centers",
+   "summary": "Transporter-18 carried 130 payloads incl. Project Suncatcher pathfinder testing solar-powered AI computing in orbit.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+    "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/",
+    "https://www.scrippsnews.com/science-and-tech/space/could-ai-data-centers-run-in-space-google-launches-its-first-test"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 8
+   },
+   "weighted_score": 132.9
+  },
+  {
+   "title": "It rains diamonds inside Neptune and Uranus",
+   "summary": "Lab shock experiments (SLAC, Nature Astronomy 2017) show hydrocarbons can turn into diamonds under ice-giant pressures.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/articles/s41550-017-0219-9",
+    "https://www6.slac.stanford.edu/news/2017-08-21-scientists-see-diamond-rain-form-interior-icy-giant-planets"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 10,
+    "factual_certainty": 7,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 132.6
+  },
+  {
+   "title": "Starfish Space's first Otter launches to inspect dead satellites for NASA",
+   "summary": "The ~300 kg Otter servicer launched on Transporter-18 for NASA's $15M SSPICY mission to approach and inspect multiple defunct US satellites.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.geekwire.com/2026/nasa-sspicy-starfish-space-otter-debut/",
+    "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+    "https://www.nasa.gov/blogs/smallsatellites/2026/10/01/nasa-smallsats-launch-to-advance-science-technology-orbital-operations/",
+    "https://commstrader.com/technology/spacex-sends-starfish-spaces-first-otter-space-vehicle-into-orbit/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 132.4
+  },
+  {
+   "title": "Meta VR Glasses: ~100 g headset, 5x lighter than Quest 3, coming spring 2027",
+   "summary": "Unveiled at Connect 2026 with micro-OLED 2,412x2,288 per-eye displays and a belt puck; $1,299.99.",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/",
+    "https://www.tomsguide.com/news/live/meta-connect-2026-live",
+    "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 131.2
+  },
+  {
+   "title": "Chandrayaan-3's rover confirmed sulphur near the Moon's south pole",
+   "summary": "Pragyan's LIBS instrument made the first in-situ detection of sulphur in the south polar region in 2023.",
+   "category": "science",
+   "date": "2023-08-29",
+   "sources": [
+    "https://www.isro.gov.in/Chandrayaan3_Details.html",
+    "https://www.nature.com/articles/s41550-024-02242-1"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 8,
+    "india_relevance": 10,
+    "low_risk": 10
+   },
+   "weighted_score": 130.6
+  },
+  {
+   "title": "Sunlight you see is about 8 minutes old",
+   "summary": "Light takes ~8 min 20 s to travel 150 million km from the Sun, so you always see the Sun's past.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/sun/facts/",
+    "https://www.esa.int/Science_Exploration/Space_Science/Sun"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 3,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 10,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 129.5
+  },
+  {
+   "title": "You are spinning at ~1,670 km/h right now",
+   "summary": "Earth's rotation carries the equator at about 1,670 km/h, yet we don't feel it because motion is steady.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/earth/facts/",
+    "https://www.britannica.com/place/Earth"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 3,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 129.0
+  },
+  {
+   "title": "OpenAI releases GPT-6.1 Sol at one-fifth of GPT-6 Astra's price",
+   "summary": "GPT-6.1 Sol nearly matches GPT-6 Astra on agentic coding and computer use at $2/$10 per million input/output tokens, with 95% cached-input discount.",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
+    "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+    "https://www.testingcatalog.com/openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-pricing/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 9,
+    "evergreen_value": 5,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 128.9
+  },
+  {
+   "title": "Your gut has its own 'second brain' of ~100 million neurons",
+   "summary": "The enteric nervous system lining the gut can operate largely independently of the brain.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-brain-gut-connection",
+    "https://health.howstuffworks.com/human-body/parts/16-unusual-facts-about-the-human-body.htm"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted_score": 128.6
+  },
+  {
+   "title": "Astronaut footprints on the Moon could last millions of years",
+   "summary": "With no wind or water on the Moon, Apollo bootprints erode only via micrometeorites over immense timescales.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/moon/",
+    "https://www.britannica.com/place/Moon"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 4,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_score": 128.3
+  },
+  {
+   "title": "Some bamboo grows nearly a metre in a day",
+   "summary": "Certain bamboo species can grow up to ~91 cm in 24 hours, the fastest-growing plants on Earth.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.guinnessworldrecords.com/world-records/fastest-growing-plant",
+    "https://www.britannica.com/plant/bamboo"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 8,
+    "low_risk": 10
+   },
+   "weighted_score": 128.1
+  },
+  {
+   "title": "Bats first evolved in Europe 65 million years ago",
+   "summary": "Largest bat genome+fossil study (103 species, Nature) places bat origin in Europe; flight and echolocation appeared early.",
+   "category": "science",
+   "date": "2026-09-29",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+    "https://news.stonybrook.edu/university/new-genomic-research-reveals-bats-originated-in-europe-2/",
+    "https://phys.org/news/2026-09-genomes-fossils-european-million-years.html",
+    "https://www.euronews.com/2026/09/26/forget-asia-and-africa-bats-originated-in-europe-65-million-years-ago"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 127.8
+  },
+  {
+   "title": "Babies have about 300 bones; adults have 206",
+   "summary": "Many infant bones (skull, spine, pelvis) fuse during growth.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://kidshealth.org/en/parents/bones.html",
+    "https://www.natgeokids.com/uk/discover/science/general-science/15-facts-about-the-human-body/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_score": 127.1
+  },
+  {
+   "title": "C.V. Raman's discovery: light changes colour when it scatters off molecules",
+   "summary": "The Raman effect (Nobel 1930) - a tiny fraction of scattered light shifts in energy, now used to fingerprint molecules.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+    "https://www.britannica.com/science/Raman-effect"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 10,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 10,
+    "low_risk": 10
+   },
+   "weighted_score": 126.9
+  },
+  {
+   "title": "Your blood vessels could wrap around Earth twice",
+   "summary": "An adult has roughly 100,000 km (60,000 miles) of blood vessels.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.fi.edu/en/heart/blood-vessels",
+    "https://www.newsweek.com/mind-blowing-facts-about-your-body-human-1638872"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 9,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_score": 126.8
+  },
+  {
+   "title": "Bananas are slightly radioactive",
+   "summary": "Bananas contain potassium-40, a natural radioactive isotope - harmless, but measurable.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.epa.gov/radtown/radiation-food",
+    "https://www.britannica.com/science/potassium-40"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 4,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 126.7
+  },
+  {
+   "title": "Hubble completes 200,000 orbits while hunting a reappearing supernova",
+   "summary": "Hubble's 200,000th orbit (5B+ miles) coincided with watching for lensed supernova 'Athena' expected to reappear by Mar 2027.",
+   "category": "science",
+   "date": "2026-09-19",
+   "sources": [
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+    "https://phys.org/news/2026-09-nasa-hubble-lensed-supernova-orbits.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 10,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 126.6
+  },
+  {
+   "title": "Atoms are 99.9999999% empty space",
+   "summary": "An atom's nucleus is ~100,000 times smaller than the atom; nearly all its volume is empty, held by electron clouds.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.britannica.com/science/atom",
+    "https://home.cern/science/physics"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 4,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 126.4
+  },
+  {
+   "title": "BYD Da Han EV launching Oct 13 with 1,008 km range and 5-minute flash charging",
+   "summary": "All variants get 1,500 kW flash charging (10-70% in 5 min); CLTC range up to 1,008 km.",
+   "category": "ai_tech",
+   "date": "2026-09-25",
+   "sources": [
+    "https://cnevpost.com/2026/09/25/byd-to-launch-da-han-oct-13/",
+    "https://electrek.co/2026/09/25/byd-sets-launch-date-flagship-han-ev-1000-km-range/",
+    "https://driveteslacanada.ca/news/byd-great-han-launches-october-13-with-more-than-1000-km-of-range/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted_score": 125.9
+  },
+  {
+   "title": "Curiosity rover hits 5,000 Martian days with a hand-coloured 'postcard'",
+   "summary": "Designed for one Mars year, Curiosity passed sol 5000; NASA blended morning/afternoon Navcam images on Mount Sharp.",
+   "category": "science",
+   "date": "2026-09-18",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
+    "https://www.gjsentinel.com/news/national/nasa-s-curiosity-rover-marks-5-000-days-on-mars-with-special-postcard/article_95d1a0ab-46e4-5380-bfc7-03a98d532c7c.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 125.7
+  },
+  {
+   "title": "Crew-13: Joshua Kutryk becomes first Canadian launched under NASA Commercial Crew",
+   "summary": "CSA astronaut Kutryk begins a ~6-month ISS mission, carrying a 100-year-old family pocket watch.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
+    "https://abcnews.com/US/nasas-spacex-crew-13-astronaut-bringing-100-year/story?id=136906539",
+    "https://www.cbc.ca/news/canada/livestory/crew-13-launch-october-1-canadian-astronaut-joshua-kutruk-iss-mission-nasa-9.7363250"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 9,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 124.1,
+   "note": "Ranked #1 by score but demoted: the last two videos (Starship orbit, quantum processor in orbit) were both space stories; third space video in a row hurts variety/novelty. Kept as runner-up."
+  },
+  {
+   "title": "Water expands when it freezes - and that saves aquatic life",
+   "summary": "Unlike most substances, ice is less dense than water, so lakes freeze top-down and fish survive below.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.usgs.gov/special-topics/water-science-school/science/ice-and-water",
+    "https://www.britannica.com/science/ice"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 10,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 123.5
+  },
+  {
+   "title": "Giant Australian stick insect with never-seen 'lidded' eggs",
+   "summary": "University of Sydney names Anchiale mabiensis (eggs with a lid) and A. robusta, misidentified for decades.",
+   "category": "science",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.sydney.edu.au/news-opinion/news/2026/09/22/new-stick-insect-species-revealed-in-australia-s-backyards-and-r.html",
+    "https://phys.org/news/2026-09-large-insect-species-australia-backyards.html",
+    "https://www.sciencedaily.com/releases/2026/09/260930020315.htm"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 123.3
+  },
+  {
+   "title": "Apple's foldable iPhone Duo arrives in October",
+   "summary": "iPhone Duo (5.5in cover, 7.8in inner, $1,999) announced Sep 9 ships in October.",
+   "category": "ai_tech",
+   "date": "2026-09-09",
+   "sources": [
+    "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+    "https://www.cnn.com/2026/09/09/business/live-news/apple-event-foldable-iphone-ternus"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 2,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 9,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 10,
+    "evergreen_value": 4,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "weighted_score": 122.8
+  },
+  {
+   "title": "Honey never spoils - edible honey found in ancient tombs",
+   "summary": "Low water, high acidity and natural hydrogen peroxide make honey hostile to microbes.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+    "https://www.britannica.com/topic/honey"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 8,
+    "evergreen_value": 10,
+    "india_relevance": 6,
+    "low_risk": 10
+   },
+   "weighted_score": 122.2
+  },
+  {
+   "title": "Public PoC released for exploited Apple CoreGraphics bug triggered by a malicious PDF font",
+   "summary": "Researchers at Calif published a proof-of-concept for CVE-2026-86950, patched in iOS 26.7.1; they used an AI agent to craft the malicious font.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+    "https://securityaffairs.com/200175/hacking/public-poc-released-for-apple-coregraphics-zero-day-cve-2026-86950.html",
+    "https://www.cyberkendra.com/2026/10/cve-2026-86950-the-coregraphics-glyph-bug-that-hit-iphones.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 7,
+    "low_risk": 6
+   },
+   "weighted_score": 121.2
+  },
+  {
+   "title": "Runway enters robotics with open-weight world-action model Praxis-1",
+   "summary": "Runway's Praxis-1 uses video pretraining to control real robots across embodiments; weights to be released publicly in coming months.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://runway.com/research/introducing-praxis-1",
+    "https://roboticsandautomationnews.com/2026/10/01/runway-moves-into-robotics-with-open-weight-praxis-1-ai-model/105402/",
+    "https://alphasignal.ai/news/runway-s-praxis-1-teaches-robots-physical-skills-using-web-video"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_score": 120.7
+  },
+  {
+   "title": "Anthropic red-team report: China's open GLM-5.3 builds exploits near Claude Mythos level",
+   "summary": "Anthropic says Z.ai's open-weight GLM-5.3 built working exploits in ~12% of attempts (vs 14% for Mythos Preview) and its safeguards are easily bypassed.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+    "https://gigazine.net/gsc_news/en/20260930-anthropic-warned-about-glm-5-3-risk",
+    "https://www.trendingtopics.eu/anthropic-glm-5-3-cyber-warning/",
+    "https://business-standard.com/technology/artificial-intelligence/anthropic-s-glm-5-3-concerns-put-us-china-open-ai-debate-back-in-focus-126100100743_1.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 5,
+    "low_risk": 6
+   },
+   "weighted_score": 118.8
+  },
+  {
+   "title": "Tesla pushes next-gen Roadster 'flying' reveal from Oct 1 to Oct 15 over weather",
+   "summary": "Tesla's Waco reveal featuring a SpaceX cold-gas thruster demo was moved to Oct 15 citing severe central-Texas weather.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://electrek.co/2026/09/28/tesla-roadster-demo-weather-delay-warning",
+    "https://www.autonext.co/news/tesla-roadster-reveal-15-october-weather-delay-700-kg-wing-patent",
+    "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 9,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 5,
+    "search_interest": 10,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 6
+   },
+   "weighted_score": 118.6
+  },
+  {
+   "title": "OpenAI DevDay 2026: 20+ launches including Dots and Sol",
+   "summary": "OpenAI's DevDay recap lists more than 20 products and updates centred on agents.",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://openai.com/index/devday-2026-recap/",
+    "https://memeburn.com/openai-devday-2026-recap",
+    "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 9,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 118.4
+  },
+  {
+   "title": "Claude autonomously discovers CRISPR-like 'ART' enzyme system in phage DNA",
+   "summary": "~950 Claude agents searched for 21 hours and found array-associated reverse transcriptases; function still unknown.",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "https://gizmodo.com/claude-found-a-mysterious-crispr-like-system-but-anthropic-cant-say-what-its-capable-of-2000816906",
+    "https://interestingengineering.com/ai-robotics/claude-discovers-crispr-like-enzyme-system"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 8,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 118.0
+  },
+  {
+   "title": "Redmi 17C 5G launches in India with 6,000 mAh battery and 120Hz display",
+   "summary": "Priced from Rs 20,999 (4GB+128GB); Dimensity 6300, 6.9-inch 120Hz screen, 50MP camera, IP64; sale from Oct 7.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.digit.in/news/mobile-phones/redmi-17c-5g-launched-in-india-price-specs-and-sale-date.html",
+    "https://www.91mobiles.com/hub/redmi-note-17c-launched-india/",
+    "https://www.freepressjournal.in/tech/redmi-17c-5g-with-120hz-display-launched-in-india-price-specifications"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 2,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted_score": 117.0
+  },
+  {
+   "title": "Ray-Ban Meta Gen 3 smart glasses with 9-hour battery",
+   "summary": "Third-gen Ray-Ban Meta glasses are slimmer with a dedicated Meta AI button and 9 hours of use vs 8.",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+    "https://www.tomsguide.com/news/live/meta-connect-2026-live"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted_score": 116.4
+  },
+  {
+   "title": "Jessica Watkins becomes first NASA astronaut to launch on Dragon twice",
+   "summary": "Crew-13's Watkins, previously on Crew-4 (170 days in space), flew Dragon a second time.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.nasa.gov/blogs/commercialcrew/2026/10/01/meet-the-crew-of-nasas-spacex-crew-13/",
+    "https://www.wknofm.org/2026-09-30/nasas-spacex-crew-13-prelaunch-news-conference-sept-30-2026"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 8,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 9,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 116.4
+  },
+  {
+   "title": "ISRO's Santulan programme: what Gaganyaan astronauts will eat",
+   "summary": "ISRO's nutrition-focused programme prepares Gaganyaan crew; TV-D2 abort test planned Q4 2026 and NVS-03 launch Oct 13.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://indianmasterminds.com/news/gaganyaan-astronaut-nutrition-isro-santulan-programme-238301",
+    "https://en.wikipedia.org/wiki/Test_Vehicle_Abort_Mission-2"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 10,
+    "low_risk": 9
+   },
+   "weighted_score": 115.9
+  },
+  {
+   "title": "Superfluid helium qubit could cut quantum errors ~100x",
+   "summary": "Univ. of Surrey/Northwestern design (SHOQ) uses charge-neutral superfluid helium-3 to shield qubits from electromagnetic noise (npj Quantum Information); theoretical so far.",
+   "category": "science",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+    "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
+    "https://www.nanowerk.com/nanotechnology-news3/newsid=70315.php"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_score": 115.8
+  },
+  {
+   "title": "Meta Muse Charm: keychain-size AI agent device",
+   "summary": "A ~2-inch-screen keychain with dual cameras, fingerprint sensor and 5G for talking to Meta's Muse agent; due December 2026.",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://www.shacknews.com/article/150807/muse-charm-revealed-at-meta-connect-2026",
+    "https://www.thelec.net/news/articleView.html?idxno=14189",
+    "https://www.cbsnews.com/news/new-ai-gadgets-tech-companies/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted_score": 115.0
+  },
+  {
+   "title": "Nvidia RTX Spark AI PCs ship in October from six partners",
+   "summary": "Grace CPU + Blackwell GPU superchip with up to 1 petaflop AI and 128GB unified memory; Asus, Dell, HP, Lenovo, Surface, MSI.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
+    "https://www.nvidia.com/en-us/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 114.9
+  },
+  {
+   "title": "Google partners Planet for two more Suncatcher satellites in 2027 to test laser links",
+   "summary": "Planet contracted to deploy two prototype satellites targeting 2027 launch.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+    "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-tpus-into-orbit-with-planet-labs-envisions-1km-arrays-of-81-satellite-compute-clusters/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 114.5
+  },
+  {
+   "title": "SpaceX triple-launch day: Crew-13, Transporter-18 and more on Oct 1",
+   "summary": "SpaceX flew Crew-13 from Florida and Transporter-18 from California on the same day.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://starlust.org/video/w129-launching-mupvvv1p/",
+    "https://www.newsnationnow.com/space/crew-13-astronauts-payloads-space-x-launches/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 114.4
+  },
+  {
+   "title": "Planet launches Tanager-2 methane-hunting satellite and 18 SuperDoves",
+   "summary": "Planet flew Tanager-2 with Carbon Mapper plus 18 SuperDoves on Transporter-18.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://x.com/planet/status/2105522649707532749",
+    "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 3,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 113.7
+  },
+  {
+   "title": "NASA advances PRIMA, first of a new class of 'probe' telescopes",
+   "summary": "Far-infrared PRIMA moves to Phase B, $1.2B cap, 2033 target launch, to study dust, planets and galaxy growth.",
+   "category": "science",
+   "date": "2026-09-30",
+   "sources": [
+    "https://hub.jhu.edu/2026/09/30/nasa-space-telescope-project-hopkins-team/",
+    "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
+    "https://www.mpia.de/news/2026-prima-phase-b?c=5313826"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 9,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 112.4
+  },
+  {
+   "title": "Atoms recreate a 40-year-old quantum 'energy ladder' prediction",
+   "summary": "Caltech used 35 laser-trapped strontium atoms to directly measure Cardy's conformal field theory energy ratios at quantum phase transitions (Nature).",
+   "category": "science",
+   "date": "2026-09-28",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+    "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
+    "https://quantumcomputingreport.com/caltech-researchers-measure-conformal-field-theory-spectra-on-a-neutral-atom-quantum-simulator/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 5,
+    "explainable_in_45s": 4,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 111.7
+  },
+  {
+   "title": "Light-based AI scans a dozen videos at once to catch deepfakes",
+   "summary": "UCLA optical AI system analyzes 12+ videos simultaneously, detecting deepfakes with ~98% accuracy.",
+   "category": "science",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 8
+   },
+   "weighted_score": 111.3
+  },
+  {
+   "title": "'Nightmare fuel' sea spiders: two bizarre new species",
+   "summary": "New sea spiders incl. Callipallene pilosuspedes with spiny legs, red eyes and clawed proboscis.",
+   "category": "science",
+   "date": "2026-09-25",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260925005412.htm"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 110.8
+  },
+  {
+   "title": "Starfish Otter's SSPICY mission paves way for satellite life-extension and deorbit",
+   "summary": "Otter is a precursor to life-extension/deorbit missions contracted by Intelsat and the US military.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+    "https://newspaceeconomy.ca/2026/09/28/can-starfish-turn-its-otter-servicing-spacecraft-into-a-repeatable-business/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 7,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 109.4
+  },
+  {
+   "title": "NASA-funded SPRITE ultraviolet telescope CubeSat launches",
+   "summary": "NASA's SPRITE telescope was among the 130 Transporter-18 payloads.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.nasa.gov/blogs/smallsatellites/2026/10/01/nasa-smallsats-launch-to-advance-science-technology-orbital-operations/",
+    "https://starlust.org/watch-space-xs-transporter-18-sends-googles-ai-test-satellite-to-orbit-with-129-other-payloads/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 8,
+    "search_interest": 3,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 108.9
+  },
+  {
+   "title": "OpenAI Codex Security Cloud gets Daybreak Blue cyber models by default",
+   "summary": "Always-on repo scanning, continuous commit review and fix drafts now use Daybreak Blue defensive cyber models; research preview for Pro/Business/Enterprise/Edu.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://cybersecuritynews.com/openai-rolled-out-codex-security-cloud/amp/",
+    "https://gbhackers.com/openai-launches-codex-security-cloud/",
+    "https://x.com/OpenAI/status/2104987422308335828"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted_score": 108.0
+  },
+  {
+   "title": "OnePlus 16 officially set for Oct 12 China launch with 9,000 mAh battery",
+   "summary": "OnePlus confirmed the date; Snapdragon 8 Elite Extreme Gen 6, 165Hz display with 185Hz gaming mode, 200MP main camera.",
+   "category": "ai_tech",
+   "date": "2026-09-28",
+   "sources": [
+    "https://www.androidauthority.com/oneplus-16-launch-date-3715892/",
+    "https://www.notebookcheck.net/OnePlus-16-gets-an-official-launch-date-to-arrive-with-strongest-performance-ever.1410262.0.html",
+    "https://www.androidheadlines.com/2026/09/mark-your-calendars-oneplus-16-is-coming-on-october-12-with-beastly-specs.html"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 8,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 7
+   },
+   "weighted_score": 107.3
+  },
+  {
+   "title": "Bitget confirms third-party zero-day behind $387.5M crypto theft",
+   "summary": "Crypto exchange Bitget said attackers used a zero-day in third-party security products to move into its wallet systems; it attributes the attack to North Korean actors.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+    "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+    "https://www.cryptotimes.io/2026/09/30/bitget-387-5m-hack-slowmist-and-mandiant-say-zero-day-attack-began-weeks-before-theft/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 4
+   },
+   "weighted_score": 106.7
+  },
+  {
+   "title": "The shape of the ocean floor steers Earth's climate",
+   "summary": "Study in Ocean-Land-Atmosphere Research shows seafloor bathymetry shapes large-scale ocean circulation and global climate.",
+   "category": "science",
+   "date": "2026-09-29",
+   "sources": [
+    "https://www.earth.com/earth-science/earths-ocean-floor-has-a-surprisingly-powerful-effect-on-climate/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 106.3
+  },
+  {
+   "title": "Microsoft's new Copilot with Home, Code and Autopilot",
+   "summary": "Microsoft introduced a redesigned Copilot with Home, Code and Autopilot modes.",
+   "category": "ai_tech",
+   "date": "2026-09-25",
+   "sources": [
+    "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted_score": 105.8
+  },
+  {
+   "title": "'Cretaceous rabbit' fossil overturns 40-year mammal evolution idea",
+   "summary": "Near-complete Tamirkhan balcarceli from the Gobi shows zhelestids were not early relatives of placental mammals.",
+   "category": "science",
+   "date": "2026-09-25",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+    "https://en.wikipedia.org/wiki/2026_in_paleomammalogy"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 105.4
+  },
+  {
+   "title": "Tesla Roadster to demo SpaceX cold-gas thrusters for sub-2s 0-60",
+   "summary": "Reported 'hover' demo at SpaceX McGregor site; car run remotely with spectators kept back.",
+   "category": "ai_tech",
+   "date": "2026-09-20",
+   "sources": [
+    "https://www.techtimes.com/articles/327773/20260920/tesla-roadster-lands-oct-1-reveal-spacex-thrusters-bypass-tire-grip-physics.htm",
+    "https://www.technology.org/2026/09/14/tesla-roadster-reveal-date-october-2026-thrusters/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 3,
+    "search_interest": 9,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "weighted_score": 105.2
+  },
+  {
+   "title": "A 2-billion-year-old carbon clue to Earth's oxygen may have been misread",
+   "summary": "Caltech-led study says Zaonega isotopic signal may come from local magma, methane and microbes, not a global carbon upheaval.",
+   "category": "science",
+   "date": "2026-09-25",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+    "https://www.inkl.com/news/scientists-may-have-got-one-of-earths-biggest-ancient-mysteries-wrong-a-2-billion-year-old-carbon-clue-thought-to-reveal-a-global-change-may-actually-point-to-magma-methane-and-microbes"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 104.7
+  },
+  {
+   "title": "Blue Origin seeks to sharply increase New Glenn launch rate after May pad explosion",
+   "summary": "Blue Origin wants permission for many more New Glenn launches from Cape Canaveral.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://aiaa.org/2026/10/01/blue-origin-eyes-major-increase-in-new-glenn-launches/",
+    "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_score": 104.4
+  },
+  {
+   "title": "Google September 2026 Pixel Drop: keyboard scam detection, Motion Assist",
+   "summary": "Pixel Drop adds scam warnings in Gboard, motion-sickness cues and Gemini Find Hub memory.",
+   "category": "ai_tech",
+   "date": "2026-09-15",
+   "sources": [
+    "https://www.androidauthority.com/pixel-drop-september-2026-all-new-features-3711242/",
+    "https://www.digitaltrends.com/phones/google-september-2026-pixel-drop/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 103.6
+  },
+  {
+   "title": "Cowboy Space plans Reason-2 to fly H200 GPUs in 2027",
+   "summary": "Reason-2 will use the same laser for data links while carrying Nvidia H200 GPUs in H1 2027.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_score": 102.4
+  },
+  {
+   "title": "Vivo X Fold 6 goes global with OriginOS 7; India launch Oct 6",
+   "summary": "The 8.02-inch foldable announced in China in June reportedly launched globally Oct 1 with India to follow Oct 6.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.mymobileindia.com/vivo-x-fold-6-global-launch-date-confirmed-for-october-1/",
+    "https://www.megamobilecontent.com/news/2026/09/27/vivo-x-fold-6-global-launch-october-1-india-october-6/",
+    "https://www.gsmarena.com/vivo_x_fold6_global_and_india_launch_date_leaked-news-74790.php"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 7
+   },
+   "weighted_score": 101.7
+  },
+  {
+   "title": "AI helps physicists compute N=4 super Yang-Mills to nine loops",
+   "summary": "Theorists working with Claude AI reached a nine-loop calculation, described as AI's first meaningful theoretical-physics breakthrough.",
+   "category": "science",
+   "date": "2026-09-30",
+   "sources": [
+    "https://bigthink.com/starts-with-a-bang/ai-first-breakthrough-theoretical-physics/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 6,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 4,
+    "visual_potential": 4,
+    "wow_factor": 7,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted_score": 101.6
+  },
+  {
+   "title": "Sarvam AI's Saaras V4 speech model covers 22 Indian languages",
+   "summary": "Speech recognition for 22 Indian languages + English with code-mixed handling and <150 ms streaming latency.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://aiproducts.in/blog/sarvam-ai-2026-what-indian-businesses-can-use/",
+    "https://en.wikipedia.org/wiki/Sarvam_AI"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 10,
+    "low_risk": 9
+   },
+   "weighted_score": 100.8
+  },
+  {
+   "title": "Meta Ray-Ban Meta Audio: first audio-only AI glasses",
+   "summary": "Meta introduced audio-only AI glasses alongside Gen 3 and VR Glasses at Connect 2026.",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://www.geeky-gadgets.com/meta-connect-2026-announcements/",
+    "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 100.4
+  },
+  {
+   "title": "Alexa+ arrives in the Fire TV mobile app with conversational search",
+   "summary": "Amazon is bringing Alexa+ text/voice search and recommendations into the Fire TV app.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://aboutamazon.com/news/devices/alexa-plus-fire-tv-hub-mobile-app-updates",
+    "https://androidauthority.com/amazon-alexa-plus-upgrades-fire-tv-3717289"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 100.2
+  },
+  {
+   "title": "GM's lithium-manganese-rich (LMR) EV battery wins Battery Innovation of the Year",
+   "summary": "GM's LMR chemistry, using cheaper Earth-abundant manganese, won at the Battery Show North America.",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_score": 99.5
+  },
+  {
+   "title": "Crew-13 Falcon 9 booster nails landing",
+   "summary": "The first stage that launched Crew-13 landed successfully.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://starlust.org/watch-space-x-launches-nas-as-crew-13-on-a-record-fast-trip-to-the-iss-falcon-9-booster-nails-landing/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 2,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 99.3,
+   "note": "Ranked #1 by score but demoted: the last two videos (Starship orbit, quantum processor in orbit) were both space stories; third space video in a row hurts variety/novelty. Kept as runner-up."
+  },
+  {
+   "title": "Calif researchers used an AI agent to craft the Apple PDF-font exploit trigger",
+   "summary": "The CoreGraphics PoC's malicious font and transform values were generated by an AI agent.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 6
+   },
+   "weighted_score": 99.0
+  },
+  {
+   "title": "Lenovo/Asus/Dell RTX Spark laptops: 128GB unified memory for local AI agents",
+   "summary": "Microsoft and Nvidia pitch the first Windows PCs built for personal AI agents.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://tech-insider.org/nvidia-rtx-spark-ai-pc-launch-2026/",
+    "https://www.nvidia.com/en-us/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 98.9
+  },
+  {
+   "title": "Gnani AI launches Great Indian AI Internship Challenge",
+   "summary": "Up to 100 paid internships with stipends up to Rs 1 lakh/month for students building on Gnani's models.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup--october-1-2026"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 10,
+    "low_risk": 9
+   },
+   "weighted_score": 97.9
+  },
+  {
+   "title": "Gemini gets reusable skills: Workspace rollout from Oct 5, Gemini app from Oct 13",
+   "summary": "Google is rolling out reusable 'skills' in Gemini, completing by mid-November.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://releasebot.io/updates/google/gemini"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_score": 97.7
+  },
+  {
+   "title": "Waymo opens robotaxi service in Dallas, Houston, San Antonio and Orlando",
+   "summary": "Waymo now serves 10 US metros and targets 1M weekly rides by end of 2026.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://america.evinnovationsummit.com/company-insights/waymo-robotaxi-expansion-driverless-ride-service-heads-to-four-new-u-s-cities/",
+    "https://www.ktsm.com/news/waymos-2026-expansion-plans-explained-where-robotaxis-go-next/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 5,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_score": 96.6
+  },
+  {
+   "title": "AgiBot overtakes Unitree as top humanoid robot maker by shipments",
+   "summary": "Smart Analytics Global: ~19,100 humanoids shipped in H1 2026 (+272%); AgiBot 44%, Unitree 31%.",
+   "category": "ai_tech",
+   "date": "2026-08-11",
+   "sources": [
+    "https://smartanalyticsglobal.com/global-humanoid-robot-shipments-2026-agibot-unitree/",
+    "https://www.digitimes.com/news/a20260812PD207/shipments-robot-2026-market-data.html",
+    "https://www.semafor.com/article/08/11/2026/agibot-passes-unitree-as-chinas-top-humanoid-exporter"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 96.0
+  },
+  {
+   "title": "ISRO's first serial-production SSLV flight targeted for October",
+   "summary": "SSLV mission (NET October 2026) from Sriharikota; date not fixed.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_SSLV_launches",
+    "https://nextspaceflight.com/launches/?f=agency_50"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted_score": 95.9
+  },
+  {
+   "title": "Astribot brings $18K T1 humanoid to North America at IROS 2026",
+   "summary": "Astribot showcased its T1 humanoid and Physical AI stack in Pittsburgh (IROS, Sep 27-Oct 1).",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://androidguys.com/news/astribot-brings-18k-humanoid-robot-and-integrated-physical-ai-stack-to-north-america"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_score": 95.6
+  },
+  {
+   "title": "Samsung partners with Artists Rights Society to bring masterpieces to Samsung TVs",
+   "summary": "Samsung Art Store adds works via Artists Rights Society.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://samsung.com/us/news/20294"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 3,
+    "audience_interest": 3,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_score": 95.5
+  },
+  {
+   "title": "GitHub Copilot can now operate desktop apps via computer use",
+   "summary": "A tracker reports Copilot gained computer use for desktop apps as of Oct 1.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.havoptic.com/tools/github-copilot"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted_score": 95.4
+  },
+  {
+   "title": "Canadian GHGSat methane satellites and NordSpace's Terra Nova ride Transporter-18",
+   "summary": "Two GHGSat methane-monitoring sats and NordSpace's first satellite launched Oct 1.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://spaceq.ca/spacex-transporter-18-three-canadian-satellites/",
+    "https://www.nasaspaceflight.com/2026/10/transporter-18/"
+   ],
+   "validated": true,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 2,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 95.2
+  },
+  {
+   "title": "BYD September sales hit 2026 high of 463,561 vehicles",
+   "summary": "BYD's September sales rose 16.98% to 463,561 units.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 3,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_score": 94.4
+  },
+  {
+   "title": "Octupolar magnetism: a hidden new form of magnetic order",
+   "summary": "Physicists identify octupolar magnetism, opening a route to previously inaccessible magnetic states for quantum tech.",
+   "category": "science",
+   "date": "2026-09-29",
+   "sources": [
+    "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 3,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 93.0
+  },
+  {
+   "title": "Anthropic: Barclays scales Claude across operations",
+   "summary": "Anthropic announced Barclays is scaling Claude to upgrade operations and client experience.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.anthropic.com/news"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 92.7
+  },
+  {
+   "title": "India's e-2W registrations rebound 12% month-on-month in September",
+   "summary": "Electric two-wheeler registrations rose 12% MoM; Ather and Ola lost share.",
+   "category": "ai_tech",
+   "date": "2026-10-02",
+   "sources": [
+    "https://inc42.com/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 10,
+    "low_risk": 7
+   },
+   "weighted_score": 92.6
+  },
+  {
+   "title": "China unveils humanoid built on domestic electronic architecture designed to stay safe during faults",
+   "summary": "Chinese team unveiled a humanoid designed around a domestic electronic architecture with fault-safe behaviour.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://interestingengineering.com/ai-robotics/china-unveils-worlds-first-humanoid-built-around-a-domestic-electronic-architecture"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_score": 90.9
+  },
+  {
+   "title": "OpenRouter extends free 'Space Bunny Alpha' stealth model (1M context) to Oct 5",
+   "summary": "Anonymous multimodal model with 1M-token context and 524,288-token outputs; tokenizer clues point to MiniMax.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://openrouter.ai/stealth",
+    "https://daily.dev/posts/space-bunny-alpha-what-the-new-stealth-model-on-openrouter-can-actually-do-rjj4m5ig9",
+    "https://cellcog.ai/blog/what-is-space-bunny-alpha/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted_score": 89.9
+  },
+  {
+   "title": "Volvo ES90 electric sedan India launch slated Oct 12",
+   "summary": "Volvo's 800V SPA2 ES90 (~106 kWh) expected Oct 12.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://autocarindia.com/car-news/upcoming-car-launches-and-debuts-in-october-2026-440877"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 6,
+    "source_credibility": 7,
+    "novelty": 3,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 9,
+    "low_risk": 8
+   },
+   "weighted_score": 89.6
+  },
+  {
+   "title": "Nvidia RTX Spark roadmap: Rubin with LPDDR6, then 'Rosa Feynman'",
+   "summary": "Nvidia outlined three generations of RTX Spark PC chips.",
+   "category": "ai_tech",
+   "date": "2026-06-02",
+   "sources": [
+    "https://www.tomshardware.com/pc-components/cpus/nvidia-unveils-dgx-sparrk-roadmap-for-laptops-and-desktop-pcs-at-computex-2026-three-generations-outlined-rubin-followed-by-rosa-feynman"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 1,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_score": 89.6
+  },
+  {
+   "title": "CISA adds exploited Cisco Catalyst SD-WAN Manager auth bypass (CVSS 9.8) to KEV",
+   "summary": "CVE-2026-76504 lets an unauthenticated remote attacker gain admin privileges; CISA added it to its Known Exploited Vulnerabilities list.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted_score": 87.2
+  },
+  {
+   "title": "DOE releases national quantum computing roadmap",
+   "summary": "A Fermilab-chaired subcommittee effort produced a DOE national quantum computing roadmap.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/09/30/the-qubit-report-september-30-2026/",
+    "https://drbobsutor.substack.com/p/daily-quantum-update-for-wednesday-670"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 4,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_score": 86.8
+  },
+  {
+   "title": "Meridian Space tests LEO comms with First Customer Link",
+   "summary": "Meridian Space's first satellite flew on Transporter-18 to test its LEO communications tech.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 2,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 2,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_score": 86.3
+  },
+  {
+   "title": "GitHub Copilot CLI adds GPT-6.1 Sol support",
+   "summary": "Copilot CLI v1.0.90 (Sep 30) added GPT-6.1 Sol model selection; v1.0.91 shipped Oct 1.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.havoptic.com/tools/github-copilot"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted_score": 86.3
+  },
+  {
+   "title": "ANYbotics launches Shift for robot-fleet industrial inspections",
+   "summary": "Shift helps maintenance teams run inspections with robot fleets and turn data into work orders.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.therobotreport.com/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 2,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_score": 85.2
+  },
+  {
+   "title": "Volantis raises $88M to link AI chips with VCSEL lasers",
+   "summary": "Startup using vertical-cavity surface-emitting lasers to connect AI and memory chips raised a Series A.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.techmeme.com/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 7
+   },
+   "weighted_score": 83.8
+  },
+  {
+   "title": "Kimi K3, the largest open-weight model, lands on Amazon Bedrock",
+   "summary": "Moonshot's Kimi K3 became available on Bedrock on Sep 18.",
+   "category": "ai_tech",
+   "date": "2026-09-18",
+   "sources": [
+    "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+    "https://foreignpolicy.com/2026/07/23/china-ai-race-moonshot-kimi-k3-alibaba-qwen-deepseek-openai-anthropic/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 2,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 2,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 83.7
+  },
+  {
+   "title": "Xiaomi MiMo-V2.6-Pro leads October open-weight leaderboard",
+   "summary": "Benchmark aggregator ranks MiMo-V2.6-Pro (75.5) above Qwen3.8 Max (72.1).",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://benchlm.ai/best/open-source"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 8,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 82.4
+  },
+  {
+   "title": "Codex agent in Copilot for JetBrains gains plan mode",
+   "summary": "Copilot for JetBrains 1.18.0 lets users approve a Codex plan before implementation.",
+   "category": "ai_tech",
+   "date": "2026-09-22",
+   "sources": [
+    "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 2,
+    "wow_factor": 2,
+    "factual_certainty": 8,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_score": 81.8
+  },
+  {
+   "title": "C12 and Thales unveil QuantumTrack for radar multi-target tracking",
+   "summary": "Hybrid quantum-classical approach to tracking multiple radar targets.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thequantuminsider.com/2026/09/30/french-national-quantum-update-september-2026/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 4,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 2,
+    "evergreen_value": 4,
+    "india_relevance": 1,
+    "low_risk": 7
+   },
+   "weighted_score": 81.2
+  },
+  {
+   "title": "xAI ships Grokipedia v0.3, resuming autonomous AI edits",
+   "summary": "Grokipedia 0.3 brought improved visuals and resumed autonomous edits paused since April.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://releasebot.io/updates/xai"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_score": 80.9
+  },
+  {
+   "title": "Samsung Online Exclusive Sale Oct 1-20",
+   "summary": "Samsung runs an online sale with up to $1,500 off select tech.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://samsung.com/us/news/20294"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 1,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 1,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 1,
+    "india_relevance": 2,
+    "low_risk": 7
+   },
+   "weighted_score": 80.8
+  },
+  {
+   "title": "Amazon Ads Agent merges ad formats into one AI agent at unBoxed",
+   "summary": "Amazon folded DSP and ad console into an AI Ads Agent; Branded Conversations for Alexa from Jan 2027.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://stackedmarketer.com/news/ai-runs-the-ads-now-while-brands-can-brief-alexa"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 79.2
+  },
+  {
+   "title": "Micron: humanoid robots could become a major memory demand driver",
+   "summary": "Micron's CEO said physical AI could significantly drive memory/storage demand by decade's end.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://www.benzinga.com/markets/earnings/26/09/62096820/micron-humanoid-robots-memory-driver-server-level-chips"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 6
+   },
+   "weighted_score": 78.3
+  },
+  {
+   "title": "GITEX AI Vietnam held in Hanoi Oct 1-2",
+   "summary": "Regional AI expo and conference runs Oct 1-2 in Hanoi.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://en.wikipedia.org/wiki/GITEX_Vietnam"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 2,
+    "audience_interest": 2,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 2,
+    "factual_certainty": 6,
+    "search_interest": 2,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_score": 77.0
+  },
+  {
+   "title": "Alibaba ships Qwen3.8 Max Prime and Qwen3.8 Omni Flash",
+   "summary": "Alibaba added Qwen3.8 Max Prime (Sep 23) and Omni Flash (Sep 21).",
+   "category": "ai_tech",
+   "date": "2026-09-23",
+   "sources": [
+    "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 2,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_score": 76.7
+  },
+  {
+   "title": "NSF Quantum Leap Challenge Institutes share $290M in funding",
+   "summary": "UC Santa Barbara joins three NSF QLCIs sharing $290M in renewed and new funding.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/09/30/the-qubit-report-september-30-2026/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 2,
+    "explainable_in_45s": 5,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 2,
+    "evergreen_value": 4,
+    "india_relevance": 1,
+    "low_risk": 9
+   },
+   "weighted_score": 76.5
+  },
+  {
+   "title": "Classiq introduces fault-tolerance engine for quantum apps",
+   "summary": "Software to plan fault-tolerant execution and estimate physical resources for quantum applications.",
+   "category": "ai_tech",
+   "date": "2026-09-30",
+   "sources": [
+    "https://qatrial.com/ai-in-qatrial/classiq-introduces-fault-tolerance-engine-for-quantum-applications",
+    "https://thequbitreport.com/the-qubit-report/2026/09/30/the-qubit-report-september-30-2026/"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 2,
+    "explainable_in_45s": 4,
+    "visual_potential": 2,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 2,
+    "evergreen_value": 4,
+    "india_relevance": 1,
+    "low_risk": 9
+   },
+   "weighted_score": 76.0
+  },
+  {
+   "title": "Grok 4.7 released with 500K context",
+   "summary": "xAI released Grok 4.7 on Sep 21 for coding and agentic tasks.",
+   "category": "ai_tech",
+   "date": "2026-09-21",
+   "sources": [
+    "https://www.basenor.com/blogs/news/grok-4-7-is-here-what-changed-and-what-to-know",
+    "https://releasebot.io/updates/xai"
+   ],
+   "validated": false,
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 2,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted_score": 75.7
+  }
+ ]
+}

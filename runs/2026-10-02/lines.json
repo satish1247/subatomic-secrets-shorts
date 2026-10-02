@@ -1,0 +1,53 @@
+{
+  "duration": 50.02,
+  "lines": [
+    {
+      "text": "A robot company just retired its old humanoids... by making them jump into molten steel.",
+      "start": 0.35,
+      "dur": 4.731,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Figure's new F.03 robots replaced the F.02 fleet, and the old ones had to go without leaking their secret parts.",
+      "start": 5.531,
+      "dur": 6.644,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three wild facts.",
+      "start": 12.626,
+      "dur": 1.432,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. Foundries in the US and Mexico said no, because of the robots' lithium-ion batteries. One in Imatra, Finland, said yes.",
+      "start": 14.508,
+      "dur": 8.046,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. The robots jumped on their own. Figure trained an AI model in simulation, using stunt performers' moves, then practised with airbags.",
+      "start": 23.004,
+      "dur": 7.919,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. The team got just 24 hours and six melts, with about 20 minutes each before the steel crusted over.",
+      "start": 31.373,
+      "dur": 6.241,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The furnace held 75 tons of molten steel. And the push to melt them? It came from Arnold Schwarzenegger.",
+      "start": 38.064,
+      "dur": 6.009,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "The leftover metal is being turned into a small run of F.02 keepsakes.",
+      "start": 44.523,
+      "dur": 3.644,
+      "wav": "line_7.wav"
+    }
+  ]
+}

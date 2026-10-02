@@ -16,5 +16,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=9Dlt3lbrIg8",
     "video_branch": "claude/video-2026-10-01"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Figure Retired Its Old Robots… in Molten Steel",
+    "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=Ad1yJmkf0js",
+    "video_branch": "claude/video-2026-10-02"
   }
 ]
