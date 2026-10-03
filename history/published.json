@@ -25,5 +25,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=Ad1yJmkf0js",
     "video_branch": "claude/video-2026-10-02"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Apple Pay Is Finally in India… But There's a Catch",
+    "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=82NDmqmeS0Q",
+    "video_branch": "claude/video-2026-10-03"
   }
 ]

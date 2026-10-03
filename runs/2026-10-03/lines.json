@@ -1,0 +1,41 @@
+{
+  "duration": 43.17,
+  "lines": [
+    {
+      "text": "Apple Pay is finally live in India. But there's a big catch.",
+      "start": 0.35,
+      "dur": 2.732,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Apple rolled it out this week with just one bank partner: Axis Bank.",
+      "start": 3.532,
+      "dur": 3.39,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Only eligible Axis Bank credit cards on Visa or Mastercard work. Tap your iPhone or Apple Watch, or pay online.",
+      "start": 7.373,
+      "dur": 6.739,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "The catch? No UPI, and no RuPay cards. And UPI handles most of India's digital payments.",
+      "start": 14.562,
+      "dur": 7.486,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "HDFC, ICICI and SBI Card aren't in yet. Reports say Apple wants about 0.2% per payment, and those banks offered less.",
+      "start": 22.498,
+      "dur": 10.692,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Why it matters: iPhone users can finally tap to pay, but Apple Pay starts as a card-only wallet in a UPI-first country.",
+      "start": 33.64,
+      "dur": 7.679,
+      "wav": "line_5.wav"
+    }
+  ]
+}
