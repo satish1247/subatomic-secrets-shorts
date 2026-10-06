@@ -34,5 +34,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=82NDmqmeS0Q",
     "video_branch": "claude/video-2026-10-03"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Nobel Prize 2026: Switching Brain Cells On and Off With Light",
+    "topic": "Nobel Prize in Medicine 2026 for optogenetics (Deisseroth, Hegemann, Nagel)",
+    "category": "science",
+    "style": "lab",
+    "youtube_url": "https://www.youtube.com/watch?v=U3Vfo2Z0ky0",
+    "video_branch": "claude/video-2026-10-06"
   }
 ]

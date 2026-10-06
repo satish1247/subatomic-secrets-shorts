@@ -1,0 +1,65 @@
+{
+  "duration": 55.82,
+  "lines": [
+    {
+      "text": "Scientists can switch brain cells on and off... with light. And it just won a Nobel Prize.",
+      "start": 0.35,
+      "dur": 4.336,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 5th, the Nobel Prize in Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel.",
+      "start": 5.066,
+      "dur": 6.852,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "It started with a tiny, single-celled green alga that swims toward light.",
+      "start": 12.298,
+      "dur": 3.434,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Hegemann and Nagel found why: channelrhodopsin, a protein gate that opens when light hits it.",
+      "start": 16.113,
+      "dur": 6.214,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Shine blue light, the gate opens, charged ions rush in, and the cell fires an electrical signal.",
+      "start": 22.707,
+      "dur": 5.216,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "In 2005, Deisseroth's lab put this gene into rat nerve cells, and made them fire with blue light.",
+      "start": 28.303,
+      "dur": 5.793,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "That's optogenetics. Researchers can now switch chosen nerve cells on or off in a living brain.",
+      "start": 34.477,
+      "dur": 5.089,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "It's helping scientists decode memory, behaviour and brain disorders.",
+      "start": 39.945,
+      "dur": 3.369,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "In 2021, a man blind for 40 years partly regained sight with an algae protein in his eye and light-emitting goggles.",
+      "start": 43.694,
+      "dur": 6.019,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "From pond algae to a Nobel Prize. Light really can flip a switch in the brain.",
+      "start": 50.093,
+      "dur": 3.945,
+      "wav": "line_9.wav"
+    }
+  ]
+}
