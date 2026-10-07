@@ -1,0 +1,59 @@
+{
+  "duration": 55.28,
+  "lines": [
+    {
+      "text": "This year's Nobel Prize in Physics went to a man who turned Antarctic ice into a telescope.",
+      "start": 0.35,
+      "dur": 4.479,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Every second, roughly 100 trillion ghostly particles called neutrinos pass straight through you.",
+      "start": 5.279,
+      "dur": 5.071,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "They barely interact with anything, so they are incredibly hard to catch.",
+      "start": 10.8,
+      "dur": 3.688,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "In the 1980s, physicist Francis Halzen had an idea: use the ice under the South Pole as a giant detector.",
+      "start": 14.938,
+      "dur": 6.655,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "The result is IceCube: 5,160 light sensors in one cubic kilometre of ice, up to 2.45 kilometres deep.",
+      "start": 22.043,
+      "dur": 8.552,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "When a neutrino does hit the ice, it makes a tiny flash of blue light, and the sensors catch it.",
+      "start": 31.044,
+      "dur": 5.034,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "In 2013, IceCube reported the first evidence of high-energy neutrinos from deep space.",
+      "start": 36.529,
+      "dur": 4.963,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Later, it traced one back to a giant black hole jet about 3.7 billion light-years away.",
+      "start": 41.941,
+      "dur": 5.531,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "A brand-new way to see the universe. On October 6, the Nobel committee honoured Halzen for it.",
+      "start": 47.922,
+      "dur": 5.505,
+      "wav": "line_8.wav"
+    }
+  ]
+}

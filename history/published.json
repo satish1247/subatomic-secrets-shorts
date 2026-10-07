@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots… in Molten Steel",
+    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India… But There's a Catch",
+    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -43,5 +43,14 @@
     "style": "lab",
     "youtube_url": "https://www.youtube.com/watch?v=U3Vfo2Z0ky0",
     "video_branch": "claude/video-2026-10-06"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Nobel Prize 2026: The Telescope Made of Antarctic Ice",
+    "topic": "Nobel Prize in Physics 2026 for IceCube and high-energy cosmic neutrinos (Francis Halzen)",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=8QnrwWYyO-Y",
+    "video_branch": "claude/video-2026-10-07"
   }
 ]
