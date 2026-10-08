@@ -1,0 +1,47 @@
+{
+  "duration": 48.37,
+  "lines": [
+    {
+      "text": "Nvidia just built the entire brain of a Windows laptop.",
+      "start": 0.35,
+      "dur": 3.151,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "This week, Microsoft opened pre-orders for the Surface Laptop Ultra, starting at $2,599.",
+      "start": 3.951,
+      "dur": 7.256,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Inside is Nvidia's new RTX Spark superchip: up to 20 Arm CPU cores and 6,144 Blackwell graphics cores.",
+      "start": 11.657,
+      "dur": 10.244,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "They share up to 128 GB of unified memory.",
+      "start": 22.352,
+      "dur": 3.393,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Microsoft says that's enough to run AI models with up to 120 billion parameters, right on the laptop.",
+      "start": 26.195,
+      "dur": 5.234,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Windows 11 is also getting new controls to keep AI agents sandboxed. RTX Spark laptops from Asus, Dell, HP, Lenovo and MSI ship October 16.",
+      "start": 31.879,
+      "dur": 9.889,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Why it matters: big AI is moving out of the data center and onto your desk.",
+      "start": 42.219,
+      "dur": 4.301,
+      "wav": "line_6.wav"
+    }
+  ]
+}

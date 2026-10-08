@@ -52,5 +52,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=8QnrwWYyO-Y",
     "video_branch": "claude/video-2026-10-07"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Nvidia Just Built the Brain of a Windows Laptop",
+    "topic": "Microsoft Surface Laptop Ultra pre-orders with Nvidia RTX Spark superchip (Oct 7 Windows & Surface event)",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=VyqBsetJW2s",
+    "video_branch": "claude/video-2026-10-08"
   }
 ]
