@@ -1,0 +1,53 @@
+{
+  "duration": 37.71,
+  "lines": [
+    {
+      "text": "ChatGPT just stopped answering with only text.",
+      "start": 0.35,
+      "dur": 2.336,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "With GPT-6, OpenAI added Intelligent UI: answers with tappable buttons, forms, charts and graphics.",
+      "start": 3.136,
+      "dur": 5.422,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things it can do.",
+      "start": 9.007,
+      "dur": 1.034,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. Ask for a recipe, and the cooking timeline sits right next to it. Plan a road trip, and the stops land on a map.",
+      "start": 10.491,
+      "dur": 6.168,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. It builds small tools on request, like a bill splitter or a savings calculator, or even a game you play inside the chat.",
+      "start": 17.109,
+      "dur": 6.562,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. It doesn't wait to finish. A compiler builds the interface while the answer is still being written.",
+      "start": 24.12,
+      "dur": 4.953,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Simple question? You still get plain text.",
+      "start": 29.524,
+      "dur": 2.122,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Paid plans got it on October 7, and Free and Go users from the very next day.",
+      "start": 32.095,
+      "dur": 3.764,
+      "wav": "line_7.wav"
+    }
+  ]
+}

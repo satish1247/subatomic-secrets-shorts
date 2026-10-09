@@ -61,5 +61,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=VyqBsetJW2s",
     "video_branch": "claude/video-2026-10-08"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "ChatGPT Just Stopped Answering With Only Text",
+    "topic": "GPT-6 brings Intelligent UI to ChatGPT (interactive answers; paid Oct 7, Free & Go Oct 8)",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=vxJxwicT8vI",
+    "video_branch": "claude/video-2026-10-09"
   }
 ]
