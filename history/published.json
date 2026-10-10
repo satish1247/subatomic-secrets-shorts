@@ -70,5 +70,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=vxJxwicT8vI",
     "video_branch": "claude/video-2026-10-09"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Google's Gemini Agent Can Work on One Task for Days",
+    "topic": "Google Cloud launches Gemini agent, a universal agent for work (Gemini at Work, Oct 8)",
+    "category": "ai_tech",
+    "style": "story",
+    "youtube_url": "https://www.youtube.com/watch?v=gka5gCzNWFg",
+    "video_branch": "claude/video-2026-10-10"
   }
 ]

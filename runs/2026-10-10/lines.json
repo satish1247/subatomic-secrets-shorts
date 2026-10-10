@@ -1,0 +1,82 @@
+{
+  "duration": 38.01,
+  "lines": [
+    {
+      "who": "arjun",
+      "text": "Nimi! My boss wants a report, slides AND code fixes by Monday!",
+      "start": 0.25,
+      "dur": 3.525,
+      "wav": "line_0.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Relax. On October 8, Google Cloud announced Gemini agent, a \"universal agent for work.\"",
+      "start": 4.125,
+      "dur": 4.836,
+      "wav": "line_1.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "One agent? For all of that?",
+      "start": 9.311,
+      "dur": 1.26,
+      "wav": "line_2.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "From one prompt box, it can answer questions, draft documents and write code.",
+      "start": 10.921,
+      "dur": 3.728,
+      "wav": "line_3.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "But my report will take days!",
+      "start": 14.999,
+      "dur": 1.386,
+      "wav": "line_4.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It's built for tasks that run for hours, or even days. It can even create temporary helper agents for each job.",
+      "start": 16.735,
+      "dur": 5.078,
+      "wav": "line_5.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Helpers... for my helper?",
+      "start": 22.163,
+      "dur": 1.418,
+      "wav": "line_6.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "And it picks the best model for each job, including Google's Gemini and Anthropic's Claude.",
+      "start": 23.931,
+      "dur": 4.714,
+      "wav": "line_7.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Perfect! Let me download it!",
+      "start": 28.996,
+      "dur": 1.164,
+      "wav": "line_8.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Sorry, Arjun. Right now it's a private preview for business customers.",
+      "start": 30.51,
+      "dur": 3.885,
+      "wav": "line_9.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So this weekend... I am the agent.",
+      "start": 34.745,
+      "dur": 1.518,
+      "wav": "line_10.wav"
+    }
+  ]
+}
