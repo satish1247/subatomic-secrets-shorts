@@ -79,5 +79,14 @@
     "style": "story",
     "youtube_url": "https://www.youtube.com/watch?v=gka5gCzNWFg",
     "video_branch": "claude/video-2026-10-10"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Tesla Just Dropped \"Full Self-Driving\" in Europe",
+    "topic": "Tesla renames FSD (Supervised) to 'Tesla Assisted Driving' in Europe after Germany calls the name misleading",
+    "category": "ai_tech",
+    "style": "mythfact",
+    "youtube_url": "https://www.youtube.com/watch?v=P5Y9vs8P12g",
+    "video_branch": "claude/video-2026-10-11"
   }
 ]

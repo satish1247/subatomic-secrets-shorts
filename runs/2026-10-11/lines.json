@@ -1,0 +1,65 @@
+{
+  "duration": 42.65,
+  "lines": [
+    {
+      "text": "Tesla just dropped the words \"Full Self-Driving\" in Europe.",
+      "start": 0.35,
+      "dur": 3.133,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Its European websites now call it \"Tesla Assisted Driving\".",
+      "start": 3.983,
+      "dur": 3.691,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "So what does the new name really tell you? Let's bust two myths.",
+      "start": 8.174,
+      "dur": 3.002,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Myth number one: Full Self-Driving means the car drives itself.",
+      "start": 11.676,
+      "dur": 3.85,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Fact: it can steer, brake and accelerate, but the driver must watch the road and stays responsible.",
+      "start": 16.026,
+      "dur": 6.106,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Germany's transport ministry said the old name was misleading.",
+      "start": 22.633,
+      "dur": 2.986,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Myth number two: Europe has banned it.",
+      "start": 26.118,
+      "dur": 2.274,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Fact: the Netherlands approved it in April, and Germany now backs approval across the EU.",
+      "start": 28.892,
+      "dur": 4.909,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "In the US, it's still called Full Self-Driving (Supervised).",
+      "start": 34.301,
+      "dur": 3.418,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "Same tech, new name. Because words matter.",
+      "start": 38.219,
+      "dur": 2.534,
+      "wav": "line_9.wav"
+    }
+  ]
+}
