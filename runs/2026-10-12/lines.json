@@ -1,0 +1,53 @@
+{
+  "duration": 44.66,
+  "lines": [
+    {
+      "text": "Being cruel to an AI, just for fun, is about to break the rules.",
+      "start": 0.35,
+      "dur": 3.694,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 8, Anthropic updated the usage policy for its Claude chatbot. It takes effect November 12.",
+      "start": 4.494,
+      "dur": 5.559,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "The new rule bars \"sustained and needless abusive or cruel behavior\" toward its AI models.",
+      "start": 10.503,
+      "dur": 4.745,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Venting is still fine. So are pushback, dark creative writing, and testing or research.",
+      "start": 15.698,
+      "dur": 5.155,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "The main penalty? Claude ends the conversation. That chat is closed, but you can start a new one.",
+      "start": 21.304,
+      "dur": 4.888,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Claude has been able to end persistently abusive chats since August 2025.",
+      "start": 26.642,
+      "dur": 5.052,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The rule covers every Claude user, even on the free plan. Anthropic hasn't said whether accounts can be banned.",
+      "start": 32.143,
+      "dur": 5.244,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Why it matters: AI companies are now writing rules about how we treat the AI itself.",
+      "start": 37.838,
+      "dur": 4.971,
+      "wav": "line_7.wav"
+    }
+  ]
+}

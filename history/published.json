@@ -88,5 +88,14 @@
     "style": "mythfact",
     "youtube_url": "https://www.youtube.com/watch?v=P5Y9vs8P12g",
     "video_branch": "claude/video-2026-10-11"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Being Cruel to Claude Is About to Break the Rules",
+    "topic": "Anthropic updates Claude usage policy to bar sustained, needless cruelty toward its models (announced Oct 8, effective Nov 12)",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=354JWSsDxDo",
+    "video_branch": "claude/video-2026-10-12"
   }
 ]
