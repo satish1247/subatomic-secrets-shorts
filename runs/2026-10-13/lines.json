@@ -1,0 +1,53 @@
+{
+  "duration": 39.75,
+  "lines": [
+    {
+      "text": "Meta just joined the frontier AI race.",
+      "start": 0.35,
+      "dur": 2.353,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 12, Meta Superintelligence Labs released a new model family called Muse Wonder.",
+      "start": 3.153,
+      "dur": 5.067,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things to know.",
+      "start": 8.669,
+      "dur": 1.118,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. It's two models: Muse Wonder, and the bigger Muse Wonder Full, which Meta calls its most capable model yet.",
+      "start": 10.237,
+      "dur": 6.541,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. It's built for AI agents that get things done, on personal and professional tasks.",
+      "start": 17.228,
+      "dur": 5.558,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. It isn't free. In the Muse app it needs a paid plan, $20 or $100 a month. Wonder Full is only for Muse Code subscribers.",
+      "start": 23.236,
+      "dur": 7.715,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Meta says it's on par with ChatGPT and Claude at coding.",
+      "start": 31.401,
+      "dur": 2.889,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "But outside testers haven't confirmed that yet. Would you pay for it?",
+      "start": 34.741,
+      "dur": 3.16,
+      "wav": "line_7.wav"
+    }
+  ]
+}

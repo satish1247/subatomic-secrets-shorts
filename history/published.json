@@ -97,5 +97,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=354JWSsDxDo",
     "video_branch": "claude/video-2026-10-12"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Meta's Muse Wonder: 3 Things to Know About Its New AI",
+    "topic": "Meta releases Muse Wonder and Muse Wonder Full, its first frontier-class models (Meta Superintelligence Labs, Oct 12)",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=UfExKmeV30M",
+    "video_branch": "claude/video-2026-10-13"
   }
 ]
