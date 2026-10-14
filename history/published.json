@@ -106,5 +106,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=UfExKmeV30M",
     "video_branch": "claude/video-2026-10-13"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Your Nose Can Smell a Molecule's Mirror Image",
+    "topic": "Nobel Prize in Chemistry 2026 for mirror-image molecules: non-linear effects and asymmetric autocatalysis (Henri Kagan, Kenso Soai); carvone spearmint vs caraway hook",
+    "category": "science",
+    "style": "lab",
+    "youtube_url": "https://www.youtube.com/watch?v=QvYyvzYFnvQ",
+    "video_branch": "claude/video-2026-10-14"
   }
 ]

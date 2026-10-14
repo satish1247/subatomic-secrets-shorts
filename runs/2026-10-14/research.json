@@ -1,0 +1,3082 @@
+{
+ "run_date": "2026-10-14",
+ "candidates_count": 111,
+ "category_rule": "last 10 published (10-02..10-13): 8 ai_tech, 2 science. Fewer than 3 science -> today must be science.",
+ "style_rule": "last two styles were newsflash (10-12) and countdown (10-13); both avoided. lab fits a chemistry explainer.",
+ "verification_note": "WebFetch could not resolve news hosts from the sandbox (nobelprize.org ENOTFOUND); facts confirmed from search-result text of >=2 independent sources each. Dropped as single-source or conflicting: the year of Kagan's first non-linear-effect paper (1981 vs 1986), the year of the Soai reaction (1995 vs 2003), laureate ages, prize money, the 630,000x and 60-million-x amplification factors, and the thalidomide story (tragedy/medical).",
+ "search_queries": [
+  "scientists discover study published October 13 2026",
+  "astronomers discovery October 2026",
+  "NASA news October 13 2026",
+  "AI news October 13 2026",
+  "new species discovered October 2026",
+  "physics breakthrough October 2026 Nature paper",
+  "Perseverance rover unexpected rock layers Mars October 2026",
+  "James Webb telescope new image October 2026",
+  "Nobel Prize Chemistry 2026 Kagan Soai",
+  "ISRO launch October 2026",
+  "Arctic sea ice 2026 minimum NASA NSIDC",
+  "sciencedaily top science news October 12 2026",
+  "thalidomide mirror image molecules chirality explained",
+  "Soai reaction autocatalysis amplifies tiny chiral imbalance homochirality origin of life",
+  "life uses only left-handed amino acids right-handed sugars",
+  "smartphone launch October 13 2026",
+  "SpaceX launch October 12 2026",
+  "Nobel Prize economics 2026 winner",
+  "carvone enantiomers spearmint caraway smell mirror image",
+  "Kagan non-linear effect asymmetric catalysis 1986 explained Nobel committee popular science",
+  "Soai asymmetric autocatalysis 0.00005% enantiomeric excess 99.5%",
+  "open-source AI model release October 2026",
+  "humanoid robot news October 2026",
+  "cybersecurity vulnerability news October 12 2026",
+  "Al Jazeera Kagan Soai mirror image Nobel chemistry explained hands medicines",
+  "electric vehicle battery news October 2026",
+  "chip semiconductor news October 13 2026",
+  "India tech news October 13 2026",
+  "mind-blowing human body facts verified science"
+ ],
+ "weights": {
+  "recency": 1.5,
+  "source_credibility": 2.0,
+  "novelty": 1.5,
+  "audience_interest": 2.0,
+  "explainable_in_45s": 1.5,
+  "visual_potential": 1.2,
+  "wow_factor": 1.5,
+  "factual_certainty": 2.0,
+  "search_interest": 1.0,
+  "evergreen_value": 0.5,
+  "india_relevance": 0.6,
+  "low_risk": 1.5
+ },
+ "candidates": [
+  {
+   "title": "Mirror-image molecules: Nobel Prize in Chemistry 2026 to Henri Kagan and Kenso Soai",
+   "summary": "Oct 7: prize for non-linear effects and autocatalysis in asymmetric synthesis; explains how one 'hand' of a molecule can win. Hook: carvone smells of spearmint vs caraway.",
+   "category": "science",
+   "date": "2026-10-07 (evergreen chirality facts)",
+   "sources": [
+    "https://www.nobelprize.org/prizes/chemistry/2026/summary/",
+    "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough",
+    "https://www.adn.com/nation-world/2026/10/07/nobel-prize-in-chemistry-awarded-to-kagan-and-soai-for-untangling-mirror-images-in-molecules/",
+    "https://www.khaleejtimes.com/world/henri-kagan-kenso-soai-win-2026-nobel-chemistry-prize",
+    "https://www.timesofisrael.com/nobel-prize-in-chemistry-awarded-for-research-solving-mirror-image-mystery/",
+    "https://en.wikipedia.org/wiki/Carvone",
+    "https://chem.libretexts.org/Ancillary_Materials/Exemplars_and_Case_Studies/Exemplars/Foods/Stereoisomerism_and_Smell",
+    "https://en.wikipedia.org/wiki/Homochirality",
+    "https://www.rs.kagu.tus.ac.jp/soai/recent-e.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6541725",
+    "https://en.wikipedia.org/wiki/Non-linear_effects",
+    "https://chemistry.illinois.edu/system/files/inline-files/Todd.pdf",
+    "https://www.solardaily.com/reports/How_Life_Shatters_The_Chemistry_Mirror_999.html",
+    "https://arxiv.org/pdf/2110.01975",
+    "https://abcnews.com/Technology/wireStory/nobel-prize-chemistry-awarded-kagan-soai-research-solving-137057383"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 10,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_total": 142.3,
+   "style": "lab",
+   "validation": "VALIDATED: every script claim has >=2 independent sources"
+  },
+  {
+   "title": "~100 trillion neutrinos pass through your body every second",
+   "summary": "Evergreen particle fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://livescience.com/physics-mathematics/how-many-cosmic-particles-are-passing-through-your-body-at-any-moment",
+    "https://www.mos.org/video/100-trillion-neutrinos-just-passed-through-you"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 3,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted_total": 125.5,
+   "style": "cosmic",
+   "validation": "validated earlier (2026-10-07) but too similar to the IceCube video -> novelty low"
+  },
+  {
+   "title": "Carvone: same molecule, two smells (spearmint vs caraway)",
+   "summary": "Evergreen chirality fact; merged into the selected topic as its hook.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Carvone",
+    "https://chem.libretexts.org/Ancillary_Materials/Exemplars_and_Case_Studies/Exemplars/Foods/Stereoisomerism_and_Smell"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_total": 137.1,
+   "style": "lab",
+   "validation": "VALIDATED (2 sources) - runner-up as a standalone"
+  },
+  {
+   "title": "Arctic sea ice 2026 minimum tied 10th-lowest (4.6 million km2, Sept 12)",
+   "summary": "NASA/NSIDC: the 20 lowest minima all fell in 2007-2026.",
+   "category": "science",
+   "date": "2026-09/10",
+   "sources": [
+    "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+    "https://svs.gsfc.nasa.gov/5677",
+    "https://www.metoffice.gov.uk/research/approach/monitoring/sea-ice/2026/briefing-on-arctic-sea-ice-minimum-and-antarctic-sea-ice-maximum-report---september-2026"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 10,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_total": 117.4,
+   "style": "cosmic",
+   "validation": "VALIDATED but datasets disagree on ranking (10th vs 14th) -> lower certainty"
+  },
+  {
+   "title": "Soai reaction: a 0.00005% excess amplified to >99.5%",
+   "summary": "Asymmetric autocatalysis; part of selected topic.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.rs.kagu.tus.ac.jp/soai/recent-e.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6541725"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 9,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 9,
+    "factual_certainty": 8,
+    "search_interest": 4,
+    "evergreen_value": 8,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 120.7,
+   "style": "lab",
+   "validation": "merged into selected topic"
+  },
+  {
+   "title": "Homochirality: life uses left-handed amino acids and right-handed sugars",
+   "summary": "Evergreen origin-of-life puzzle.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Homochirality",
+    "https://arxiv.org/pdf/2110.01975"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 5,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 125.7,
+   "style": "lab",
+   "validation": "merged into selected topic"
+  },
+  {
+   "title": "NASA opens applications for next class of flight directors",
+   "summary": "Oct 12 NASA recruitment.",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://whenthecurveslineup.com/2026/10/03/2026-october-12-nasa-opens-applications-for-next-class-of-flight-directors/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 98.7,
+   "style": "newsflash",
+   "validation": "single weak source - dropped"
+  },
+  {
+   "title": "Perseverance finds unexpected rock layers on Mars",
+   "summary": "Reported via a NASA listing; date unclear.",
+   "category": "science",
+   "date": "2026-10-08?",
+   "sources": [
+    "https://science.nasa.gov/2026/10/"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_total": 109.4,
+   "style": "cosmic",
+   "validation": "dropped: could not confirm with a 2nd source"
+  },
+  {
+   "title": "Webb sees jets from a nebula",
+   "summary": "NASA site listing, undated.",
+   "category": "science",
+   "date": "2026-10",
+   "sources": [
+    "https://science.nasa.gov/2026/10/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 9,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 104.0,
+   "style": "cosmic",
+   "validation": "dropped: single undated listing"
+  },
+  {
+   "title": "Curiosity images a Martian dawn",
+   "summary": "NASA listing, undated.",
+   "category": "science",
+   "date": "2026-10",
+   "sources": [
+    "https://science.nasa.gov/2026/10/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 102.5,
+   "style": "cosmic",
+   "validation": "dropped: single undated listing"
+  },
+  {
+   "title": "Nobel Prize in Economics 2026",
+   "summary": "Winner not confirmed in search results.",
+   "category": "science",
+   "date": "2026-10-12",
+   "sources": [
+    "https://www.kunc.org/npr-news/2026-10-07/who-will-win-the-2026-nobel-prize-in-economics"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 2,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted_total": 88.4,
+   "style": "newsflash",
+   "validation": "dropped: winner unconfirmed; not science/tech"
+  },
+  {
+   "title": "ISRO GSLV NVS-03 NavIC launch slated October (TBD)",
+   "summary": "Date not confirmed.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026",
+    "https://www.keralakaumudi.com/en/KERALA/GENERAL/isor-back-to-launch-satellites-by-october-1790326"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted_total": 102.9,
+   "style": "newsflash",
+   "validation": "dropped: launch date unconfirmed"
+  },
+  {
+   "title": "ISRO first commercial SSLV flight (TBD)",
+   "summary": "Listed TBD.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted_total": 96.4,
+   "style": "newsflash",
+   "validation": "dropped: unconfirmed"
+  },
+  {
+   "title": "Uncrewed Gaganyaan flight by end of 2026",
+   "summary": "Chairman statement.",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.collegesimplified.in/post/isro-next-space-mission-2026-what-it-means-for-india-s-space-program"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 3,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted_total": 97.9,
+   "style": "newsflash",
+   "validation": "dropped: forward-looking, weak source"
+  },
+  {
+   "title": "Crew-13 launched to the ISS Oct 1",
+   "summary": "Falcon 9 from SLC-40.",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026",
+    "https://local12.com/news/nation-world/gallery/spacex-dragon-nasa-set-to-launch-4-astronauts-on-record-fast-trip-to-iss-international-space-station-orbiting-laboratory-falcon-9-rocket-cape-canaveral-florida-science-mission?photo=1"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 102.7,
+   "style": "newsflash",
+   "validation": "outside 48 h"
+  },
+  {
+   "title": "Falcon Heavy flies first NRO mission (NROL-97)",
+   "summary": "Oct 2.",
+   "category": "ai_tech",
+   "date": "2026-10-02",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 89.1,
+   "style": "newsflash",
+   "validation": "outside 48 h; single source"
+  },
+  {
+   "title": "SEMICON West Oct 13-15 San Francisco",
+   "summary": "Event.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.semi.org/en/news-resources/library"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 92.0,
+   "style": "newsflash",
+   "validation": "no news hook"
+  },
+  {
+   "title": "ASML Q3 2026 results due Oct 14",
+   "summary": "Earnings.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.akrostec.com/indices/ASHUSEM/events"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 6
+   },
+   "weighted_total": 82.0,
+   "style": "newsflash",
+   "validation": "financial; dropped"
+  },
+  {
+   "title": "Applied Materials unveils Silicon Valley EPIC Center",
+   "summary": "Oct 12 event.",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://www.akrostec.com/indices/ASHUSEM/events"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 86.7,
+   "style": "newsflash",
+   "validation": "single source"
+  },
+  {
+   "title": "Broadcom: Google TPU v8i in production shipments",
+   "summary": "Undated.",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.tomshardware.com/tag/chip"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 93.9,
+   "style": "newsflash",
+   "validation": "single undated source"
+  },
+  {
+   "title": "Battery Show North America Oct 12-15 Detroit",
+   "summary": "Event.",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://battery-tech.net/battery-event/the-battery-show-north-america-2026/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 7,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 90.5,
+   "style": "newsflash",
+   "validation": "no news hook"
+  },
+  {
+   "title": "Ford Fathom electric pickup with structural LFP battery",
+   "summary": "German roundup Oct 6.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://www.elektroquatsch.de/zusammenfassungen/2026-10-06"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 90.6,
+   "style": "newsflash",
+   "validation": "single non-English source"
+  },
+  {
+   "title": "Range Rover Electric ~80,000 reservations",
+   "summary": "Roundup.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://www.elektroquatsch.de/zusammenfassungen/2026-10-06"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 81.7,
+   "style": "newsflash",
+   "validation": "single source"
+  },
+  {
+   "title": "Vivo V80 launched Oct 6 (India)",
+   "summary": "Phone launch.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026",
+    "https://www.brut.media/in/articles/science-technology/technology/new-phone-launches-in-2026-all-phones-coming-from-august-to-december"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 9
+   },
+   "weighted_total": 95.0,
+   "style": "newsflash",
+   "validation": "outside 48 h; science day"
+  },
+  {
+   "title": "Oppo F35 series launch",
+   "summary": "Oct 5.",
+   "category": "ai_tech",
+   "date": "2026-10-05",
+   "sources": [
+    "https://gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 3,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 9
+   },
+   "weighted_total": 85.0,
+   "style": "newsflash",
+   "validation": "outside 48 h"
+  },
+  {
+   "title": "Oppo Find X10 global rollout ~Oct 28",
+   "summary": "Expected.",
+   "category": "ai_tech",
+   "date": "2026-10-28",
+   "sources": [
+    "https://www.nokiamob.net/2026/09/30/top-5-upcoming-smartphones-in-october-2026-massive-batteries-and-200mp-cameras/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 6,
+    "low_risk": 8
+   },
+   "weighted_total": 84.3,
+   "style": "newsflash",
+   "validation": "rumour"
+  },
+  {
+   "title": "Xiaomi 18 series India launch expected",
+   "summary": "No date.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.gadgetbridge.com/upcoming-smartphones-in-october-2026/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 9,
+    "low_risk": 8
+   },
+   "weighted_total": 87.1,
+   "style": "newsflash",
+   "validation": "rumour"
+  },
+  {
+   "title": "OnePlus 16 expected",
+   "summary": "Speculative.",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.gadgetbridge.com/upcoming-smartphones-in-october-2026/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 8
+   },
+   "weighted_total": 83.0,
+   "style": "newsflash",
+   "validation": "rumour"
+  },
+  {
+   "title": "Reflection AI preparing first open-weight model",
+   "summary": "Axios Oct 4; no date.",
+   "category": "ai_tech",
+   "date": "2026-10-04",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/archive"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 88.2,
+   "style": "newsflash",
+   "validation": "unconfirmed"
+  },
+  {
+   "title": "Mistral 'Le Chonk 1T' open weights claim",
+   "summary": "Social post.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://digg.com/ai/qyieg39r"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 2,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 2,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_total": 79.7,
+   "style": "newsflash",
+   "validation": "rumour"
+  },
+  {
+   "title": "OpenAI releases math manuscript of unresolved problems",
+   "summary": "Social post.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://digg.com/ai/qyieg39r"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 2,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 2,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 81.7,
+   "style": "newsflash",
+   "validation": "unconfirmed"
+  },
+  {
+   "title": "Cross-company 'Agent Protocol' (Meta, Stripe, Shopify)",
+   "summary": "Social post.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://digg.com/ai/qyieg39r"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 2,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 2,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted_total": 80.2,
+   "style": "newsflash",
+   "validation": "unconfirmed"
+  },
+  {
+   "title": "Cisco patches critical SD-WAN / IOS XE flaws",
+   "summary": "Aug 7.",
+   "category": "ai_tech",
+   "date": "2026-08-07",
+   "sources": [
+    "https://thecyberexpress.com/firewall-daily/vulnerabilities/page/2/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 7
+   },
+   "weighted_total": 80.0,
+   "style": "newsflash",
+   "validation": "stale"
+  },
+  {
+   "title": "CISA: Progress Kemp LoadMaster actively exploited",
+   "summary": "Aug 11.",
+   "category": "ai_tech",
+   "date": "2026-08-11",
+   "sources": [
+    "https://thecyberexpress.com/firewall-daily/vulnerabilities/page/2/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 7
+   },
+   "weighted_total": 75.5,
+   "style": "newsflash",
+   "validation": "stale"
+  },
+  {
+   "title": "Microsoft July 2026 Patch Tuesday fixes 622 vulnerabilities",
+   "summary": "July.",
+   "category": "ai_tech",
+   "date": "2026-07",
+   "sources": [
+    "https://thecyberexpress.com/tag/cve-2026-56155/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted_total": 84.1,
+   "style": "newsflash",
+   "validation": "stale"
+  },
+  {
+   "title": "Apple silently patches WebKit CVE-2026-20643; DarkSword iOS exploit kit",
+   "summary": "Undated.",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://thecyberexpress.com/tag/cve-2026-56155/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 5,
+    "low_risk": 6
+   },
+   "weighted_total": 88.5,
+   "style": "newsflash",
+   "validation": "undated single source"
+  },
+  {
+   "title": "Over 1,100 new marine species found in Ocean Census",
+   "summary": "May 2026.",
+   "category": "science",
+   "date": "2026-05-18",
+   "sources": [
+    "https://mr-51.content-svcs.tenants.platform.associatedpress.com/multimedia-newsroom/scientists-discover-over-1-100-new-marine-species-in-landmark-ocean-census"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 114.1,
+   "style": "lab",
+   "validation": "stale; single source found"
+  },
+  {
+   "title": "'Walking' shark species described",
+   "summary": "June 2026.",
+   "category": "science",
+   "date": "2026-06",
+   "sources": [
+    "https://ecoosfera.com/tag/tiburon-caminador/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 99.0,
+   "style": "lab",
+   "validation": "weak source"
+  },
+  {
+   "title": "New bush frog on Mount Merapi (BRIN)",
+   "summary": "July 2026.",
+   "category": "science",
+   "date": "2026-07-06",
+   "sources": [
+    "https://rri.co.id/en/tags/brin-new-species-discovery"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 86.6,
+   "style": "lab",
+   "validation": "stale"
+  },
+  {
+   "title": "New monkey Colobus congoensis described",
+   "summary": "Spring 2026.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.bookbrowse.com/mag/btb/index.cfm/ref/pr338368/the-strangers"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 91.1,
+   "style": "lab",
+   "validation": "weak source"
+  },
+  {
+   "title": "NEJM: hidden genetic repeat behind late-onset cerebellar ataxia",
+   "summary": "Undated.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.newswise.com/articles/nejm-study-researchers-discover-hidden-genetic-anomaly-behind-common-late-onset-cerebellar-ataxia"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 4,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 4,
+    "india_relevance": 2,
+    "low_risk": 5
+   },
+   "weighted_total": 80.5,
+   "style": "lab",
+   "validation": "medical; dropped"
+  },
+  {
+   "title": "Light pulses create a new state of matter (Nature Physics, Fribourg)",
+   "summary": "July 2026.",
+   "category": "science",
+   "date": "2026-07-08",
+   "sources": [
+    "https://www.unifr.ch/phys/en/info/news/34937/prev"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 4,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 93.9,
+   "style": "lab",
+   "validation": "stale"
+  },
+  {
+   "title": "Muon g-2 wins 2026 Breakthrough Prize in Fundamental Physics",
+   "summary": "Earlier 2026.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://news.spill.org/en/article/multi-decade-experiment-wins-breakthrough-prize-in-fundamental-physics-153"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 89.4,
+   "style": "cosmic",
+   "validation": "stale"
+  },
+  {
+   "title": "CERN collisions of small nuclei recreate early-universe conditions",
+   "summary": "ScienceDaily feed, undated.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://thenote.app/post/en/rss-sciencedaily-all-top-news-gpsspiyblu"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 96.1,
+   "style": "cosmic",
+   "validation": "undated single source"
+  },
+  {
+   "title": "Stars survive repeated passes near supermassive black holes",
+   "summary": "ScienceDaily feed, undated.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://thenote.app/post/en/rss-sciencedaily-all-top-news-gpsspiyblu"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted_total": 104.5,
+   "style": "cosmic",
+   "validation": "undated single source"
+  },
+  {
+   "title": "Asteroid 2026 JH2 close approach",
+   "summary": "Earlier 2026.",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://ecoosfera.com/tag/espacio/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_total": 92.4,
+   "style": "cosmic",
+   "validation": "stale"
+  },
+  {
+   "title": "Draconid meteor shower peaked ~Oct 8",
+   "summary": "Sky event.",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://www.teleamazonas.com/tendencias/entretenimiento/ciencia/lluvias-estrellas-planetas-alineados-eventos-astronomicos-octubre-129226/",
+    "https://astronomie.at/?p=28837"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "weighted_total": 104.6,
+   "style": "cosmic",
+   "validation": "past peak"
+  },
+  {
+   "title": "2026 Arctic winter maximum ties record low",
+   "summary": "March 2026.",
+   "category": "science",
+   "date": "2026-03-15",
+   "sources": [
+    "https://cires.colorado.edu/news/arctic-sea-ice-record-low-maximum-strikes-again",
+    "https://iccinet.org/2026-arctic-sea-ice-maximum-among-lowest-on-record/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 9,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted_total": 97.6,
+   "style": "cosmic",
+   "validation": "stale"
+  },
+  {
+   "title": "Humanoid robots in factories (commentary)",
+   "summary": "Opinion pieces.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://af.net/realtime/humanoid-robots-set-to-revolutionize-manufacturing-by-2026/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 3,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted_total": 87.2,
+   "style": "newsflash",
+   "validation": "opinion; unreliable dates"
+  },
+  {
+   "title": "Upcoming AI updates October 2026 (preview)",
+   "summary": "Preview article.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 5,
+    "novelty": 3,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted_total": 82.4,
+   "style": "newsflash",
+   "validation": "no concrete news"
+  },
+  {
+   "title": "Light from the Sun is about 8 minutes old when it reaches you",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sunlight",
+    "https://science.nasa.gov/sun/facts/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Venus",
+    "https://science.nasa.gov/venus/venus-facts/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Neutron stars: a teaspoon would weigh billions of tonnes",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Neutron_star",
+    "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Olympus Mons is ~2.5x taller than Everest",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Olympus_Mons",
+    "https://science.nasa.gov/mars/facts/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Saturn would float in a big enough bathtub (density < water)",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Saturn",
+    "https://science.nasa.gov/saturn/facts/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Footprints on the Moon could last millions of years",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Moon",
+    "https://science.nasa.gov/moon/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Jupiter's Great Red Spot is a storm larger than Earth",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Red_Spot",
+    "https://science.nasa.gov/jupiter/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "The Moon drifts ~3.8 cm farther from Earth each year",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lunar_distance",
+    "https://science.nasa.gov/moon/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Space is silent: sound needs a medium",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sound",
+    "https://www.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Light takes ~100,000 years to cross the Milky Way",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Milky_Way",
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Black hole time dilation",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gravitational_time_dilation",
+    "https://science.nasa.gov/universe/black-holes/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "GPS satellites must correct for relativity",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System",
+    "https://www.gps.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Atoms are mostly empty space",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Atom",
+    "https://www.britannica.com/science/atom"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Glass is an amorphous solid, not a slow liquid",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Glass",
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Hot water can freeze faster (Mpemba effect) - disputed",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mpemba_effect",
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Water expands when it freezes; that's why ice floats",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ice",
+    "https://www.usgs.gov/special-topics/water-science-school"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Helium can climb walls as a superfluid",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Superfluid_helium-4",
+    "https://www.britannica.com/science/superfluidity"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Bananas are slightly radioactive (potassium-40)",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Banana_equivalent_dose",
+    "https://www.epa.gov/radiation"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Diamonds and pencil graphite are both pure carbon",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Allotropes_of_carbon",
+    "https://www.britannica.com/science/carbon-chemical-element"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Gallium melts in your hand",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gallium",
+    "https://www.rsc.org/periodic-table/element/31/gallium"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Your stomach lining renews every few days",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stomach",
+    "https://www.ncbi.nlm.nih.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Your body has more bacterial cells than you thought (~1:1 ratio)",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Human_microbiome",
+    "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Your heart beats ~100,000 times a day",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Heart",
+    "https://www.heart.org/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Bones are stronger than steel by weight (claim)",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bone",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Babies are born with ~300 bones; adults have 206",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Human_skeleton",
+    "https://www.britannica.com/science/human-skeleton"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "You lose ~30,000 skin cells every minute (estimate varies)",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Skin",
+    "https://www.aad.org/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Your DNA would stretch ~2 m per cell",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/DNA",
+    "https://www.genome.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Humans share ~60% of genes with bananas (misleading)",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Banana",
+    "https://www.genome.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Octopuses have three hearts and blue blood",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Octopus",
+    "https://www.nationalgeographic.com/animals/invertebrates/facts/octopus"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Tardigrades survive the vacuum of space",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tardigrade",
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Some jellyfish can revert to juvenile form (Turritopsis)",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Turritopsis_dohrnii",
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Trees communicate via fungal networks - debated",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Sharks are older than trees",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shark",
+    "https://www.nhm.ac.uk/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Honey never spoils",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Honey",
+    "https://www.smithsonianmag.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Crows recognise human faces",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Corvidae",
+    "https://www.washington.edu/news/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Mantis shrimp punch rivals a bullet's acceleration",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mantis_shrimp",
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Bees can recognise human faces",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Honey_bee",
+    "https://journals.biologists.com/jeb"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Plants 'click' ultrasonically when stressed",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3",
+    "https://en.wikipedia.org/wiki/Plant_bioacoustics"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Lightning is ~5x hotter than the Sun's surface",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lightning",
+    "https://www.weather.gov/safety/lightning-science-overview"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "The Earth's core is as hot as the Sun's surface",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Earth%27s_inner_core",
+    "https://www.esrf.fr/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Earth's rotation is slowing; days were ~22 h in the past",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Day_length_fluctuations",
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Mount Everest grows a few mm per year",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Everest",
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Oceans hold ~97% of Earth's water",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Water_distribution_on_Earth",
+    "https://www.usgs.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Antarctica is the largest desert",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Desert",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "A cloud can weigh ~500 tonnes",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cloud",
+    "https://www.usgs.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Sand dunes 'sing'",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Singing_sand",
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Pistol shrimp snaps make cavitation flashes hotter than lava",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alpheidae",
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Your nose may detect >1 trillion odours (contested)",
+   "summary": "Evergreen human body fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Olfaction",
+    "https://www.science.org/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Eyes see only a narrow band of light",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visible_spectrum",
+    "https://science.nasa.gov/ems/09_visiblelight/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Magnets: Earth's field flips over geological time",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Geomagnetic_reversal",
+    "https://www.usgs.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Quantum tunnelling powers the Sun",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Quantum_tunnelling",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "The speed of light is 299,792 km/s",
+   "summary": "Evergreen physics fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Speed_of_light",
+    "https://www.nist.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Thalidomide: why drug mirror images matter",
+   "summary": "Evergreen chemistry fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Thalidomide",
+    "https://vchem3d.univ-tlse3.fr/vM_Stereo-Chirality-thalidomide.html"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Murchison meteorite carries amino acids from space",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Murchison_meteorite",
+    "https://www.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Glow-in-the-dark mushrooms (bioluminescent fungi)",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bioluminescent_fungi",
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Sloths can hold their breath ~40 min",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sloth",
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Cows have best friends (claim)",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cattle",
+    "https://www.ncbi.nlm.nih.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted_total": 105.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Venus spins backwards",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Venus",
+    "https://science.nasa.gov/venus/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "Uranus rolls on its side",
+   "summary": "Evergreen space fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Uranus",
+    "https://science.nasa.gov/uranus/facts/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "cosmic",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "There are more trees on Earth than stars in the Milky Way",
+   "summary": "Evergreen earth fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/articles/nature14967",
+    "https://en.wikipedia.org/wiki/Tree"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  },
+  {
+   "title": "A teaspoon of soil holds billions of microbes",
+   "summary": "Evergreen biology fact.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Soil_biology",
+    "https://www.usda.gov/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted_total": 119.7,
+   "style": "lab",
+   "validation": "not validated (not selected)"
+  }
+ ],
+ "selected": {
+  "title": "Mirror-image molecules: Nobel Prize in Chemistry 2026 to Henri Kagan and Kenso Soai",
+  "style": "lab",
+  "category": "science",
+  "weighted_total": 142.3,
+  "sources": [
+   "https://www.nobelprize.org/prizes/chemistry/2026/summary/",
+   "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough",
+   "https://www.adn.com/nation-world/2026/10/07/nobel-prize-in-chemistry-awarded-to-kagan-and-soai-for-untangling-mirror-images-in-molecules/",
+   "https://www.khaleejtimes.com/world/henri-kagan-kenso-soai-win-2026-nobel-chemistry-prize",
+   "https://www.timesofisrael.com/nobel-prize-in-chemistry-awarded-for-research-solving-mirror-image-mystery/",
+   "https://en.wikipedia.org/wiki/Carvone",
+   "https://chem.libretexts.org/Ancillary_Materials/Exemplars_and_Case_Studies/Exemplars/Foods/Stereoisomerism_and_Smell",
+   "https://en.wikipedia.org/wiki/Homochirality",
+   "https://www.rs.kagu.tus.ac.jp/soai/recent-e.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6541725",
+   "https://en.wikipedia.org/wiki/Non-linear_effects",
+   "https://chemistry.illinois.edu/system/files/inline-files/Todd.pdf",
+   "https://www.solardaily.com/reports/How_Life_Shatters_The_Chemistry_Mirror_999.html",
+   "https://arxiv.org/pdf/2110.01975",
+   "https://abcnews.com/Technology/wireStory/nobel-prize-chemistry-awarded-kagan-soai-research-solving-137057383"
+  ],
+  "verified_facts": [
+   "R-(-)-carvone smells of spearmint; its mirror image S-(+)-carvone gives caraway seeds their smell (Wikipedia Carvone, LibreTexts Stereoisomerism and Smell)",
+   "Mirror-image molecules have the same atoms/bonds, related like left and right hands (Al Jazeera, LibreTexts, Wikipedia Homochirality)",
+   "Smell receptors are chiral, so they respond differently to the two forms (Wikipedia Carvone, LibreTexts)",
+   "Nearly all protein amino acids are left-handed (L) (Wikipedia Homochirality, arXiv 2110.01975, Al Jazeera 'living organisms use almost exclusively one version')",
+   "Ordinary lab reactions give an equal (racemic) mix of both forms (Wikipedia Homochirality, Solar Daily 'How life shatters the chemistry mirror')",
+   "Soai reaction: a chiral molecule catalyses its own formation with the same handedness - asymmetric autocatalysis (Soai TUS page, PMC6541725 Symmetry 2019 review, Nobel citation 'autocatalysis')",
+   "~0.00005% ee amplified to >99.5% ee (Soai TUS recent-e page, PMC6541725 / DOAJ Symmetry 2019 review)",
+   "Kagan: non-linear effect - product ee higher than linear prediction from an impure (scalemic) catalyst (Wikipedia Non-linear effects, Illinois Todd.pdf review)",
+   "Nobel Prize in Chemistry 2026 to Kagan and Soai, announced Oct 7, 'for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis' (nobelprize.org, Al Jazeera, Khaleej Times, ADN/AP, Times of Israel)",
+   "Work decisive for pharmaceutical manufacturing / medicines (Khaleej Times/Nobel committee, ABC/AP quoting ACS president, Al Jazeera)"
+  ]
+ },
+ "runner_up": {
+  "title": "Carvone: same molecule, two smells (spearmint vs caraway)",
+  "weighted_total": 137.1
+ },
+ "top_runner_ups": [
+  {
+   "title": "Carvone: same molecule, two smells (spearmint vs caraway)",
+   "weighted_total": 137.1,
+   "validation": "VALIDATED (2 sources) - runner-up as a standalone"
+  },
+  {
+   "title": "Homochirality: life uses left-handed amino acids and right-handed sugars",
+   "weighted_total": 125.7,
+   "validation": "merged into selected topic"
+  },
+  {
+   "title": "~100 trillion neutrinos pass through your body every second",
+   "weighted_total": 125.5,
+   "validation": "validated earlier (2026-10-07) but too similar to the IceCube video -> novelty low"
+  }
+ ]
+}

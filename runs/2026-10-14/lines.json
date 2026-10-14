@@ -1,0 +1,59 @@
+{
+  "duration": 49.09,
+  "lines": [
+    {
+      "text": "This molecule smells like spearmint. Its mirror image smells like caraway seeds.",
+      "start": 0.35,
+      "dur": 4.223,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Same atoms, same bonds. Just flipped, like your left and right hands.",
+      "start": 5.023,
+      "dur": 3.798,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Your nose can tell them apart, because its smell receptors have a handedness too.",
+      "start": 9.271,
+      "dur": 3.693,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "And life picks one side. Almost all the amino acids in your proteins are left-handed.",
+      "start": 13.414,
+      "dur": 4.313,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "But ordinary reactions in a lab make a 50-50 mix of both hands. So how did one side win?",
+      "start": 18.177,
+      "dur": 5.156,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Kenso Soai found a molecule that helps build copies of itself, with the same handedness.",
+      "start": 23.783,
+      "dur": 4.406,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "A tiny 0.00005% head start grew to more than 99.5% of one hand.",
+      "start": 28.639,
+      "dur": 7.277,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Henri Kagan showed that impure catalysts can still give products purer than expected.",
+      "start": 36.366,
+      "dur": 4.278,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "On October 7, the two won the 2026 Nobel Prize in Chemistry, for work now key to making medicines.",
+      "start": 41.094,
+      "dur": 6.142,
+      "wav": "line_8.wav"
+    }
+  ]
+}
