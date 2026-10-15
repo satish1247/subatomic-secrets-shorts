@@ -115,5 +115,14 @@
     "style": "lab",
     "youtube_url": "https://www.youtube.com/watch?v=QvYyvzYFnvQ",
     "video_branch": "claude/video-2026-10-14"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "This Mars Rover Just Broke an Out-of-This-World Driving Record",
+    "topic": "NASA's Perseverance rover sets the off-world driving record (45.22 km / 28.10 mi on Oct 11, passing Opportunity; AutoNav >90%)",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=2onfq-skuMA",
+    "video_branch": "claude/video-2026-10-15"
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "duration": 50.24,
+  "lines": [
+    {
+      "text": "A robot on Mars just became the farthest-driving vehicle on any other world.",
+      "start": 0.35,
+      "dur": 3.531,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 11, NASA's Perseverance rover hit 45.22 kilometres on its odometer.",
+      "start": 4.331,
+      "dur": 6.158,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "That's 28.10 miles, just past the old record of 28.06 miles, set by the Opportunity rover.",
+      "start": 10.939,
+      "dur": 7.595,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Opportunity needed nearly 15 years to drive that far. Perseverance did it in about five and a half.",
+      "start": 18.984,
+      "dur": 4.833,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "The secret? It mostly drives itself. Its AutoNav system has handled more than 90% of the distance.",
+      "start": 24.266,
+      "dur": 5.294,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "It photographs the ground, builds a 3D map of hazards, and picks a safe path. NASA calls it thinking while driving.",
+      "start": 30.01,
+      "dur": 5.507,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The first Mars rover, Sojourner, checked 20 points ahead. Perseverance checks 600,000 with every look.",
+      "start": 35.967,
+      "dur": 6.055,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Its mission plan called for no more than 12.4 miles. NASA says it could keep rolling well into the 2030s.",
+      "start": 42.473,
+      "dur": 5.918,
+      "wav": "line_7.wav"
+    }
+  ]
+}
