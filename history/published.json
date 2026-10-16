@@ -124,5 +124,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=2onfq-skuMA",
     "video_branch": "claude/video-2026-10-15"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Amazon's New $75 AI Gadget Remembers What You Say",
+    "topic": "Amazon launches Bee Frontier ($74.99 AI wearable, on sale Oct 15) and Bee Eclipse ($99.99 phone attachment, coming soon); Bee Pro $11.99/mo",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=Q4PYz-VFLF8",
+    "video_branch": "claude/video-2026-10-16"
   }
 ]
