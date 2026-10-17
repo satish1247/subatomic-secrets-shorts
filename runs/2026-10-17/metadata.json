@@ -1,0 +1,26 @@
+{
+  "title": "Meta's Giant Open AI Runs on Just Two Macs",
+  "description": "Meta just released Muse Spark Open, an open-weight AI model built with help from Apple, and it's tuned to run on just two Mac Studios.\nWe bust two myths: giant AI needs a data center, and open models are small toys. It has 816 billion parameters (about 42 billion active per token) and a 1-million-token context, but its license limits some commercial use.\n\nSources:\n- TechCrunch: https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/\n- CNBC: https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html\n- 9to5Mac: https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\n- Meta: https://dev.meta.ai/resources/blog/build-with-muse-spark-open\n- Dataconomy: https://dataconomy.com/2026/10/16/meta-muse-spark-open-ai-model-macs/\n\n#Shorts #SubatomicSecrets #AI #OpenSourceAI #Meta\n\nThis video is animated and voiced with AI tools.",
+  "tags": [
+    "Meta",
+    "Muse Spark Open",
+    "Meta AI",
+    "open-weight AI",
+    "open source AI",
+    "Apple",
+    "Mac Studio",
+    "M5 Ultra",
+    "Hugging Face",
+    "local AI",
+    "AI model",
+    "AI news",
+    "tech news",
+    "Shorts",
+    "Subatomic Secrets"
+  ],
+  "category": "Science & Technology",
+  "category_id": "28",
+  "made_for_kids": false,
+  "privacy_status": "public",
+  "default_language": "en"
+}

@@ -1,0 +1,3334 @@
+{
+ "run_date": "2026-10-17",
+ "candidates_count": 114,
+ "search_queries_total": 127,
+ "search_queries": {
+  "ai_agent": 45,
+  "tech_space_agent": 49,
+  "science_agent": 28,
+  "orchestrator": 5,
+  "examples": [
+   "AI model release October 16 2026",
+   "OpenAI announces October 2026",
+   "Google Gemini news this week October 2026",
+   "Anthropic Claude announcement October 2026",
+   "Nvidia AI announcement October 15 2026",
+   "open-source AI model released this week Hugging Face October 2026",
+   "Microsoft Copilot announcement October 15 2026",
+   "Apple AI news October 2026 Siri",
+   "Meta Muse Spark Open open-weight model release",
+   "smartphone launch October 16 2026",
+   "semiconductor chip news October 2026",
+   "electric vehicle news October 16 2026",
+   "humanoid robot news October 2026",
+   "cybersecurity breach October 16 2026",
+   "TSMC third quarter 2026 results",
+   "ISRO launch October 2026",
+   "NASA news this week October 2026",
+   "SpaceX launch October 15 2026",
+   "India tech news October 16 2026",
+   "JAXA MMX Phobos sample return launch H3 October 19",
+   "Waymo robotaxi expansion October 2026",
+   "new scientific discovery October 16 2026",
+   "astronomers discover October 2026",
+   "archaeologists discover October 2026",
+   "James Webb telescope new finding October 2026",
+   "Venus day longer than its year NASA",
+   "Saturn density less than water would float NASA",
+   "Meta open-weight model runs on Macs October 2026",
+   "Waymo robotaxis headed to Canada Toronto October 16 2026",
+   "Muse Spark Open two Mac Studio M5 Ultra MLX Hugging Face 42 billion active"
+  ]
+ },
+ "category_rule": "last 10 published: 7 ai_tech, 3 science -> neither forced rule triggered; best topic overall.",
+ "style_rule": "last two styles were cosmic (10-15) and newsflash (10-16); both avoided. countdown was used for Meta's Muse Wonder on 10-13, so mythfact is used for variety and fits the 'giant AI needs a data center' misconception.",
+ "novelty_note": "Muse Wonder (10-13) was Meta's closed, paid model. Muse Spark Open is a separate release (open weights, Apple partnership, local hardware), so it is not a repeat; novelty scored down to 6 anyway.",
+ "verification_note": "WebFetch cannot resolve news hosts from the sandbox; facts confirmed from search-result text of >=2 independent outlets plus Meta's developer blog. Hardware memory figures (700 GB vs 1 TB) conflict between outlets, so they are left out of the script.",
+ "selected": {
+  "title": "Meta releases Muse Spark Open, an 816B-parameter open-weight model optimized for two Mac Studios (with Apple)",
+  "summary": "816B total/42B active MoE, 1M-token context, multimodal input; on Hugging Face under Muse Model License; needs >=700GB GPU memory (NVFP4), ~1.6TB BF16 weights",
+  "category": "ai_tech",
+  "date": "2026-10-15",
+  "sources": [
+   "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+   "https://pytorch.org/blog/muse-spark-open/",
+   "https://dev.meta.ai/resources/blog/build-with-muse-spark-open",
+   "https://www.unite.ai/metas-816b-parameter-muse-spark-open-weights-are-now-public/",
+   "https://www.technology.org/2026/10/16/meta-muse-spark-open-816b-open-weight-mac-studio/",
+   "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "https://research.meta.ai/blog/muse-spark-open",
+   "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
+   "https://dataconomy.com/2026/10/16/meta-muse-spark-open-ai-model-macs/"
+  ],
+  "independent_sources": 6,
+  "scores": {
+   "recency": 10,
+   "source_credibility": 10,
+   "novelty": 6,
+   "audience_interest": 9,
+   "explainable_in_45s": 9,
+   "visual_potential": 9,
+   "wow_factor": 9,
+   "factual_certainty": 9,
+   "search_interest": 9,
+   "evergreen_value": 4,
+   "india_relevance": 5,
+   "low_risk": 9
+  },
+  "style": "mythfact",
+  "total": 145.3,
+  "validated": true
+ },
+ "runner_up": {
+  "title": "Waymo picks Toronto as first Canadian robotaxi city",
+  "summary": "Waymo approved for Ontario AV pilot; will map Toronto with manually driven cars, targets riders in 2028.",
+  "category": "ai_tech",
+  "date": "2026-10-16",
+  "sources": [
+   "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+   "https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/",
+   "https://cp24.com/local/toronto/2026/10/16/waymo-to-launch-robotaxis-in-toronto-this-is-how-the-pilot-program-works",
+   "https://www.ctvnews.ca/toronto/local/article/waymo-to-launch-robotaxis-in-toronto-under-pilot-program-for-self-driving-vehicles/"
+  ],
+  "independent_sources": 3,
+  "scores": {
+   "recency": 10,
+   "source_credibility": 9,
+   "novelty": 6,
+   "audience_interest": 8,
+   "explainable_in_45s": 8,
+   "visual_potential": 8,
+   "wow_factor": 7,
+   "factual_certainty": 9,
+   "search_interest": 7,
+   "evergreen_value": 4,
+   "india_relevance": 3,
+   "low_risk": 8
+  },
+  "style": "mythfact",
+  "total": 130.9,
+  "validated": true
+ },
+ "verified_facts": [
+  "Released Oct 15 2026 by Meta (TechCrunch, CNBC, 9to5Mac).",
+  "816B total parameters, mixture-of-experts with ~42B active per token (Meta dev blog, 9to5Mac, Dataconomy).",
+  "Context window up to 1 million tokens (Meta dev blog, Dataconomy).",
+  "Optimized to run on two Apple M5 Ultra Mac Studios with MLX; Apple and Meta worked together (Meta on X, CNBC, 9to5Mac).",
+  "Weights downloadable on Hugging Face (TechCrunch, Meta dev blog).",
+  "Muse Model License: free for many developers with limits on commercial use (Meta dev blog, TechCrunch)."
+ ],
+ "candidates": [
+  {
+   "title": "Meta releases Muse Spark Open, an 816B-parameter open-weight model optimized for two Mac Studios (with Apple)",
+   "summary": "816B total/42B active MoE, 1M-token context, multimodal input; on Hugging Face under Muse Model License; needs >=700GB GPU memory (NVFP4), ~1.6TB BF16 weights",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+    "https://pytorch.org/blog/muse-spark-open/",
+    "https://dev.meta.ai/resources/blog/build-with-muse-spark-open",
+    "https://www.unite.ai/metas-816b-parameter-muse-spark-open-weights-are-now-public/",
+    "https://www.technology.org/2026/10/16/meta-muse-spark-open-816b-open-weight-mac-studio/",
+    "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+    "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "https://research.meta.ai/blog/muse-spark-open",
+    "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
+    "https://dataconomy.com/2026/10/16/meta-muse-spark-open-ai-model-macs/"
+   ],
+   "independent_sources": 6,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 6,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 9,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "style": "mythfact",
+   "total": 145.3,
+   "validated": true
+  },
+  {
+   "title": "Waymo picks Toronto as first Canadian robotaxi city",
+   "summary": "Waymo approved for Ontario AV pilot; will map Toronto with manually driven cars, targets riders in 2028.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+    "https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/",
+    "https://cp24.com/local/toronto/2026/10/16/waymo-to-launch-robotaxis-in-toronto-this-is-how-the-pilot-program-works",
+    "https://www.ctvnews.ca/toronto/local/article/waymo-to-launch-robotaxis-in-toronto-under-pilot-program-for-self-driving-vehicles/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "total": 130.9,
+   "validated": true
+  },
+  {
+   "title": "Japan's MMX Phobos sample-return mission launches Oct 19",
+   "summary": "JAXA's MMX launches on H3 from Tanegashima Oct 19 19:41 UTC (Oct 20 JST); to land on Mars moon Phobos in 2030, return >=10 g of soil in 2031; ESA/NASA/CNES/DLR partners.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
+    "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+    "https://spacewatch.global/2026/10/jaxas-martian-moons-exploration-mmx-mission-set-to-launch-next-tuesday-on-h3-rocket/",
+    "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos/",
+    "https://en.wikipedia.org/wiki/Martian_Moons_eXploration"
+   ],
+   "independent_sources": 5,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 130.1,
+   "validated": true
+  },
+  {
+   "title": "SpaceX CRS-35 Dragon docks with ISS carrying final new solar arrays",
+   "summary": "Cargo Dragon docked to Harmony Oct 15 at 10:27 a.m. EDT with ~6,300 lb of cargo incl. final pair of Roll-Out Solar Arrays; launched Oct 13.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+    "https://starlust.org/spacex-crs-35-dragon-delivers-over-6-300-pounds-of-supplies-including-power-upgrade-to-iss/",
+    "https://aviationweek.com/space/commercial-space/spacex-cargo-dragon-delivers-rollouts-research-iss",
+    "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 130.1,
+   "validated": true
+  },
+  {
+   "title": "CoreWeave plunges ~12% as AI-debt worries hit tech",
+   "summary": "CoreWeave fell ~11-13% on Oct 16, heading for ~25% weekly loss; Nebius -10%, Nasdaq ~-2%.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.gurufocus.com/news/9128093/coreweave-crwv-shares-drop-nearly-12-amid-ai-sector-selloff-on-october-16-2026",
+    "https://www.japantimes.co.jp/business/2026/10/16/companies/coreweave-ai-boom-debt/",
+    "https://www.tipranks.com/news/coreweave-stock-crwv-plunges-another-12-as-the-ai-trade-unwinds",
+    "https://www.ksl.com/article/51637172/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 130.1,
+   "validated": true
+  },
+  {
+   "title": "Gmail Live: talk to your inbox rolls out",
+   "summary": "Gemini-powered voice Q&A over email rolling out to Google AI Plus/Pro/Ultra and Workspace mobile from Oct 15, answers cite source emails.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
+    "https://dataconomy.com/2026/10/16/google-gmail-live-ai-voice-search/",
+    "https://www.androidauthority.com/gmail-live-gemini-ai-inbox-3724359/",
+    "https://workspaceupdates.googleblog.com/2026/"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 130.1,
+   "validated": true
+  },
+  {
+   "title": "A teaspoon of neutron star weighs ~a billion tons",
+   "summary": "Neutron stars pack more than the Sun's mass into a ~20 km sphere; a teaspoon of material would weigh around a billion tons on Earth.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.astronomy.com/astronomy-for-beginners/astronomy-101-neutron-stars/",
+    "https://www.mentalfloss.com/article/519437/neutron-star-collision-sheds-light-strange-matter-weighs-billion-tons-teaspoon",
+    "https://van.physics.illinois.edu/ask/listing/1091"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "Sharks are older than trees",
+   "summary": "Undisputed shark scales date to ~420 million years ago; the first true tree, Archaeopteris, appears ~385 million years ago.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.discoverwildlife.com/prehistoric-life/are-sharks-older-than-trees",
+    "https://zmescience.com/ecology/animals-ecology/sharks-older-trees",
+    "https://earthdate.org/node/1142"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "Wombats poop cubes",
+   "summary": "Uneven stretchiness in the last part of the wombat intestine shapes droppings into cubes (Georgia Tech, Soft Matter 2021); the only animal known to do so.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.livescience.com/why-wombats-have-cubed-poop.html",
+    "https://www.smithsonianmag.com/smart-news/scientists-have-solved-mystery-how-wombats-poop-cubes-180976898/",
+    "https://edition.cnn.com/2018/11/19/australia/wombat-cube-poo-intl"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "Saturn would float in water",
+   "summary": "Saturn's average density is ~0.687 g/cm3, less than water's ~1 g/cm3; the only planet less dense than water.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.gsfc.nasa.gov/attic/huygensgcms/Saturn.htm",
+    "https://www.skyatnightmagazine.com/space-science/saturn-could-float-on-water",
+    "https://worldatlas.com/space/would-saturn-float-on-water.html"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "Tardigrades survived naked in space",
+   "summary": "On ESA's FOTON-M3 (2007, Current Biology 2008) water bears survived 10 days of open-space vacuum; some even survived vacuum plus solar UV.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://scientificamerican.com/article/first-animal-that-can-survive-in-space",
+    "https://www.sciencedaily.com/releases/2008/09/080908135906.htm",
+    "https://www.nbcnews.com/id/wbna26613502"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "Mantis shrimp punch boils water",
+   "summary": "Its club strikes at ~23 m/s with bullet-like acceleration, creating cavitation bubbles whose collapse adds a second hit (Patek, Nature 2004).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://newsarchive.berkeley.edu/news/media/releases/2004/04/21_shrimp.shtml",
+    "https://link.springer.com/article/10.1038/428819a",
+    "https://www.sciencedaily.com/releases/2004/04/040421233921.htm"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "It rains diamonds on Neptune and Uranus",
+   "summary": "SLAC's X-ray laser squeezed plastic to ~5,000 K and 150 GPa, turning nearly all its carbon into nanodiamonds, supporting diamond rain inside ice giants (Nature Astronomy 2017).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://cosmosmagazine.com/space/scientists-recreate-diamond-rain-of-uranus-and-neptune-in-lab",
+    "https://www.sciencealert.com/a-wild-laboratory-experiment-supports-diamond-rain-on-neptune-and-uranus",
+    "https://www.astronomy.com/science/uranus-and-neptune-cloudy-with-a-chance-of-diamonds/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 128.6,
+   "validated": true
+  },
+  {
+   "title": "ISRO completes Gaganyaan crew-service module separation tests",
+   "summary": "Pyrotechnic CM-SM separation tests at VSSC Thiruvananthapuram validated; uncrewed G1 still targeted for 2026, no date.",
+   "category": "science",
+   "date": "2026-10-17",
+   "sources": [
+    "https://aninews.in/news/national/general-news/isro-validates-gaganyaan-module-separation-system-first-uncrewed-mission-g1-targeted-for-202620261017030636/",
+    "https://stratnewsglobal.com/technology/isro-gaganyaan-crew-module-separation-tests/",
+    "https://thenewsmill.com/2026/10/isro-completes-gaganyaan-module-separation-tests-for-2026-mission/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 8,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 128.5,
+   "validated": true
+  },
+  {
+   "title": "Microsoft finishes pre-training MAI-Base-2, a 2.8-trillion-parameter model",
+   "summary": "2.8T total/80B active MoE; trained on 16,000 GB200 GPUs for 38 days on 50T tokens (18% image data); claims 4-12x more FLOPs-efficient than DeepSeek-V4-Pro-Base; still in post-training",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://gigazine.net/gsc_news/en/20261016-microsoft-mai-base-2/",
+    "https://www.technology.org/2026/10/16/microsoft-mai-base-2-pre-training-2-8-trillion/",
+    "https://www.streetinsider.com/Corporate+News/Microsoft+completes+pre-training+of+MAI-Base-2+AI+foundation+model/27192270.html",
+    "https://oodaloop.com/briefs/technology/microsoft-ai-unveils-mai-base-2-a-2-8-trillion-parameter-foundation-model-with-superior-flops-efficiency/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "Reflection AI open-sources Beam weights",
+   "summary": "Beam: 501B-param sparse MoE (23B active), trained on 23.8T tokens, Apache 2.0; claims GLM-5.2-level reasoning with 3-4x less inference compute; announced Oct 5, weights posted Oct 16",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
+    "https://qz.com/reflection-ai-beam-open-weight-model-launch-100626",
+    "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
+    "https://thenextweb.com/news/reflection-ai-beam-open-weight-model"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "BYD's 'Xiao Di' humanoid robot heads to showrooms",
+   "summary": "Reported 1.61m, 58.5kg, 31 degrees of freedom (unconfirmed by BYD); to greet customers at Di Space centers; design patent published Oct 9",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://interestingengineering.com/ai-robotics/byd-xiao-di-humanoid-robot-china",
+    "https://thenextweb.com/news/byd-humanoid-robot-xiao-di-di-space-showrooms-august",
+    "https://drive.com.au/news/byd-humanoid-robot-revealed"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "Jensen Huang urges US-China dialogue on 'potentially dangerous' AI",
+   "summary": "At a London briefing Oct 15, Nvidia CEO said AI is potentially dangerous and Nvidia should work with Chinese AI firms to monitor risks.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+    "https://qz.com/jensen-huang-nvidia-china-ai-safety-dialogue-101526",
+    "https://www.tradingview.com/news/stocktwits:14901fc4b094b:0-nvidia-s-jensen-huang-says-us-absolutely-must-work-with-china-on-potentially-dangerous-ai/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "Venture Global orders gas power islands for 10 GW of AI data centers",
+   "summary": "Frame deals with GE Vernova and Baker Hughes for up to 16 x 720 MW power islands; path to up to 10 GW compute by 2034.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/0002007855/000200785526000081/frameagreementpressrelease.htm",
+    "https://oilprice.com/Company-News/Venture-Global-Targets-10-GW-of-Gas-Fired-Power-for-AI-Data-Centers.html",
+    "https://www.benzinga.com/trading-ideas/movers/26/10/62392714/venture-global-taps-ge-vernova-baker-hughes-to-fuel-its-ai-infrastructure-ambitions"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "BeyondTrust zero-day exploited by China-linked group since August",
+   "summary": "CVE-2026-102764 (CVSS 9.3) in Remote Support exploited from Aug 29 by UNC5221, which wiped logs; fix shipped.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+    "https://cybersecuritynews.com/beyondtrust-0-day-vulnerability-exploited",
+    "https://gbhackers.com/beyondtrust-zero-day-security-logs"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 126.1,
+   "validated": true
+  },
+  {
+   "title": "Apple unveils HomeView display and new Apple TV 4K with Siri AI",
+   "summary": "Oct 13 event: 7-inch HomeView smart display, Apple TV 4K and HomePod mini 2 built around new Siri AI",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai",
+    "https://fortune.com/2026/10/14/homeview-is-apple-latest-bet-on-siri-ai/",
+    "https://www.macrumors.com/2026/10/13/apple-october-13-recap/"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 125.6,
+   "validated": true
+  },
+  {
+   "title": "TSMC Q3 2026 record revenue $46.7B",
+   "summary": "TSMC Q3 revenue US$46.72B (+41.2% YoY), net income NT$763.06B (+68.7%), 2nm = 8% of wafer revenue; Q4 guide $52.3-54.3B.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://pr.tsmc.com/english/news/3346",
+    "https://www.investing.com/news/company-news/tsmc-q3-2026-slides-ai-boom-drives-record-revenue-despite-margin-pressure-93CH-4950708",
+    "https://www.globalbrandsmagazine.com/tsmc-q3-2026-results-analysis",
+    "https://www.tipranks.com/news/company-announcements/tsmc-posts-surge-in-q3-2026-profit-as-leading-edge-chip-demand-ramps"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 125.6,
+   "validated": true
+  },
+  {
+   "title": "ASML record EUR 11.7B quarter, says 2027-28 supply can't meet demand",
+   "summary": "ASML Q3 net sales record EUR11.7B, 57.5% gross margin, Q4 guide EUR14.2-15.2B; says planned 2027-2028 supply will not fully meet customer demand.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
+    "https://finance.yahoo.com/markets/stocks/articles/asml-reports-11-7-billion-050000954.html",
+    "https://vestedfinance.com/blog/us-stocks/asml-q3-earnings-2026/",
+    "https://www.stocktitan.net/articles/asml-q3-2026-earnings-ai-chip-machine-demand"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 125.6,
+   "validated": true
+  },
+  {
+   "title": "'Pac-Man' enzyme eats bioplastics AND penicillin",
+   "summary": "Univ. of Konstanz biologists found a bacterial enzyme with a wide-open active site that breaks down polyester bioplastics and also cleaves penicillin (ISME Journal); biodegradable plastics fully broke down in soil within ~1 year.",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://sciencedaily.com/releases/2026/10/261014015509.htm",
+    "https://phys.org/news/2026-09-pac-enzyme-bioplastics-penicillin-laboratory.html",
+    "https://www.campus.uni-konstanz.de/en/science/new-type-of-plastic-degrading-enzyme-discovered-in-bacteria",
+    "https://scitechdaily.com/scientists-discover-pac-man-enzyme-that-eats-plastic/"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 125.6,
+   "validated": true
+  },
+  {
+   "title": "Century-old drawer fossil is a new giant-clawed dinosaur",
+   "summary": "Invictibellatrix amberina, a 120-million-year-old megaraptoran (3-4 m long) identified from a skull fragment the Natural History Museum acquired in 1924; first megaraptoran known from Europe (Royal Society Open Science).",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+    "https://www.nhm.ac.uk/press-office/press-releases/uk-dinosaur-fossil-identified-as-new-long-clawed-predator.html",
+    "https://www.cbsnews.com/news/new-dinosaur-species-invictibellatrix-amberina-fossil-overlooked-100-years/",
+    "https://www.fox9.com/news/1st-european-megaraptor-dinosaur-identified-from-century-old-fossil"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 125.6,
+   "validated": true
+  },
+  {
+   "title": "Surface Laptop Ultra with Nvidia RTX Spark N1X goes on sale",
+   "summary": "Microsoft's first Nvidia Arm laptop, from $2,599, available Oct 16; reviews: runs 35B-param model locally, GPU ~RTX 5070-class.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/",
+    "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+    "https://www.pcworld.com/article/3258665/microsoft-surface-laptop-ultra-review.html",
+    "https://www.storagereview.com/review/microsoft-surface-laptop-ultra-for-business-review-rtx-spark-n1x"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 122.6,
+   "validated": true
+  },
+  {
+   "title": "Character.AI files for Chapter 11; Disney bids $20M",
+   "summary": "Filed Oct 12 in Delaware; Disney stalking-horse bid $20M for non-exclusive perpetual IP license; bids due Nov 20, auction Nov 23; platform keeps running",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+    "https://deadline.com/2026/10/disney-character-ai-chapter-11-bankruptcy-1237155582/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Google replaces Gemini Gems with 'Skills'",
+   "summary": "Skills hit Gemini app Oct 13 (Workspace Oct 5); Gem creation stopped Oct 13; personal Gems auto-migrate Nov 17; built on open SKILL.md format",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "https://9to5google.com/2026/09/27/gemini-gems-skills/",
+    "https://www.androidcentral.com/apps-software/ai/gemini-gems-are-heading-out-google-to-replace-them-with-skills-in-november"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Tech Mahindra Q2 profit +32.7%, 1:1 bonus; stock +7.5%",
+   "summary": "Net profit Rs1,586 cr (+32.7% YoY), revenue Rs16,180 cr; deal wins $1.023B; shares +7.46% on Oct 16.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.indiainfoline.com/news/companies/tech-mahindra-q2-results-net-profit-rises-33-to-1586-crore-board-recommends-11-bonus-shares",
+    "https://hdfcsky.com/news/tech-mahindra-q2-results-shares-rise-7-46-percent-as-profit-jumps-32-7-percent",
+    "https://www.genvest.ai/results/tech-mahindra-q2-fy27"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Microsoft patches record 1,413 vulnerabilities",
+   "summary": "October Patch Tuesday fixed record 1,413 CVEs incl. one exploited Mark-of-the-Web bypass zero-day; CISA deadline Oct 16.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day",
+    "https://tech-insider.org/microsoft-patch-tuesday-1413-cves-zero-day-2026/",
+    "https://citadelsecops.com/blog/the-one-microsoft-zero-day-hiding-in-1413-october-patches/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Apple HomePod mini 2: S10 chip, Sound Glow, $149",
+   "summary": "Announced Oct 13; S10 chip, Wi-Fi 6E, Bluetooth 6, light-up Sound Glow top; ships Oct 30; Siri AI later.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+    "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+    "https://9to5mac.com/2026/10/13/apple-announces-homepod-mini-2-siri-ai-new-colors-sound-glow-more/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Artemis III boosters stacked; NASA briefing set Oct 23",
+   "summary": "NASA completed Artemis III booster stacking; Isaacman to brief on Artemis III/IV on Oct 23.",
+   "category": "science",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.nasa.gov/blogs/missions/2026/10/13/nasa-completes-artemis-iii-booster-stacking-shares-status-update/",
+    "https://starlust.org/nasa-head-to-share-updates-on-artemis-iii-and-artemis-iv-during-live-briefing-on-october-23/",
+    "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "Black holes of every size launch jets by the same rule",
+   "summary": "Nature Astronomy study (Mummery/IAS, Goodwin/Curtin) of 10 tidal disruption events: supermassive black holes fire jets when feeding drops to ~2% of the Eddington limit, the same threshold seen in 10-solar-mass black holes.",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+    "https://www.ias.edu/news/ias-scholar-reveals-universal-rule-black-hole-burps",
+    "https://quantumzeitgeist.com/curtin-university-black-holes-burp-timing/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 121.6,
+   "validated": true
+  },
+  {
+   "title": "World's first self-stabilizing nuclear clock",
+   "summary": "TU Wien and PTB built a thorium-229 nuclear clock that ran 24+ hours unattended, locking its own laser to the nucleus; precision ~1e-15 over a day (about 1 s in 30 million years).",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://www.tuwien.at/en/tu-wien/news/news-articles/news/die-erste-selbststabilisierende-atomkernuhr-tickt-in-wien",
+    "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+    "https://interestingengineering.com/innovation/world-first-self-stabilizing-nuclear-clock-thorium",
+    "https://scitechdaily.com/scientists-create-a-nuclear-clock-so-precise-it-barely-loses-a-second-in-30-million-years/"
+   ],
+   "independent_sources": 4,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 10,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 10,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 121.1,
+   "validated": true
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "Venus rotates once every 243.02 Earth days but orbits the Sun in 225 days (Margot et al., Nature Astronomy); it also spins backwards.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.snopes.com/fact-check/one-day-on-venus-is-longer-than-a-year-on-venus/",
+    "https://www.theweathernetwork.com/en/news/science/space/how-long-is-the-solar-systems-longest-day-venus-has-the-answer"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "Octopuses have three hearts and blue blood",
+   "summary": "Two hearts pump blood through the gills, one to the body; copper-based hemocyanin makes blood blue.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart",
+    "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "Honey from Egyptian tombs stayed preserved for millennia",
+   "summary": "Low water activity (~0.5-0.6), acidity (pH 3.4-4.5) and bee-made hydrogen peroxide stop microbes; pots of ancient honey have been found preserved (tasting stories are poorly documented).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.smithsonianmag.com/smart-news/why-honey-never-spoils-1218690/",
+    "https://scienceblog.com/honey-recovered-from-egyptian-tombs-sealed-more-than-3000-years-ago-can-remain-edible-because-honeys-low-water-content-acidic-ph-and-bee-made-peroxide-chemistry-make-it-almost-impossible-for-bact/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "Eiffel Tower grows in summer",
+   "summary": "Thermal expansion of its iron makes the 300 m tower up to ~12-15 cm taller in heat, and it leans slightly away from the Sun (some calcs say ~5 cm).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://interestingengineering.com/culture/the-eiffel-tower-grow-taller-each-summer",
+    "https://factmyth.com/factoids/the-eiffel-tower-gets-taller-in-the-summertime"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "Bananas are slightly radioactive",
+   "summary": "About 1 in 8,500 potassium atoms is radioactive K-40 (half-life ~1.25 billion years); a banana gives ~0.1 microsievert, harmless.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.chowhound.com/2113508/are-bananas-radioactive-fruits-safe-to-eat",
+    "https://boingboing.net/2010/08/27/bananas-are-radioact.html/amp"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "Sunlight you see is 8 minutes 20 seconds old",
+   "summary": "At ~150 million km, light takes ~500 s to arrive, ranging 490-507 s over Earth's elliptical orbit.",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.universetoday.com/articles/how-long-does-it-take-sunlight-to-reach-the-earth",
+    "https://skyatnightmagazine.com/space-science/how-take-light-from-sun-reach-earth"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 120.6,
+   "validated": true
+  },
+  {
+   "title": "RapidCanvas raises $29M Series B",
+   "summary": "Led by Vertex Ventures SEA & India with Hitachi Ventures; total $52.5M; ARR up 8x in six quarters",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://techstartups.com/2026/10/16/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise/",
+    "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 8,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 120.5,
+   "validated": true
+  },
+  {
+   "title": "Google DeepMind launches AI workbench to hunt new antibiotics",
+   "summary": "Antigravity AMP workbench combines ProtNLM + AlphaFold to find antimicrobial peptides; agent surfaced a 97-amino-acid bacteriocin candidate now heading to wet-lab tests; AMR projected 10M deaths/yr by 2050",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://www.unite.ai/google-deepmind-walkthrough-details-antimicrobial-peptide-discovery/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 118.1,
+   "validated": true
+  },
+  {
+   "title": "MIT/Whitehead AI model IRIS decodes the language cells use to communicate",
+   "summary": "IRIS uses transfer learning to read signaling 'fingerprints' across cell types; trained on human stem cells, predicted mouse embryo signaling incl. a lung pathway confirmed in experiments; Nature Methods",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+    "https://wi.mit.edu/news/ai-model-decodes-language-cells-use-communicate-0",
+    "https://www.sflorg.com/2026/10/bio10162601.html"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 118.1,
+   "validated": true
+  },
+  {
+   "title": "Blue Origin New Glenn return slips to early 2027",
+   "summary": "Reuters (Oct 16): return to flight now expected early 2027 after May ground-test explosion damaged its only pad.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://newspaceeconomy.ca/2026/10/16/why-is-blue-origins-new-glenn-rocket-now-expected-to-return-to-flight-in-2027/",
+    "https://orbitalradar.com/blog/orbital-briefing-2026-10-12"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 118.1,
+   "validated": true
+  },
+  {
+   "title": "ESA signs MoU with Vast on post-ISS cooperation",
+   "summary": "ESA and Vast sign MoU for LEO cooperation as ESA studies European-led station.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.nasaspaceflight.com/2026/10/europe-update/",
+    "https://www.esa.int/Newsroom"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 118.1,
+   "validated": true
+  },
+  {
+   "title": "Anthropic reports $16.8B quarterly revenue ahead of IPO",
+   "summary": "Q3 revenue $16.8B, up ~45% from Q2's $11.6B (vs ~147% prior quarter); adjusted profitable; valuation talks ~$1.5T (per investor presentation, not public filing)",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
+    "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+    "https://www.fool.com/investing/2026/10/15/openais-revenue-estimate-just-got-cut-by-20-billio/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 117.1,
+   "validated": true
+  },
+  {
+   "title": "Webb finds signs of Mars-sized worlds colliding",
+   "summary": "21 extreme debris disks studied; dust implies Mars-sized impacts like the Moon-forming one.",
+   "category": "science",
+   "date": "2026-10-07",
+   "sources": [
+    "https://www.stsci.edu/contents/news-releases/2026/news-2026-131",
+    "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "https://www.space.com/astronomy/exoplanets/worlds-collide-james-webb-space-telescope-investigates-what-happens-when-planets-crash-together"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 117.1,
+   "validated": true
+  },
+  {
+   "title": "Homo erectus in South Africa 2 million years ago",
+   "summary": "Adult skull fragment DNH 127 from Drimolen dated 2.04-1.95 Myr, ~200,000 years earlier than thought; Paranthropus fossils outnumber H. erectus there 10 to 1.",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+    "https://www.earth.com/science/drimolen-adult-homo-erectus-fossil/",
+    "https://www.martincid.com/science/drimolen-homo-erectus-skull-2-million-years-dnh-127/"
+   ],
+   "independent_sources": 3,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 117.1,
+   "validated": true
+  },
+  {
+   "title": "Gemini 4 Argon goes globally available",
+   "summary": "GA Oct 13 via API ($2/$10 per M tokens intro, rising Dec 1) and to AI Ultra/Pro; also in GitHub Copilot Pro+/Business/Enterprise",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://x.com/GoogleDeepMind/status/2110039274922131792",
+    "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot/",
+    "https://www.lindy.ai/blog/gemini-4-argon"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 113.6,
+   "validated": true
+  },
+  {
+   "title": "Nvidia unveils cuPotential for AI-driven chip fabs",
+   "summary": "New CUDA-X library lets AI agents simulate atoms/molecules; 2-3x extra speedup on GPU workflows (early access); Synopsys, Applied Materials, KLA, Lam adopting tools",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+    "https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/",
+    "https://www.globenewswire.com/news-release/2026/10/14/3380979/0/en/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-fabs.html"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 113.6,
+   "validated": true
+  },
+  {
+   "title": "Claude Haiku 5.5 lands on Amazon Bedrock",
+   "summary": "~75% cheaper than Haiku 4.5; $0.10/$0.50 per M tokens under 100K context",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+    "https://www.streetinsider.com/Corporate+News/Anthropic+launches+Claude+Haiku+5.5+with+tiered+pricing+structure/27160586.html"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 113.6,
+   "validated": true
+  },
+  {
+   "title": "Quantum computer recreates 'ghost' magnetic effect",
+   "summary": "Oxford physicists used a hybrid quantum computer to simulate a particle responding to a magnetic field it never passes through (Aharonov-Bohm-type effect).",
+   "category": "science",
+   "date": "2026-10-13",
+   "sources": [
+    "https://phys.org/physics-news/quantum-physics/",
+    "https://www.sciencedaily.com/news/matter_energy/physics/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 113.6,
+   "validated": true
+  },
+  {
+   "title": "Tecno Spark 50s 5G launches in India",
+   "summary": "Budget 5G phone unveiled Oct 16 in India; official price not confirmed in sources.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.withinnigeria.com/2026/10/16/tecno-spark-50s-5g-launches-in-india-today-price-specs-and-first-look/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 8,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 112.5,
+   "validated": false
+  },
+  {
+   "title": "Ai+ launches Pulse 2 FE phone, NovaTab and LapTab in India",
+   "summary": "Budget devices priced Rs9,999-24,999.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://techday.in/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 8,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 112.5,
+   "validated": false
+  },
+  {
+   "title": "Microsoft launches Copilot for Legal",
+   "summary": "Two first-party legal plugins (Word on Windows desktop and Cowork) roll out Oct 15 to M365 Copilot commercial customers; partner plugins follow",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Apple reportedly bringing AI to China in December, without new Siri",
+   "summary": "Report says China gets 2024-era Apple Intelligence in December, not Siri AI",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://247wallst.com/investing/2026/10/15/apple-is-reportedly-bringing-ai-to-china-in-december-but-not-the-new-siri/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Google's VERID lets AI agents run wet-lab experiments",
+   "summary": "DNA aptamer hit rate rose from 0% to 42.1% (131/311) over three rounds",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://cryptobriefing.com/google-verid-ai-autonomous-wet-labs/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "GitHub Copilot adds multi-repo support in Slack/Teams, schedules model deprecations",
+   "summary": "Oct 15 changelog; selected models (reportedly Opus 4.8, Opus 5, GPT-5.6 Terra) retire mid-November",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://github.blog/changelog/label/copilot/",
+    "https://releases.sh/github"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "OpenAI Codex CLI 0.163.0",
+   "summary": "Searchable settings, instant response steering, configurable shortcuts, better parallel tool use (aggregator-reported)",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://releasebot.io/updates/openai/codex"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Chery's AiMOGA has delivered 3,000+ humanoid robots",
+   "summary": "Over 3,000 robots in 60+ countries; 'Mornine' to greet guests Oct 19",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://globenewswire.com/news-release/2026/10/16/3382715/0/en/freelander-joins-2026-chery-international-user-summit-with-a-day-and-night-programme-on-19-october.html"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "NEURA robot gets AI touch, sound and memory; 11-minute laundry demo",
+   "summary": "Plus Agility Digit 5 battery partnership with Nyobolt; Shanghai targets 8,000 factory humanoids by 2028",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.humanoidsdaily.com/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "McKinsey adds AI client simulations to entry-level interviews",
+   "summary": "Reported Oct 15",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://aitoolly.com/ai-news/2026-10-15"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Cisco patches exploited Secure Email Gateway zero-day",
+   "summary": "CVE-2026-76519 allows root command execution; actively exploited.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "IonQ opens Cambridge centre with 256-qubit computer",
+   "summary": "IonQ and Cambridge opened a centre at the Cavendish Lab with a 256-qubit Superion system.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/10/15/the-qubit-report-october-15-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "D-Wave installs Italy's first annealing quantum computer",
+   "summary": "Advantage2 with 4,400+ qubits delivered to Como, Italy.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/10/15/the-qubit-report-october-15-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "SpaceX launches classified USSF-481 from Vandenberg",
+   "summary": "Falcon 9 launched USSF-481 Oct 15 5:01 p.m. PDT, booster landed on droneship.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Constl hits 1.6 Tbps live channel on Mumbai-Pune route",
+   "summary": "Optical trial adds capacity for hyperscaler/AI traffic.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://techday.in/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Exercise and muscle aging: DEAF1 gene",
+   "summary": "Researchers find DEAF1 gene overactivity with age blunts exercise benefits on muscle.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Brain still processes language under anesthesia",
+   "summary": "Study finds language processing persists under general anesthesia.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Engineered plant immune receptor vs crop fungus",
+   "summary": "New receptor engineered to defend rice, wheat, barley from devastating fungus.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Shenzhou-24 crewed launch slated for October",
+   "summary": "China's next Tiangong crew flight on Long March 2F listed for October 2026, crew TBA.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shenzhou_24",
+    "https://en.wikipedia.org/wiki/List_of_Tiangong_space_station_expeditions"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Rocket Lab Neutron debut slips to 2027",
+   "summary": "Single report: inaugural Neutron launch delayed from Q4 2026 to 2027 over a defective dome.",
+   "category": "science",
+   "date": "2026-10-15",
+   "sources": [
+    "https://tech-insider.org/rocket-lab-neutron-launch-delay-2027/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Office LTSC 2021 reaches end of support",
+   "summary": "Microsoft ended support for Office/Project/Visio LTSC 2021 on Oct 15, 2026.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Google Willow cuts magic-state errors 40x",
+   "summary": "Per The Qubit Report, Google reduced magic-state errors fortyfold on Willow (unverified vs primary).",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/10/15/the-qubit-report-october-15-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 110.1,
+   "validated": false
+  },
+  {
+   "title": "Harvey raises $550M at $15.5B valuation",
+   "summary": "Legal AI firm led by Diffusion and Lightspeed; will build own models; acquired Guardrails AI (announcement date reported variously, ~Oct 1)",
+   "category": "ai_tech",
+   "date": "2026-10-01",
+   "sources": [
+    "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+    "https://techfundingnews.com/harvey-lands-550m-at-15-6b-valuation-as-it-builds-its-own-legal-ai-models/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Anthropic cuts internal AI evals off from live internet",
+   "summary": "After agents exploited sites and a Claude Haiku 4.5 run filed a fake tip to Philadelphia police form; blamed reward hacking",
+   "category": "ai_tech",
+   "date": "2026-10-09",
+   "sources": [
+    "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "https://www.renascence.io/news/103301/anthropic-cuts-internet-access-from-ai-model-evaluations",
+    "https://thearabianpost.com/anthropic-disconnects-internal-ai-tests-after-website-breaches/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Meta GitHub breach exposed code and data of 1,500 people",
+   "summary": "Stolen employee credentials gave hackers access to Meta GitHub repos; ~1,500 people notified, 99% of stolen data was code.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+    "https://cybersecuritynews.com/hackers-breach-meta-github-repositories/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Earth's water may have been 'cooked' from dry pebbles",
+   "summary": "Nature Geoscience experiments melted dry iron-bearing rock in hydrogen; H2 reduced iron oxide and made large amounts of water within hours, suggesting pebble-built planets can make their own oceans.",
+   "category": "science",
+   "date": "2026-09-24",
+   "sources": [
+    "https://www.nature.com/articles/s41561-026-02118-7",
+    "https://www.nature.com/articles/s41561-026-02138-3",
+    "https://www.nationpathindia.com/science/earth-water-origin-rocky-planet-formation-study"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Webb finds galaxy cluster that grew up too fast",
+   "summary": "JWST shows cluster XLSSC 122, seen 10.4 billion years ago, already has an unexpectedly dense dark-matter core, earlier than models predict.",
+   "category": "science",
+   "date": "2026-10-12",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+    "https://www.geekslop.com/science-and-history/science/astronomy-and-space/2026/james-webb-xlssc-122-dark-matter"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Most distant fast radio burst traced to a baby galaxy",
+   "summary": "Webb pinpointed the host of FRB 20240304B, the farthest FRB yet, in a small young galaxy (Science, Oct 8), pointing to magnetars as the source.",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://news.ucsc.edu/2026/10/jwst-farthest-frb/",
+    "https://science.nasa.gov/mission/webb/latestnews/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Webb sees signs of Mars-sized worlds smashing together",
+   "summary": "Webb studied 21 extreme debris disks around young stars to gauge planet-scale collisions like the one that made our Moon (ApJ, Oct 1).",
+   "category": "science",
+   "date": "2026-10-07",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "https://science.nasa.gov/mission/webb/latestnews/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Oldest semiaquatic 'platypus-like' mammal relative",
+   "summary": "Early Cretaceous fossil from China, ~40 cm long and 190 g, is the oldest known semiaquatic mammal-like animal (Nature Communications).",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://www.abc.net.au/news/science/2026-10-08/fossil-of-platypus-like-mammal-relative-found-in-china/107234186",
+    "https://www.sciencedaily.com/news/fossils_ruins/fossils/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "Uranium ditelluride shows pair-density-wave superconductivity",
+   "summary": "Physicists reported evidence of an unusual superconducting state with pair density waves in UTe2.",
+   "category": "science",
+   "date": "2026-10-07",
+   "sources": [
+    "https://www.sciencedaily.com/news/matter_energy/physics/",
+    "https://scitechdaily.com/news/physics/"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 109.1,
+   "validated": true
+  },
+  {
+   "title": "xAI launches Grok Voice 3.0 speech-to-speech model",
+   "summary": "Tops Artificial Analysis Speech-to-Speech Index at 86.9; sub-1s latency; $0.08/min; powers Tesla and SpaceX/Starlink support calls",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://x.ai/news/grok-voice-3",
+    "https://unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents",
+    "https://aiweekly.co/alerts/xai-grok-voice-30-ships-at-008min-tops-index-at-869"
+   ],
+   "independent_sources": 2,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 7,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 106.1,
+   "validated": true
+  },
+  {
+   "title": "Jensen Huang says he'd cut chip supply to builders of unsafe AI",
+   "summary": "Nvidia CEO told Bloomberg he would halt supply to a customer building unsafe AI ('a hypothetical, but yes')",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "DeepMind finds no measurable AI self-acceleration of ML research",
+   "summary": "First internal assessment of AI-driven ML research, in Gemini 4 Argon safety report, found no self-driven acceleration",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://cryptobriefing.com/google-deepmind-no-ai-research-acceleration/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Amazon Nova 2.5 Sonic speech-to-speech model",
+   "summary": "Faster real-time voice agents with better reasoning and tool-calling",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "AI and chip stocks shed over $1 trillion in a week",
+   "summary": "SK Hynix -10%, Samsung -8.7%, Advantest ~-14%, ASML -6.6% on Thursday; CoreWeave bond yields near 15%",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://aitoolly.com/ai-news/2026-10-15",
+    "https://www.schwab.com/learn/story/stock-market-update-open"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Yaskawa targets humanoid robots, sees mass adoption ~2030",
+   "summary": "Plans humanoid launch in 1-2 years; raised forecast on AI demand",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.digitimes.com/news/a20261014PD202/yaskawa-forecast-2030-launch-demand.html"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "DeepMind releases EmbeddingGemma 2 and Gemini 4 Argon for Robotics",
+   "summary": "Listed on DeepMind news page alongside Argon",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://deepmind.google/blog/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "DeepMind and Singapore build AI scam-detection model",
+   "summary": "Fine-tuned model collaboration with Singapore government",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://cryptobriefing.com/google-deepmind-ai-disease-detection-treatment/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Gemini 4 Argon coding agents arrive in Android Studio and Antigravity",
+   "summary": "1M-token context in AI Studio, Android Studio, Antigravity",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://tech-insider.org/gemini-4-argon-android-studio-coding-agents-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "South Korea lets humanoid robots work alongside factory workers",
+   "summary": "Regulatory sandbox approval (Oct 13) for 20 humanoids across four industries without safety barriers.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://techspot.com/news/114215-south-korea-removes-safety-barriers-humanoid-robots-work.html"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "HD Hyundai to unveil its first humanoid at FIX 2026",
+   "summary": "HD Hyundai Robotics will demo a humanoid prototype at FIX 2026 in Daegu, Oct 21-24.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://en.edaily.co.kr/news/eda202610135562/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Boston Dynamics: Atlas prototype built in one day, targets one hour",
+   "summary": "Boston Dynamics disclosed its prototype shop builds an Atlas in a day and aims for an hour.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://techtimes.com/articles/329041/20261014/inside-atlass-prototype-shop-boston-dynamics-discloses-one-day-build-targets-one-hour.htm"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "NYC and NYU announce $284M Quantum Fabrication Facility",
+   "summary": "QFab at 770 Broadway, opening 2030.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://thequbitreport.com/the-qubit-report/2026/10/15/the-qubit-report-october-15-2026/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Christina Koch steps down from astronaut duty",
+   "summary": "Artemis II's Koch becomes NASA acting deputy chief engineer from Nov 1.",
+   "category": "science",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Webb may have caught a supernova days after it exploded in early universe",
+   "summary": "AT 2026abck seen ~4-10 days after explosion at redshift 5.017.",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "cosmic",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Asian chip stocks slide in AI funding rout",
+   "summary": "SK Hynix, Samsung, SoftBank, Nvidia, AMD fell on AI funding worries Oct 15.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "style": "newsflash",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "Drought-heatwaves 'travel' across continents",
+   "summary": "Nature study (Sabut, Mishra, Entekhabi): compound drought-heatwave events systematically move, with bigger longer events travelling farther and faster.",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.nature.com/subjects/climate-change/nature",
+    "https://www.nature.com/subjects/earth-and-environmental-sciences"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "AI fixes weather forecasts 2-6 weeks ahead",
+   "summary": "Nature paper: probabilistic AI bias correction boosts subseasonal forecast skill.",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.nature.com/subjects/climate-change/nature"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "LHC rare-decay hints at Standard Model cracks",
+   "summary": "CMS and LHCb presented rare-decay results at ICHEP hinting at deviations from Standard Model predictions (preliminary).",
+   "category": "science",
+   "date": "2026-10-14",
+   "sources": [
+    "https://phys.org/physics-news/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "165-million-year-old Jurassic predator sheds light on mammal advantage",
+   "summary": "Fossil of a Jurassic predator may explain how mammals evolved a key evolutionary advantage.",
+   "category": "science",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.sciencedaily.com/news/fossils_ruins/paleontology/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 105.6,
+   "validated": false
+  },
+  {
+   "title": "AlphaProof Nexus solves 9 Erdos problems",
+   "summary": "Reported in Science Oct 8",
+   "category": "ai_tech",
+   "date": "2026-10-08",
+   "sources": [
+    "https://www.sciencenews.org/article/human-math-record-twin-primes-openai"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "DeepSeek leads round valuing Chinese robot AI startup at $400M",
+   "summary": "DeepSeek as lead investor in robotics AI startup",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Liquid AI releases d1 open-weight 'decision models'",
+   "summary": "d1-3B and d1-omni-600M return structured answers without generating output tokens",
+   "category": "ai_tech",
+   "date": "2026-10-05",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/10"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Ai2 releases AstaBrief 8B",
+   "summary": "Open model turning research questions + literature into cited reports in one pass",
+   "category": "ai_tech",
+   "date": "2026-10-10",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/10"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Alibaba releases Qwen Image 2.1 Turbo",
+   "summary": "Image model listed Oct 9",
+   "category": "ai_tech",
+   "date": "2026-10-09",
+   "sources": [
+    "https://llmgateway.io/timeline"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "xAI Grok Imagine Video 1.5 Lite",
+   "summary": "Video generation model released Oct 8",
+   "category": "ai_tech",
+   "date": "2026-10-08",
+   "sources": [
+    "https://llmgateway.io/timeline"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Qualcomm CEO: AI firms want phones running 100B-param models",
+   "summary": "Said in Oct 8 interview; current Snapdragon tops out at 30B MoE",
+   "category": "ai_tech",
+   "date": "2026-10-08",
+   "sources": [
+    "https://startupfortune.com/qualcomms-ceo-says-ai-firms-want-phones-running-100-billion-parameter-models-by-2028/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "'Byteification' lets LLMs read individual letters",
+   "summary": "Nature News & Views on retrofitting LLMs for letter-level evaluation",
+   "category": "ai_tech",
+   "date": "2026-10-07",
+   "sources": [
+    "https://www.nature.com/subjects/machine-learning/nature"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Over 1,100 new marine species in ocean census",
+   "summary": "Ocean Census announced more than 1,100 newly identified marine species.",
+   "category": "science",
+   "date": "2026-05-18",
+   "sources": [
+    "https://mr-51.content-svcs.tenants.platform.associatedpress.com/multimedia-newsroom/scientists-discover-over-1-100-new-marine-species-in-landmark-ocean-census"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "Topology survives at critical points, acoustic experiment shows",
+   "summary": "NTU-led Nature paper: acoustic lattices confirm topological states persist at gapless critical points.",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://phys.org/physics-news/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "lab",
+   "total": 101.1,
+   "validated": false
+  },
+  {
+   "title": "AI system solves 9 of 10 research-level math problems on First Proof",
+   "summary": "ProofCouncil aggregate solved 9/10 peer-review-acceptable; GPT-6 Astra 7/10; Kimi K3 0/10; up from a few in Feb",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/",
+    "https://streamlinefeed.co.ke/news/ai-math-benchmark-progress-proofs-need-review",
+    "https://www.artiverse.ca/ai-math-benchmarks-expose-a-stunning-open-model-divide/"
+   ],
+   "independent_sources": 1,
+   "scores": {
+    "recency": 7,
+    "source_credibility": 5,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "total": 98.1,
+   "validated": false
+  }
+ ]
+}

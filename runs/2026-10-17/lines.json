@@ -1,0 +1,65 @@
+{
+  "duration": 42.12,
+  "lines": [
+    {
+      "text": "A giant AI just walked out of the data center.",
+      "start": 0.35,
+      "dur": 2.403,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 15, Meta released Muse Spark Open, built with help from Apple.",
+      "start": 3.253,
+      "dur": 4.139,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Let's bust two myths.",
+      "start": 7.893,
+      "dur": 1.096,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Myth number one: an AI this powerful only runs in a huge data center.",
+      "start": 9.488,
+      "dur": 4.138,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Fact: Meta tuned it to run on just two Mac Studios with Apple's M5 Ultra chip.",
+      "start": 14.127,
+      "dur": 5.052,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "And anyone can download its weights from Hugging Face.",
+      "start": 19.679,
+      "dur": 2.435,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Myth number two: open AI models are just small toys.",
+      "start": 22.614,
+      "dur": 3.022,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Fact: it has 816 billion parameters, but only about 42 billion switch on for each token.",
+      "start": 26.135,
+      "dur": 6.267,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "And it can read up to a million tokens at once.",
+      "start": 32.903,
+      "dur": 2.145,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "One catch: its license limits some commercial use. Would you run AI at home?",
+      "start": 35.547,
+      "dur": 4.673,
+      "wav": "line_9.wav"
+    }
+  ]
+}

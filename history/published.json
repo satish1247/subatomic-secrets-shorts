@@ -133,5 +133,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=Q4PYz-VFLF8",
     "video_branch": "claude/video-2026-10-16"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Meta's Giant Open AI Runs on Just Two Macs",
+    "topic": "Meta releases Muse Spark Open, an 816B-parameter open-weight model (42B active, 1M context) optimized with Apple to run on two M5 Ultra Mac Studios (Oct 15)",
+    "category": "ai_tech",
+    "style": "mythfact",
+    "youtube_url": "https://www.youtube.com/watch?v=ytFJ5jGtOIM",
+    "video_branch": "claude/video-2026-10-17"
   }
 ]

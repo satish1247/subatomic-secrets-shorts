@@ -58,5 +58,9 @@
   {
     "date": "2026-10-16",
     "topic": "Amazon launches Bee Frontier ($74.99 AI wearable, on sale Oct 15) and Bee Eclipse ($99.99 phone attachment, coming soon); Bee Pro $11.99/mo"
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "Meta releases Muse Spark Open, an 816B-parameter open-weight model (42B active, 1M context) optimized with Apple to run on two M5 Ultra Mac Studios (Oct 15)"
   }
 ]
