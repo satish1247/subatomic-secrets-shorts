@@ -142,5 +142,14 @@
     "style": "mythfact",
     "youtube_url": "https://www.youtube.com/watch?v=ytFJ5jGtOIM",
     "video_branch": "claude/video-2026-10-17"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Astronomers Just Found the First Green Star",
+    "topic": "Astronomers identify the first known green star: white dwarf WD J1330+6435 tinted chartreuse by sodium from planetary debris (Warwick, RASTI, Oct 16); plus a pink carbon white dwarf, maybe the reddest star",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=mvnslCWjzPE",
+    "video_branch": "claude/video-2026-10-18"
   }
 ]

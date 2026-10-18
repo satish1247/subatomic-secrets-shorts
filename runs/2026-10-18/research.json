@@ -1,0 +1,2778 @@
+{
+ "run_date": "2026-10-18",
+ "queries": 31,
+ "candidate_count": 101,
+ "balance": {
+  "last10_science": 2,
+  "last10_ai_tech": 8,
+  "rule": "fewer than 3 science in last 10 -> today must be science"
+ },
+ "avoid_styles": [
+  "mythfact",
+  "newsflash"
+ ],
+ "weights": {
+  "recency": 1.5,
+  "source_credibility": 2.0,
+  "novelty": 1.5,
+  "audience_interest": 2.0,
+  "explainable_in_45s": 1.5,
+  "visual_potential": 1.2,
+  "wow_factor": 1.5,
+  "factual_certainty": 2.0,
+  "search_interest": 1.0,
+  "evergreen_value": 0.5,
+  "india_relevance": 0.6,
+  "low_risk": 1.5
+ },
+ "selected": "Astronomers identify the first known green star (white dwarf WD J1330+6435)",
+ "runner_up": [
+  "Orionid meteor shower peaks Oct 21-22, debris of Halley's Comet",
+  "NASA releases 800+ GB of Artemis II lunar science data",
+  "Pac-Man enzyme breaks down bioplastics and penicillin-type antibiotics"
+ ],
+ "note": "Several news sites were unreachable from the sandbox (direct fetch blocked); facts confirmed from search-result excerpts across multiple outlets.",
+ "candidates": [
+  {
+   "title": "Astronomers identify the first known green star (white dwarf WD J1330+6435)",
+   "summary": "Warwick team: sodium-rich atmosphere from planetary debris makes a white dwarf look chartreuse green; also a pink carbon white dwarf, maybe the reddest star.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://warwick.ac.uk/news/pressreleases/astronomers-reveal-true-colours-of-white-dwarf-stars/",
+    "https://www.eurekalert.org/news-releases/1147389",
+    "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html",
+    "https://www.cnn.com/2026/10/16/science/green-star-discovery-scli-intl",
+    "https://www.detroitnews.com/story/tech/science/2026/10/16/newly-identified-green-star-leaves-astronomers-amazed/92279303007/",
+    "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
+    "https://www.livescience.com/space/astronomy/white-dwarf-stars-can-be-purple-pink-and-even-green-surprising-new-study-finds"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 10,
+    "novelty": 10,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 10,
+    "wow_factor": 10,
+    "factual_certainty": 9,
+    "search_interest": 9,
+    "evergreen_value": 8,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "7+ independent sources incl. university press release, EurekAlert, CNN, Reuters (Detroit News), Live Science, Space.com",
+   "weighted_score": 157.5
+  },
+  {
+   "title": "Orionid meteor shower peaks Oct 21-22, debris of Halley's Comet",
+   "summary": "Orionids active Oct 2-Nov 7, peak predawn Oct 21-22; Halley returns 2061.",
+   "category": "science",
+   "date": "2026-10-17",
+   "sources": [
+    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-orionid-meteor-shower",
+    "https://www.farmersalmanac.com/orionid-meteor-shower-19412",
+    "https://www.sortiraparis.com/en/news/in-paris/articles/256516-orionids-2026-the-peak-of-the-meteor-shower-is-nearing"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 10,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 8,
+    "india_relevance": 7,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "3 sources; space.com preview Oct 17",
+   "weighted_score": 141.5
+  },
+  {
+   "title": "NASA releases 800+ GB of Artemis II lunar science data",
+   "summary": "11,000 images, 8.5 h crew audio; five lunar impact flashes confirmed.",
+   "category": "science",
+   "date": "2026-10-07",
+   "sources": [
+    "https://aiaa.org/?p=37067",
+    "https://www.turkiyetoday.com/lifestyle/nasa-releases-800-gb-of-artemis-ii-moon-data-unheard-astronaut-recordings-in-turkiye-3229874"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 6,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "image count varies by source",
+   "weighted_score": 127.3
+  },
+  {
+   "title": "Pac-Man enzyme breaks down bioplastics and penicillin-type antibiotics",
+   "summary": "Univ. of Konstanz, ISME Journal (Sep 2).",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://campus.uni-konstanz.de/en/node/2586",
+    "https://www.the-microbiologist.com/news/an-enzyme-with-potential-new-type-of-plastic-degrading-enzyme-discovered-in-bacteria/9905.article"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "style": "lab",
+   "validated": true,
+   "note": "older than 48h",
+   "weighted_score": 127.1
+  },
+  {
+   "title": "SpaceX asks FAA to raise Starship launches from Starbase to 456/yr",
+   "summary": "FAA reviewing request (from 25).",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "single source; science day",
+   "weighted_score": 122.3
+  },
+  {
+   "title": "Webb 3D map of exoplanet WASP-17b's atmosphere ('gemstones' are figurative)",
+   "summary": "Nature Astronomy: ring-shaped atmosphere with protrusions nicknamed gemstones.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.space.com/astronomy/exoplanets/",
+    "https://ua.news/en/technologies/astronomi-stvorili-3d-model-atmosferi-ekzoplaneti-wasp-17b-space-com",
+    "https://www.archyde.com/james-webb-space-telescope-maps-asymmetric-atmosphere-on-exoplanet-wasp-17b/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "gem framing is metaphorical; risk of misleading hook",
+   "weighted_score": 121.0
+  },
+  {
+   "title": "Webb images Flower Bud Nebula NGC 7129",
+   "summary": "Stellar nursery protostars (Oct 6-7).",
+   "category": "science",
+   "date": "2026-10-07",
+   "sources": [
+    "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-cauldron-of-cosmic-creation-space-photo-of-the-day-for-oct-7-2026",
+    "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 10,
+    "wow_factor": 6,
+    "factual_certainty": 9,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "pretty but low news value",
+   "weighted_score": 118.8
+  },
+  {
+   "title": "1,100+ new marine species in Ocean Census",
+   "summary": "AP May 2026.",
+   "category": "science",
+   "date": "2026-05-18",
+   "sources": [
+    "https://mr-51.content-svcs.tenants.platform.associatedpress.com/multimedia-newsroom/scientists-discover-over-1-100-new-marine-species-in-landmark-ocean-census"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "old",
+   "weighted_score": 116.7
+  },
+  {
+   "title": "Universal 2% Eddington rule for black hole jets",
+   "summary": "Mummery & Goodwin, Nature Astronomy: jets launch at ~2% Eddington across masses.",
+   "category": "science",
+   "date": "2026-09-20",
+   "sources": [
+    "https://ias.edu/news/ias-scholar-reveals-universal-rule-black-hole-burps",
+    "https://www.scimex.org/newsfeed/wa-scientist-helps-crack-black-hole-burp-mystery"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "September; not fresh",
+   "weighted_score": 115.4
+  },
+  {
+   "title": "Most distant fast radio burst host galaxy pinned by Webb",
+   "summary": "Oct 8.",
+   "category": "science",
+   "date": "2026-10-08",
+   "sources": [
+    "https://science.nasa.gov/mission/webb/latestnews/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "covered as runner-up previously",
+   "weighted_score": 115.2
+  },
+  {
+   "title": "Yale: how cortisol makes stressful memories stronger",
+   "summary": "ScienceDaily Oct 16.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "single source",
+   "weighted_score": 111.6
+  },
+  {
+   "title": "NASA satellites capture atmospheric waves above Hurricane Simon",
+   "summary": "ScienceDaily Oct 16.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "disaster-adjacent",
+   "weighted_score": 111.4
+  },
+  {
+   "title": "USC: renewable supply of engineered cancer-fighting immune cells",
+   "summary": "ScienceDaily Oct 16.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.sciencedaily.com/news/health_medicine/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 6
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "medical: dropped (advice risk), single source",
+   "weighted_score": 111.1
+  },
+  {
+   "title": "Nazi Germany's last reactor was far from working, uranium cube analysis shows",
+   "summary": "ScienceDaily Oct 16.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.sciencedaily.com/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 5
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "war topic; single source",
+   "weighted_score": 110.5
+  },
+  {
+   "title": "Why there are no green stars (blackbody colour)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.sciencefocus.com/space/why-arent-there-any-green-stars"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Neutron star teaspoon weighs about a billion tonnes",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/venus/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Saturn's rings are mostly water ice",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/saturn/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Light from the Sun takes about 8 minutes to reach Earth",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/sun/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Octopuses have three hearts",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://ocean.si.edu/ocean-life/invertebrates/octopuses"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Your stomach lining renews every few days",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Bananas are slightly radioactive (potassium-40)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.epa.gov/radtown"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Honey never spoils",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.smithsonianmag.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Tardigrades survive the vacuum of space",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.esa.int/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Olympus Mons is ~2.5x taller than Everest",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/mars/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Jupiter's Great Red Spot is shrinking",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/jupiter/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Water can boil and freeze at once (triple point)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nist.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Glass is an amorphous solid, not a slow liquid",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Sharks are older than trees",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nhm.ac.uk/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Earth's inner core is as hot as the Sun's surface",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.esrf.fr/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Human DNA would stretch ~2 m per cell",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.genome.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Lightning is hotter than the Sun's surface",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.weather.gov/safety/lightning"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "The Moon is moving away ~3.8 cm a year",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/moon/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Hot water can freeze faster (Mpemba effect)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Some metals explode in water (alkali metals)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.rsc.org/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Diamonds rain on Neptune and Uranus (models)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "A teaspoon of soil holds more microbes than people on Earth",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.usda.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Trees talk through fungal networks",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Quantum tunnelling powers the Sun",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Helium makes your voice higher (speed of sound)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.rsc.org/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Mantis shrimp punch causes cavitation bubbles",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Your bones are stronger than steel by weight",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Space is completely silent",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Venus spins backwards",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/venus/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Pluto has a heart-shaped nitrogen glacier",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/dwarf-planets/pluto/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Crows recognise human faces",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.washington.edu/news/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Humans glow faintly (bioluminescence study)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://journals.plos.org/plosone/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Water expands when it freezes",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.usgs.gov/special-topics/water-science-school"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Ants outweigh wild birds and mammals combined (biomass)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.pnas.org/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Mars sunsets are blue",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/mars/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Some frogs freeze solid and thaw alive",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "The Eiffel Tower grows in summer heat",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.toureiffel.paris/en"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "A black hole's event horizon (no escape for light)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/universe/black-holes/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Your brain uses ~20% of your energy",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Gold came from neutron star collisions",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "The Sahara was once green",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Electric eels can deliver ~600 V",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Iron in your blood was made in stars",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "There are more stars than grains of sand (estimate)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.esa.int/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Hummingbirds' hearts beat over 1,000 times a minute",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.audubon.org/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Snowflakes are six-sided because of water's shape",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.noaa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Wombats make cube-shaped poop",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://pubs.rsc.org/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Sound travels ~4x faster in water",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.noaa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "A sneeze can travel several metres",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.mit.edu/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Fire has no shadow in some light (myth vs fact)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Your eyes see the past (light delay)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Cosmic microwave background: the oldest light",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.esa.int/Science_Exploration/Space_Science/Planck"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Coral reefs are visible from space",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "The deepest point: Challenger Deep ~11 km",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://oceanexplorer.noaa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "Earth has a second, quasi-moon (Kamo'oalewa)",
+   "summary": "Evergreen science fact (exempt from 48 h rule).",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 5,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "evergreen pool; second source not checked this run",
+   "weighted_score": 110.4
+  },
+  {
+   "title": "DeepSeek V4.1-Flash-1017 open MoE agent model",
+   "summary": "552B params, MIT licence (roundup).",
+   "category": "ai_tech",
+   "date": "2026-10-17",
+   "sources": [
+    "https://aiweekly.co/ai-news-today"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 8,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "only one roundup source; science day",
+   "weighted_score": 110.0
+  },
+  {
+   "title": "Rogue Saturn-mass planet 10,000 light-years away",
+   "summary": "Space.com astronomy.",
+   "category": "science",
+   "date": "2026-01-01",
+   "sources": [
+    "https://www.space.com/tag/astronomy/page/6"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 109.9
+  },
+  {
+   "title": "Moon-Saturn conjunction Oct 24",
+   "summary": "Skywatching.",
+   "category": "science",
+   "date": "2026-10-24",
+   "sources": [
+    "https://www.teleamazonas.com/tendencias/entretenimiento/ciencia/lluvias-estrellas-planetas-alineados-eventos-astronomicos-octubre-129226/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 6,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "single source",
+   "weighted_score": 109.2
+  },
+  {
+   "title": "Webb finds ancient galaxy cluster with unexpectedly dense dark matter",
+   "summary": "ScienceDaily Oct 12.",
+   "category": "science",
+   "date": "2026-10-12",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "single source found",
+   "weighted_score": 108.7
+  },
+  {
+   "title": "Gaganyaan uncrewed test expected by end of 2026",
+   "summary": "ISRO chair statement.",
+   "category": "ai_tech",
+   "date": "2026-08-15",
+   "sources": [
+    "https://www.keralakaumudi.com/en/KERALA/GENERAL/isor-back-to-launch-satellites-by-october-1790326"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 10,
+    "low_risk": 9
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "not yet happened",
+   "weighted_score": 107.9
+  },
+  {
+   "title": "Saturn at opposition Oct 4",
+   "summary": "Skywatching.",
+   "category": "science",
+   "date": "2026-10-04",
+   "sources": [
+    "https://www.astroshop.eu/blog/?p=63304"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 6,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 7,
+    "india_relevance": 6,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "passed",
+   "weighted_score": 107.7
+  },
+  {
+   "title": "Neanderthal DNA linked to being an early riser",
+   "summary": "Possibly older study.",
+   "category": "science",
+   "date": "2026-01-01",
+   "sources": [
+    "https://www.tovima.com/tag/genes"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 7,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "date unclear",
+   "weighted_score": 107.1
+  },
+  {
+   "title": "Rocket Lab delays Neutron debut to 2027",
+   "summary": "Manufacturing problem.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.space.com/space-exploration/launches-spacecraft"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 8,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "single source",
+   "weighted_score": 106.3
+  },
+  {
+   "title": "Tesla Roadster stunt with SpaceX thrusters",
+   "summary": "Space.com mention.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.space.com/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "unclear details",
+   "weighted_score": 105.0
+  },
+  {
+   "title": "Microsoft MAI-Base-2 2.8T-parameter MoE foundation model",
+   "summary": "Roundup claim.",
+   "category": "ai_tech",
+   "date": "2026-10-17",
+   "sources": [
+    "https://aiweekly.co/ai-news-today"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "unconfirmed",
+   "weighted_score": 104.9
+  },
+  {
+   "title": "NeodraDynamics 13-ft 39-hydraulic humanoid for heavy lifting",
+   "summary": "Robotics newsletter Oct 14.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://buttondown.com/robotcafe/archive/today-in-robotics-wednesday-october-14-2026/"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 4,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "single newsletter",
+   "weighted_score": 104.9
+  },
+  {
+   "title": "Colobus congoensis, new monkey species from DR Congo",
+   "summary": "Spring 2026.",
+   "category": "science",
+   "date": "2026-04-01",
+   "sources": [
+    "https://bowseat.org/news/natures-latest-masterpieces-the-unbelievable-life-found-this-year/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "old, single source",
+   "weighted_score": 103.4
+  },
+  {
+   "title": "Black Forest Labs FLUX 3 Klein 5.6B open image model",
+   "summary": "Roundup claim.",
+   "category": "ai_tech",
+   "date": "2026-10-17",
+   "sources": [
+    "https://aiweekly.co/ai-news-today"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "unconfirmed",
+   "weighted_score": 102.8
+  },
+  {
+   "title": "Arctic sea ice 2026 minimum",
+   "summary": "NASA listing.",
+   "category": "science",
+   "date": "2026-10-10",
+   "sources": [
+    "https://science.nasa.gov/2026/10/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "climate - controversy risk",
+   "weighted_score": 102.7
+  },
+  {
+   "title": "Humanoid ran 100 m in 8.64 s at World Humanoid Robot Games",
+   "summary": "LinkedIn claim.",
+   "category": "ai_tech",
+   "date": "2026-08-01",
+   "sources": [
+    "https://ru.linkedin.com/in/sergey-khomyakov-70201414"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 2,
+    "novelty": 8,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "style": "countdown",
+   "validated": false,
+   "note": "unverified",
+   "weighted_score": 102.5
+  },
+  {
+   "title": "Atomic steps one atom high steer quantum vortices in superconductors",
+   "summary": "ScienceDaily Oct 16.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.sciencedaily.com/news/top/technology/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 4,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 5,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "hard to explain",
+   "weighted_score": 101.3
+  },
+  {
+   "title": "ISRO-Sweden Shukrayaan Venus mission cooperation",
+   "summary": "Agreement.",
+   "category": "science",
+   "date": "2026-06-01",
+   "sources": [
+    "https://gkbooks.in/isro-in-news-latest-current-affairs/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 10,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "old",
+   "weighted_score": 99.4
+  },
+  {
+   "title": "Oppo Find X10 global launch Oct 21",
+   "summary": "Phone launch.",
+   "category": "ai_tech",
+   "date": "2026-10-21",
+   "sources": [
+    "https://gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "future, unconfirmed",
+   "weighted_score": 96.9
+  },
+  {
+   "title": "NASA 2027 Human Lander Challenge for lunar communications",
+   "summary": "Student challenge.",
+   "category": "science",
+   "date": "2026-10-12",
+   "sources": [
+    "https://science.nasa.gov/2026/10/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 8,
+    "search_interest": 3,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "low interest",
+   "weighted_score": 96.9
+  },
+  {
+   "title": "Mammals may have dormant regeneration abilities (Science)",
+   "summary": "Spanish-language report.",
+   "category": "science",
+   "date": "2026-05-01",
+   "sources": [
+    "https://www.vistazo.com/discover/cientificos-creen-que-los-humanos-podrian-activar-habilidades-de-regeneracion-ocultas-en-el-cuerpo/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 8,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "unverified",
+   "weighted_score": 94.1
+  },
+  {
+   "title": "NASA opens applications for flight directors",
+   "summary": "Mission control recruitment.",
+   "category": "science",
+   "date": "2026-10-12",
+   "sources": [
+    "https://whenthecurveslineup.com/2026/10/03/2026-october-12-nasa-opens-applications-for-next-class-of-flight-directors/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 8,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "weak sources",
+   "weighted_score": 93.3
+  },
+  {
+   "title": "Muon g-2 wins 2026 Breakthrough Prize in Fundamental Physics",
+   "summary": "$3M shared by ~400 scientists.",
+   "category": "science",
+   "date": "2026-04-01",
+   "sources": [
+    "https://news.spill.org/en/article/multi-decade-experiment-wins-breakthrough-prize-in-fundamental-physics-150"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "old",
+   "weighted_score": 91.3
+  },
+  {
+   "title": "Hugging Face Open Source AI Week in San Francisco",
+   "summary": "Event from Oct 16.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://www.mind-verse.de/ressourcen/news/thema/open-source-ki"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "event, inconsistent dates",
+   "weighted_score": 89.6
+  },
+  {
+   "title": "TSMC raises 2026 capex to $60-64B",
+   "summary": "Chip demand.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://finance.yahoo.com/news/tsmc-just-gave-investors-glimpse-173500650.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "financial, undated",
+   "weighted_score": 89.2
+  },
+  {
+   "title": "Cohere North Small Translate open model, 50+ languages",
+   "summary": "Sept 11.",
+   "category": "ai_tech",
+   "date": "2026-09-11",
+   "sources": [
+    "https://www.mind-verse.de/ressourcen/news/thema/open-source-ki"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "old",
+   "weighted_score": 88.4
+  },
+  {
+   "title": "Breakthrough Discuss 2026, Oxford Oct 20-21",
+   "summary": "Conference.",
+   "category": "science",
+   "date": "2026-10-20",
+   "sources": [
+    "https://www.physics.ox.ac.uk/events/breakthrough-discuss-2026"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 8,
+    "novelty": 3,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 8,
+    "search_interest": 2,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": false,
+   "note": "event",
+   "weighted_score": 86.3
+  },
+  {
+   "title": "Timken consolidates humanoid motion components group",
+   "summary": "Robotics newsletter.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://buttondown.com/robotcafe/archive/today-in-robotics-wednesday-october-14-2026/"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 2,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "low interest",
+   "weighted_score": 78.0
+  },
+  {
+   "title": "AMD EPYC Venice on TSMC 2nm",
+   "summary": "Zen 6.",
+   "category": "ai_tech",
+   "date": "2026-06-01",
+   "sources": [
+    "https://hwbusters.com/tag/n3p"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "old",
+   "weighted_score": 76.6
+  },
+  {
+   "title": "Nvidia raises AI server prices 15%+ (Reuters report)",
+   "summary": "Memory costs.",
+   "category": "ai_tech",
+   "date": "2026-09-01",
+   "sources": [
+    "https://finance.yahoo.com/news/tsmc-just-gave-investors-glimpse-173500650.html"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "financial",
+   "weighted_score": 76.4
+  },
+  {
+   "title": "Hugging Face Tokenizers v1: 3-30x faster encoding",
+   "summary": "Sept 20.",
+   "category": "ai_tech",
+   "date": "2026-09-20",
+   "sources": [
+    "https://www.mind-verse.de/ressourcen/news?page=74"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "low interest",
+   "weighted_score": 75.4
+  },
+  {
+   "title": "Nvidia Feynman GPU architecture to follow Rubin",
+   "summary": "Roadmap.",
+   "category": "ai_tech",
+   "date": "2026-06-01",
+   "sources": [
+    "https://tweaktown.com/news/107720/nvidia-rumored-to-be-the-first-customer-for-tsmcs-most-advanced-a16-process-node-in-2026/index.html"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "rumour",
+   "weighted_score": 75.1
+  }
+ ]
+}

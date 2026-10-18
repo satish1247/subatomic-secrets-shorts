@@ -1,0 +1,53 @@
+{
+  "duration": 49.88,
+  "lines": [
+    {
+      "text": "Astronomers say they've found the first known green star.",
+      "start": 0.35,
+      "dur": 2.806,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Stars shine in every colour at once. Even our Sun's light peaks in blue-green, but the mix looks white.",
+      "start": 3.606,
+      "dur": 5.001,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "This one is a white dwarf, the dead core of a star, called WD J1330+6435.",
+      "start": 9.057,
+      "dur": 7.896,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Its secret? It pulled in rocky debris from its own planetary system, loading its atmosphere with sodium, calcium and lithium.",
+      "start": 17.403,
+      "dur": 6.649,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "That dense sodium soaks up yellow, orange and some red light. What's left looks chartreuse green.",
+      "start": 24.502,
+      "dur": 4.594,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "No one has seen it glow green in a telescope. The University of Warwick team worked out its true colour from its light and a model of human vision.",
+      "start": 29.546,
+      "dur": 7.51,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "They also found what may be the reddest star ever recorded: a pink white dwarf coloured by carbon.",
+      "start": 37.506,
+      "dur": 4.966,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Roughly one in thirty white dwarfs may hide an unusual colour. Space is more colourful than it looks.",
+      "start": 42.922,
+      "dur": 5.113,
+      "wav": "line_7.wav"
+    }
+  ]
+}
