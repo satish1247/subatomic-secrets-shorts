@@ -151,5 +151,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=mvnslCWjzPE",
     "video_branch": "claude/video-2026-10-18"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Microsoft Just Walked Away From an AI Data Centre: No Power",
+    "topic": "Microsoft pulls out of Nscale's planned Loughton (Essex) AI data centre after UK Power Networks reportedly can't supply enough power until the early-to-mid 2030s (Telegraph Oct 18, Reuters Oct 19; 50 MW site, scalable to 90 MW)",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=nhNRUn9yxqM",
+    "video_branch": "claude/video-2026-10-20"
   }
 ]

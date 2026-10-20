@@ -1,0 +1,47 @@
+{
+  "duration": 45.9,
+  "lines": [
+    {
+      "text": "Microsoft just walked away from an AI data centre, because there's not enough electricity for it.",
+      "start": 0.35,
+      "dur": 4.267,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's Nscale's planned data centre in Loughton, Essex, near London. Microsoft was set to be its anchor customer.",
+      "start": 5.067,
+      "dur": 6.184,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "The local grid operator, UK Power Networks, reportedly said it couldn't supply enough power until the early to mid 2030s.",
+      "start": 11.7,
+      "dur": 7.408,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "The site was planned at 50 megawatts, with room to grow to 90.",
+      "start": 19.559,
+      "dur": 3.088,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Microsoft calls it a single-site decision. Nscale says the partnership is intact, with projects in Norway, Portugal and the US.",
+      "start": 23.096,
+      "dur": 7.082,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "And it's a wider problem. Reuters says grid connection queues have delayed some data centre projects by as long as 13 years.",
+      "start": 30.628,
+      "dur": 6.319,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Why it matters: the AI race isn't just about chips anymore. It's about power, and in some places, the grid can't keep up.",
+      "start": 37.397,
+      "dur": 6.658,
+      "wav": "line_6.wav"
+    }
+  ]
+}
