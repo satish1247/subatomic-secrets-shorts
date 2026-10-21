@@ -1,0 +1,65 @@
+{
+  "duration": 46.18,
+  "lines": [
+    {
+      "text": "One hacker. A swarm of AI agents. More than 100 companies hit.",
+      "start": 0.35,
+      "dur": 4.048,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Reuters reports AI agents tried to break into more than 1,200 websites.",
+      "start": 4.898,
+      "dur": 4.357,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Let's bust two myths.",
+      "start": 9.756,
+      "dur": 1.126,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Myth number one: a hack this big needs a whole team of experts.",
+      "start": 11.382,
+      "dur": 3.764,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Fact: Reuters says one hacker ran it, and the AI agents did the heavy lifting.",
+      "start": 15.646,
+      "dur": 4.275,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "They reached websites at more than 100 companies, including John Deere and SharkNinja.",
+      "start": 20.422,
+      "dur": 4.431,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Myth number two: AI-powered hacking costs a fortune.",
+      "start": 25.353,
+      "dur": 3.134,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Fact: a security researcher estimates about $50 of AI per break-in. A rough guess, he says.",
+      "start": 28.988,
+      "dur": 6.497,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "He caught them because the attackers left their own control panels exposed online.",
+      "start": 35.985,
+      "dur": 3.501,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "It's still unclear if any data was taken. Is your website ready for AI attackers?",
+      "start": 39.986,
+      "dur": 4.29,
+      "wav": "line_9.wav"
+    }
+  ]
+}

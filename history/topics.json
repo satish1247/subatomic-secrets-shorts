@@ -70,5 +70,9 @@
   {
     "date": "2026-10-20",
     "topic": "Microsoft pulls out of Nscale's planned Loughton (Essex) AI data centre after UK Power Networks reportedly can't supply enough power until the early-to-mid 2030s (Telegraph Oct 18, Reuters Oct 19; 50 MW site, scalable to 90 MW)"
+  },
+  {
+    "date": "2026-10-21",
+    "topic": "One hacker's AI agents attempted 1,200+ websites and reached sites at 100+ companies incl. John Deere, SharkNinja, Cummins (Reuters exclusive Oct 19; researcher Snorre Fagerland/NorForge via exposed Cairn panels; ~$50 of AI per break-in, rough estimate)"
   }
 ]

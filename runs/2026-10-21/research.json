@@ -1,0 +1,3066 @@
+{
+ "run_date": "2026-10-21",
+ "queries": 30,
+ "query_list": [
+  "AI model release October 20 2026",
+  "tech news October 20, 2026",
+  "OpenAI announcement October 20 2026",
+  "Google Gemini news October 20 2026",
+  "scientists discover study published October 20 2026",
+  "AI news this week October 19 2026",
+  "Anthropic Claude news October 2026",
+  "NASA news October 20 2026",
+  "smartphone launch October 20 2026",
+  "Nvidia chip semiconductor news October 20 2026",
+  "phys.org new discovery October 2026",
+  "Nvidia RTX PRO 5500 ByteDance Alibaba Tencent $35 billion orders Reuters",
+  "Uzbekistan signs Artemis Accords 77th",
+  "robotics humanoid robot news October 2026",
+  "cybersecurity breach news October 19 2026",
+  "India tech news ISRO October 20 2026",
+  "electric vehicle EV battery breakthrough October 2026",
+  "quantum magic state distillation 40-fold error hardware test",
+  "hacker AI agents 1,200 websites Deere SharkNinja Cummins Reuters",
+  "BYD Atto 8 flash charging Paris Motor Show 9 minutes 97%",
+  "Orionid meteor shower peak October 21 2026",
+  "Apple news October 20 2026",
+  "SpaceX Starship launch news October 2026",
+  "open-source AI model released this week October 2026 Hugging Face",
+  "Reuters hacker AI agents Cairn NorForge Snorre Fagerland exposed control panel",
+  "Microsoft announcement October 20 2026",
+  "Webb telescope discovery October 2026",
+  "India AI startup launch October 2026",
+  "sciencedaily animal biology discovery October 2026",
+  "hacker AI agents fewer than 100 Chinese characters instructions Deere"
+ ],
+ "candidate_count": 105,
+ "balance": {
+  "last10_science": 3,
+  "last10_ai_tech": 7,
+  "rule": "neither forced; best topic"
+ },
+ "avoid_styles": [
+  "newsflash",
+  "cosmic"
+ ],
+ "weights": {
+  "recency": 1.5,
+  "source_credibility": 2.0,
+  "novelty": 1.5,
+  "audience_interest": 2.0,
+  "explainable_in_45s": 1.5,
+  "visual_potential": 1.2,
+  "wow_factor": 1.5,
+  "factual_certainty": 2.0,
+  "search_interest": 1.0,
+  "evergreen_value": 0.5,
+  "india_relevance": 0.6,
+  "low_risk": 1.5
+ },
+ "selected": "One hacker's AI agents breached websites at 100+ companies (Reuters exclusive)",
+ "runner_up": [
+  "Orionid meteor shower peaks Oct 21-22 (Halley's Comet debris)",
+  "BYD Atto 8 claims 10-97% charge in nine minutes (Paris Motor Show)",
+  "Google cuts quantum 'magic state' errors 40-fold on Willow (Science)"
+ ],
+ "note": "News sites not fetched directly; facts confirmed from search-result excerpts across multiple independent outlets.",
+ "candidates": [
+  {
+   "title": "One hacker's AI agents breached websites at 100+ companies (Reuters exclusive)",
+   "summary": "Researcher Snorre Fagerland (NorForge) watched AI agents, run by one Chinese-speaking operator via exposed Cairn control panels, attempt 1,200+ sites and reach sites at 100+ companies incl. John Deere, SharkNinja, Cummins; ~$50 of AI per break-in (rough estimate); unclear if data taken.",
+   "category": "ai_tech",
+   "date": "2026-10-19",
+   "sources": [
+    "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+    "https://tech.yahoo.com/cybersecurity/articles/one-hacker-used-ai-agents-184649469.html",
+    "https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge",
+    "https://qz.com/ai-agents-hacker-john-deere-sharkninja-cummins-breach-101926",
+    "https://www.technology.org/2026/10/20/hacker-ai-agents-cairn-100-websites-deere-sharkninja-cummins/",
+    "https://cybersecuritynews.com/chinese-hacker-use-ai-agent-to-hack/amp/"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 10,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 9,
+    "factual_certainty": 8,
+    "search_interest": 9,
+    "evergreen_value": 7,
+    "india_relevance": 6,
+    "low_risk": 8
+   },
+   "style": "mythfact",
+   "validated": true,
+   "note": "Reuters exclusive (Oct 19) syndicated by Yahoo; independently covered by The Hacker News, TNW, Quartz, technology.org. Dropped 'fewer than 100 Chinese characters' detail (single source). $50 figure presented as researcher's rough estimate.",
+   "weighted": 147.9
+  },
+  {
+   "title": "Orionid meteor shower peaks Oct 21-22 (Halley's Comet debris)",
+   "summary": "~15-25 meteors/hour, 66 km/s.",
+   "category": "science",
+   "date": "2026-10-21",
+   "sources": [
+    "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
+    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-orionid-meteor-shower",
+    "https://www.farmersalmanac.com/orionid-meteor-shower-19412"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 8,
+    "evergreen_value": 6,
+    "india_relevance": 7,
+    "low_risk": 10
+   },
+   "style": "cosmic",
+   "validated": true,
+   "note": "cosmic style used yesterday-1; peak timing conflicts (EarthSky Oct 23).",
+   "weighted": 139.0
+  },
+  {
+   "title": "BYD Atto 8 claims 10-97% charge in nine minutes (Paris Motor Show)",
+   "summary": "115 kWh flagship SUV; Flash Charging network; EU sales Q1 2027.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.timeslive.co.za/motoring/2026-10-13-new-byd-atto-8-charges-from-10-to-97-in-just-nine-minutes/",
+    "https://vision-mobility.de/en/news/paris-motor-show-2026-byd-atto-8-suv-flagship-with-seven-seats-570-kw-and-flash-charging-395081.html",
+    "https://cnevpost.com/2026/10/14/byd-tang-l-debuts-as-atto-8-paris-motor-show/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "style": "countdown",
+   "validated": true,
+   "note": "manufacturer claims; 8 days old.",
+   "weighted": 127.2
+  },
+  {
+   "title": "Google cuts quantum 'magic state' errors 40-fold on Willow (Science)",
+   "summary": "Magic state cultivation hits 99.99% logical fidelity.",
+   "category": "science",
+   "date": "2026-10-16",
+   "sources": [
+    "https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/",
+    "https://quantumcomputingreport.com/google-quantum-ai-demonstrates-magic-state-cultivation-on-willow-processor-in-science-milestone/",
+    "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": true,
+   "note": "hard to explain in 45 s.",
+   "weighted": 123.1
+  },
+  {
+   "title": "Neutron star teaspoon weighs about a billion tonnes",
+   "summary": "Neutron star teaspoon weighs about a billion tonnes",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "A day on Venus is longer than its year",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Saturn's rings are mostly water ice",
+   "summary": "Saturn's rings are mostly water ice",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Sunlight takes about 8 minutes to reach Earth",
+   "summary": "Sunlight takes about 8 minutes to reach Earth",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Octopuses have three hearts",
+   "summary": "Octopuses have three hearts",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Bananas are slightly radioactive",
+   "summary": "Bananas are slightly radioactive",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Honey never spoils",
+   "summary": "Honey never spoils",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Tardigrades survive the vacuum of space",
+   "summary": "Tardigrades survive the vacuum of space",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Olympus Mons is ~2.5x taller than Everest",
+   "summary": "Olympus Mons is ~2.5x taller than Everest",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Water's triple point",
+   "summary": "Water's triple point",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Glass is an amorphous solid",
+   "summary": "Glass is an amorphous solid",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Sharks are older than trees",
+   "summary": "Sharks are older than trees",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Earth's inner core is about as hot as the Sun's surface",
+   "summary": "Earth's inner core is about as hot as the Sun's surface",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Human DNA would stretch ~2 m per cell",
+   "summary": "Human DNA would stretch ~2 m per cell",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Lightning is hotter than the Sun's surface",
+   "summary": "Lightning is hotter than the Sun's surface",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "The Moon drifts ~3.8 cm a year",
+   "summary": "The Moon drifts ~3.8 cm a year",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Mpemba effect",
+   "summary": "Mpemba effect",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Alkali metals explode in water",
+   "summary": "Alkali metals explode in water",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Diamond rain on Neptune (models)",
+   "summary": "Diamond rain on Neptune (models)",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Soil microbes outnumber people",
+   "summary": "Soil microbes outnumber people",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Fungal networks link trees",
+   "summary": "Fungal networks link trees",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Quantum tunnelling powers the Sun",
+   "summary": "Quantum tunnelling powers the Sun",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Helium voice and speed of sound",
+   "summary": "Helium voice and speed of sound",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Mantis shrimp cavitation punch",
+   "summary": "Mantis shrimp cavitation punch",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Bone strength by weight",
+   "summary": "Bone strength by weight",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Space is silent",
+   "summary": "Space is silent",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Venus spins backwards",
+   "summary": "Venus spins backwards",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Pluto's heart glacier",
+   "summary": "Pluto's heart glacier",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Crows recognise faces",
+   "summary": "Crows recognise faces",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Water expands when it freezes",
+   "summary": "Water expands when it freezes",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Ant biomass",
+   "summary": "Ant biomass",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Blue Mars sunsets",
+   "summary": "Blue Mars sunsets",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Wood frogs freeze solid",
+   "summary": "Wood frogs freeze solid",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Eiffel Tower grows in summer",
+   "summary": "Eiffel Tower grows in summer",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Event horizon basics",
+   "summary": "Event horizon basics",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Brain uses ~20% of energy",
+   "summary": "Brain uses ~20% of energy",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Gold from neutron-star collisions",
+   "summary": "Gold from neutron-star collisions",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Green Sahara",
+   "summary": "Green Sahara",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Electric eel voltage",
+   "summary": "Electric eel voltage",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Iron in blood from stars",
+   "summary": "Iron in blood from stars",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Stars vs grains of sand",
+   "summary": "Stars vs grains of sand",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Hummingbird heart rate",
+   "summary": "Hummingbird heart rate",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Six-sided snowflakes",
+   "summary": "Six-sided snowflakes",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Wombat cube poop",
+   "summary": "Wombat cube poop",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Sound faster in water",
+   "summary": "Sound faster in water",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Eyes see the past",
+   "summary": "Eyes see the past",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Cosmic microwave background",
+   "summary": "Cosmic microwave background",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Challenger Deep depth",
+   "summary": "Challenger Deep depth",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Earth's quasi-moon Kamo'oalewa",
+   "summary": "Earth's quasi-moon Kamo'oalewa",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/",
+    "https://www.britannica.com/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "style": "lab",
+   "validated": false,
+   "note": "Evergreen; not needed (strong news topic available); sources not individually checked.",
+   "weighted": 113.3,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Nvidia RTX PRO 5500: China signals approval for ByteDance/Alibaba purchases",
+   "summary": "The Information report; Reuters could not verify.",
+   "category": "ai_tech",
+   "date": "2026-10-18",
+   "sources": [
+    "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single-report; $35B figure unverified.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Reported $35B Nvidia orders from Chinese tech giants",
+   "summary": "Secondary coverage of anonymous sources.",
+   "category": "ai_tech",
+   "date": "2026-10-20",
+   "sources": [
+    "https://www.business-standard.com/amp/world-news/bytedance-alibaba-tencent-place-over-35-billion-in-nvidia-chip-orders-126102000828_1.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Anonymous sources; conflicts.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Uzbekistan signs Artemis Accords (77th)",
+   "summary": "NASA item in search summary.",
+   "category": "science",
+   "date": "2026-10-19",
+   "sources": [
+    "https://www.nasa.gov/news/recently-published/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Could not confirm with 2nd source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "NASA commercial satcom demos launch on Bandwagon-5",
+   "summary": "Two NASA-funded smallsats.",
+   "category": "science",
+   "date": "2026-10-20",
+   "sources": [
+    "https://nasa.gov/blogs/smallsatellites/2026/10/20/two-nasa-commercial-satellite-communication-demonstrations-launch"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single source; low interest.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "NASA releases 16 galaxy images (Chandra/Webb/Hubble)",
+   "summary": "Black hole jets and collisions.",
+   "category": "science",
+   "date": "2026-10-20",
+   "sources": [
+    "http://www.sciencedaily.com/releases/2026/10/261018205050.htm"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Apple 'Pro and tell' event set for Oct 28",
+   "summary": "Apple event announcement.",
+   "category": "ai_tech",
+   "date": "2026-10-20",
+   "sources": [
+    "https://9to5mac.com/2026/10/20/daily-october-20-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Event teaser; no facts yet.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Apple limits iPhone Duo orders to two per customer",
+   "summary": "Anti-scalping.",
+   "category": "ai_tech",
+   "date": "2026-10-20",
+   "sources": [
+    "https://9to5mac.com/2026/10/20/daily-october-20-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Report; single source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "UK CMA consults on opening iPhone NFC",
+   "summary": "Regulation.",
+   "category": "ai_tech",
+   "date": "2026-10-20",
+   "sources": [
+    "https://appleworld.today/2026/10/news-items-you-should-check-out-out-october-20/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Regulatory/political.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Apple commits up to $100M for American titanium",
+   "summary": "Manufacturing.",
+   "category": "ai_tech",
+   "date": "2026-10-20",
+   "sources": [
+    "https://9to5mac.com/2026/10/20/daily-october-20-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Gemini 4 Argon GA (Oct 13)",
+   "summary": "New Google model pricing.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://hellogrowth.ai/en/blog/google-ai-news-october-2026"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Low-quality sources; >48h.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "EU AI Office opens first AI Act probes into OpenAI and Anthropic",
+   "summary": "Regulation.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/edition/2026-10-15"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Political/regulatory; single aggregator.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "State AGs sue OpenAI over child-safety claims",
+   "summary": "Legal.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/edition/2026-10-15"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Legal/controversy.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "DeepSeek V4.1 Flash 1017",
+   "summary": "Model update.",
+   "category": "ai_tech",
+   "date": "2026-10-17",
+   "sources": [
+    "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Weak source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "GPT-6.1 Astra reportedly cancelled after safety tests",
+   "summary": "Report.",
+   "category": "ai_tech",
+   "date": "2026-09-28",
+   "sources": [
+    "https://cryptobriefing.com/openai-highlights-ai-milestone-stresses-urgency-with-gpt-6-astra-launch/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Conflicting reports.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "AI chip stocks shed $1T in a week",
+   "summary": "Market.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/edition/2026-10-15"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Financial.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Anthropic Public Benefit Fund",
+   "summary": "Covered recently.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/anthropic-news"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Similar recent runner-up; finance.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Anthropic opens Singapore office, MOU",
+   "summary": "Expansion.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/anthropic-news"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Low wow.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Anthropic open-sources Scion version control",
+   "summary": "Dev tools.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://releasebot.io/updates/anthropic/claude"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Date unclear.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Claude 40-minute partial outage",
+   "summary": "Reliability.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/anthropic-news"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Low interest.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Reflection Beam-1.0 501B open model",
+   "summary": "Apache-2.0 MoE.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://huggingface.co/reflection/Beam-1.0-501B-A23B"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single source; similar to recent open-model topic.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Liquid AI d1 models",
+   "summary": "Small multimodal.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/hugging-face-ai-news"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Date unclear.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Helix World preview (Noiz AI/HKUST)",
+   "summary": "World model preview.",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/hugging-face-ai-news"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old; single source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Boston Dynamics names Rohit Prasad CEO; new Atlas hands",
+   "summary": "Robotics.",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://www.robotics247.com/topic/tag/Humanoid"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Faraday Future $2,490 FF Nova humanoid",
+   "summary": "Developer robot.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://thenextweb.com/news/faraday-future-nova-humanoid-robots"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h; single.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "AiMOGA Mobo companion robot unveils Oct 21",
+   "summary": "Robot launch.",
+   "category": "ai_tech",
+   "date": "2026-10-21",
+   "sources": [
+    "https://humanoid.press/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Not yet launched.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "OpenAI humanoid demo in 2027",
+   "summary": "Altman.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://aiweekly.co/alerts/altman-confirms-openai-will-build-humanoid-demo-in-2027"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Covered before; future claim.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Singapore HTX H2RC humanoid training centre",
+   "summary": "Public safety.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2026/seizing-the-initiative-htx-launches-h2rc-to-train-humanoid-robots-for-public-safety"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single source.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Agility + FORT safety for Digit 5",
+   "summary": "Partnership.",
+   "category": "ai_tech",
+   "date": "2026-10-03",
+   "sources": [
+    "https://humanoid.press/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Ivanti Connect Secure zero-day (CISA)",
+   "summary": "Security.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://cybersecuritynews.com/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Cyberattack on refrigeration controllers hits ~700 French supermarkets",
+   "summary": "Security.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://cybersecuritynews.com/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h; single.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "SBI data breach claim",
+   "summary": "Unverified claim.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://cybersecuritynews.com/sbi-data-breach-claim/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Unverified.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "FortiOS PEERSTITCH malware",
+   "summary": "Security.",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://thehackernews.com/search/label/data%20breach"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Niche.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Unit 42: DeepSeek + Hermes agent attacks",
+   "summary": "Earlier AI-agent intrusions.",
+   "category": "ai_tech",
+   "date": "2026-08-03",
+   "sources": [
+    "https://www.helpnetsecurity.com/2026/08/03/deepseek-ai-autonomous-cyberattacks-hermes-agent/",
+    "https://securityaffairs.com/196544/ai/ai-runs-the-hack-chinese-actor-automates-cyberattacks-with-deepseek.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old (Aug).",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "ISRO EOS-05 on GSLV",
+   "summary": "Heaviest Indian EO sat.",
+   "category": "ai_tech",
+   "date": "2026-09",
+   "sources": [
+    "https://www.business-standard.com/topic/isro"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Gaganyaan uncrewed mission later this year",
+   "summary": "ISRO.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.isro.gov.in/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "No new date.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "India's first indigenous LLM by year-end",
+   "summary": "Government.",
+   "category": "ai_tech",
+   "date": "2026-10-11",
+   "sources": [
+    "https://ascendants.in/tag/india-llm-launch/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Future; single.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Subaru in-house EV prototype",
+   "summary": "EV.",
+   "category": "ai_tech",
+   "date": "2026-10-18",
+   "sources": [
+    "https://www.autonews.com/subaru/an-subaru-next-generation-ev-electric-vehicle-1019/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "No launch details.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Honda in-motion charging for commercial EVs",
+   "summary": "EV.",
+   "category": "ai_tech",
+   "date": "2026-10-09",
+   "sources": [
+    "https://www.batterytechonline.com/batteries/ev-batteries"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "KAIST anode-free lithium-metal battery",
+   "summary": "Research.",
+   "category": "ai_tech",
+   "date": "2026-09-27",
+   "sources": [
+    "https://www.t3.com/auto/this-new-battery-breakthrough-could-get-your-next-ev-over-the-1-000-mile-mark"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Oppo Find X10 global launch",
+   "summary": "Phone.",
+   "category": "ai_tech",
+   "date": "2026-10-21",
+   "sources": [
+    "https://www.digit.in/features/mobile-phones/top-5-upcoming-phones-launching-in-october-2026.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Date conflicts.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "iPhone Duo launches Oct 23 at $1,999",
+   "summary": "Phone.",
+   "category": "ai_tech",
+   "date": "2026-10-23",
+   "sources": [
+    "https://www.macrumors.com/2026/10/08/apple-announce-10-new-products-this-month/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Not yet.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "OnePlus 16 China launch",
+   "summary": "Phone.",
+   "category": "ai_tech",
+   "date": "2026-10-12",
+   "sources": [
+    "https://www.gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Starship Florida LC-39A debut target",
+   "summary": "Space.",
+   "category": "ai_tech",
+   "date": "2026-10-15",
+   "sources": [
+    "https://tech-insider.org/spacex-starship-florida-launch-date-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Unconfirmed date.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Nvidia CUDA-X for AI-defined fabs (SEMICON West)",
+   "summary": "Chips.",
+   "category": "ai_tech",
+   "date": "2026-10-14",
+   "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h; low wow.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Cretodorus 'Noo-Noo' amber planthopper",
+   "summary": "99-Myr insect with long mouthparts.",
+   "category": "ai_tech",
+   "date": "2026-10-05",
+   "sources": [
+    "https://phys.org/news/2026-10-rare-insect-discovery-reveals-species.html"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Old; single.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Gravitational-wave detector locking method",
+   "summary": "Physics.",
+   "category": "science",
+   "date": "2026-10-18",
+   "sources": [
+    "https://phys.org/physics-news/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Niche.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Roman Space Telescope beats image forecast",
+   "summary": "Space.",
+   "category": "science",
+   "date": "2026-10-17",
+   "sources": [
+    "https://www.sciencedaily.com/news/space_time/nasa/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Recent runner-up already.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Microsoft OneDrive/Copilot event",
+   "summary": "Event.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://digg.com/tech/mwq7k924"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "No date.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Office 2016/2019 deactivation bug KB5002907",
+   "summary": "Bug.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://office-watch.com/2026/october-2026-is-the-worst-month-office-users-have-had-in-years/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Single.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Deutsche Telekom AI call notes",
+   "summary": "Telecom.",
+   "category": "ai_tech",
+   "date": "2026-10-19",
+   "sources": [
+    "https://www.artificialintelligence-news.com/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": "Low interest.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Apple TV 4K with Siri AI",
+   "summary": "Gadget.",
+   "category": "ai_tech",
+   "date": "2026-10-13",
+   "sources": [
+    "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  },
+  {
+   "title": "Apple Home Collection accessories",
+   "summary": "Gadget.",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "style": "newsflash",
+   "validated": false,
+   "note": ">48h.",
+   "weighted": 91.6,
+   "weighted_note": "not eligible (validation failed)"
+  }
+ ]
+}

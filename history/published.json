@@ -160,5 +160,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=nhNRUn9yxqM",
     "video_branch": "claude/video-2026-10-20"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "One Hacker's AI Agents Broke Into 100+ Companies' Sites",
+    "topic": "One hacker's AI agents attempted 1,200+ websites and reached sites at 100+ companies incl. John Deere, SharkNinja, Cummins (Reuters exclusive Oct 19; researcher Snorre Fagerland/NorForge via exposed Cairn panels; ~$50 of AI per break-in, rough estimate)",
+    "category": "ai_tech",
+    "style": "mythfact",
+    "youtube_url": "https://www.youtube.com/watch?v=IW2V4TJ9LDU",
+    "video_branch": "claude/video-2026-10-21"
   }
 ]
