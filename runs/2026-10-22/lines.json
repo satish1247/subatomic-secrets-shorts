@@ -1,0 +1,53 @@
+{
+  "duration": 43.68,
+  "lines": [
+    {
+      "text": "Nvidia just unveiled a humanoid robot built for robot labs.",
+      "start": 0.35,
+      "dur": 3.923,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's called Agile ONE SN. It's made with Germany's Agile Robots and was shown at GTC Berlin on October 21.",
+      "start": 4.723,
+      "dur": 6.631,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things to know.",
+      "start": 11.804,
+      "dur": 1.173,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. It's compact: about 1.4 metres tall, shorter than most adults.",
+      "start": 13.426,
+      "dur": 4.934,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. The hands. Each one has 20 degrees of freedom, force control 1,000 times a second, and a sense of touch.",
+      "start": 18.811,
+      "dur": 5.853,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. It comes ready to learn, with Nvidia's GR00T robot AI and a Jetson Thor computer built in.",
+      "start": 25.114,
+      "dur": 5.756,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Nvidia says that could cut a lab's setup time from weeks to days.",
+      "start": 31.32,
+      "dur": 2.99,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Agile Robots expects to build 1,000 to 2,000 humanoids, and the ONE SN is due in early 2027. Would you want one?",
+      "start": 34.76,
+      "dur": 7.069,
+      "wav": "line_7.wav"
+    }
+  ]
+}

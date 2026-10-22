@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
+    "title": "Figure Retired Its Old Robots… in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
+    "title": "Apple Pay Is Finally in India… But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -169,5 +169,14 @@
     "style": "mythfact",
     "youtube_url": "https://www.youtube.com/watch?v=IW2V4TJ9LDU",
     "video_branch": "claude/video-2026-10-21"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Nvidia's New Humanoid Robot: 3 Things to Know",
+    "topic": "Nvidia and Agile Robots unveil Agile ONE SN reference humanoid at GTC Berlin (Oct 21): 1.40 m, WUJI Hand 2 hands with 20 DoF each + 1 kHz force control + touch, Isaac GR00T + Jetson Thor, setup weeks->days (Nvidia claim), 1,000-2,000 units planned (Agile CEO via Reuters), due early 2027",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=RfQdXKqPFJw",
+    "video_branch": "claude/video-2026-10-22"
   }
 ]

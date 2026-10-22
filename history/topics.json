@@ -74,5 +74,9 @@
   {
     "date": "2026-10-21",
     "topic": "One hacker's AI agents attempted 1,200+ websites and reached sites at 100+ companies incl. John Deere, SharkNinja, Cummins (Reuters exclusive Oct 19; researcher Snorre Fagerland/NorForge via exposed Cairn panels; ~$50 of AI per break-in, rough estimate)"
+  },
+  {
+    "date": "2026-10-22",
+    "topic": "Nvidia and Agile Robots unveil Agile ONE SN reference humanoid at GTC Berlin (Oct 21): 1.40 m, WUJI Hand 2 hands with 20 DoF each + 1 kHz force control + touch, Isaac GR00T + Jetson Thor, setup weeks->days (Nvidia claim), 1,000-2,000 units planned (Agile CEO via Reuters), due early 2027"
   }
 ]
