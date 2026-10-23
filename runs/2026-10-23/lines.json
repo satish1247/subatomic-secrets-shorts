@@ -1,0 +1,47 @@
+{
+  "duration": 41.9,
+  "lines": [
+    {
+      "text": "Anthropic just launched an AI agent that comes to you first, before you even ask.",
+      "start": 0.35,
+      "dur": 4.242,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's called Claude Duet. It keeps an eye on your connected apps and flags what needs your attention.",
+      "start": 5.042,
+      "dur": 4.537,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Each morning, it can send you a short briefing with your action items.",
+      "start": 10.029,
+      "dur": 3.08,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "It can take on tasks like scheduling meetings, and keep working in the cloud even when your phone or laptop is off.",
+      "start": 13.56,
+      "dur": 5.346,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "But it checks with you first, before it sends a message, makes a payment, signs a document or deletes anything.",
+      "start": 19.356,
+      "dur": 4.986,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "For now it's an early research preview, on a waitlist, for Pro and Max subscribers in the US. Anthropic says it can still misjudge what's urgent.",
+      "start": 24.792,
+      "dur": 7.106,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Why it matters: AI assistants are starting to come to you first. And rivals like OpenAI's Dots and Meta's Muse are racing to do the same.",
+      "start": 32.348,
+      "dur": 7.701,
+      "wav": "line_6.wav"
+    }
+  ]
+}

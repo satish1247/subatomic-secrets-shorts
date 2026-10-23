@@ -178,5 +178,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=RfQdXKqPFJw",
     "video_branch": "claude/video-2026-10-22"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Claude's New AI Agent Messages You First",
+    "topic": "Anthropic opens Claude Duet, a proactive AI agent, as a research preview (Oct 21): flags what needs attention from connected apps, morning briefing, keeps working in the cloud, asks before sending/paying/signing/deleting; US Pro & Max waitlist",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=vaHdaC-Hz0I",
+    "video_branch": "claude/video-2026-10-23"
   }
 ]
