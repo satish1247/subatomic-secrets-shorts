@@ -1,0 +1,89 @@
+{
+  "duration": 44.55,
+  "lines": [
+    {
+      "who": "arjun",
+      "text": "Nimi! Websites are going offline all over the world!",
+      "start": 0.25,
+      "dur": 2.9,
+      "wav": "line_0.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Relax. Two critical flaws were just found in PHP. They're nicknamed PHP2Shell.",
+      "start": 3.5,
+      "dur": 5.38,
+      "wav": "line_1.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "P-H-what?",
+      "start": 9.23,
+      "dur": 0.678,
+      "wav": "line_2.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "PHP is the code behind about 70% of websites whose server language is known.",
+      "start": 10.258,
+      "dur": 5.012,
+      "wav": "line_3.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So who found the bugs?",
+      "start": 15.62,
+      "dur": 1.018,
+      "wav": "line_4.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Researchers, with help from AI. Calif used OpenAI's GPT-5.6 Sol, and Wiz found both flaws too.",
+      "start": 16.988,
+      "dur": 6.248,
+      "wav": "line_5.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "The AI is the detective?!",
+      "start": 23.585,
+      "dur": 1.368,
+      "wav": "line_6.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "The flaws could let an attacker run code on a server, no password needed.",
+      "start": 25.304,
+      "dur": 3.58,
+      "wav": "line_7.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "So the NSA warned: patch now, or take your site offline until you can.",
+      "start": 29.234,
+      "dur": 4.317,
+      "wav": "line_8.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "That's why sites went dark!",
+      "start": 33.901,
+      "dur": 1.119,
+      "wav": "line_9.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Exactly. PHP released fixes on October 21, and sites are updating.",
+      "start": 35.37,
+      "dur": 4.628,
+      "wav": "line_10.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So the internet isn't broken... it's getting a vaccine!",
+      "start": 40.348,
+      "dur": 2.452,
+      "wav": "line_11.wav"
+    }
+  ]
+}

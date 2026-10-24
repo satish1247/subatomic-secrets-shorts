@@ -82,5 +82,9 @@
   {
     "date": "2026-10-23",
     "topic": "Anthropic opens Claude Duet, a proactive AI agent, as a research preview (Oct 21): flags what needs attention from connected apps, morning briefing, keeps working in the cloud, asks before sending/paying/signing/deleting; US Pro & Max waitlist"
+  },
+  {
+    "date": "2026-10-24",
+    "topic": "PHP2Shell: two critical PHP flaws (CVE-2026-109618/109619) found by Calif with OpenAI's GPT-5.6 Sol and independently by Wiz; PHP patches Oct 21; NSA: patch now or take sites offline; sites worldwide went offline to patch; PHP ~70% of sites with known server language (W3Techs)"
   }
 ]

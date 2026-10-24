@@ -187,5 +187,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=vaHdaC-Hz0I",
     "video_branch": "claude/video-2026-10-23"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "AI Helped Find Critical PHP Flaws. Websites Went Offline to Patch",
+    "topic": "PHP2Shell: two critical PHP flaws (CVE-2026-109618/109619) found by Calif with OpenAI's GPT-5.6 Sol and independently by Wiz; PHP patches Oct 21; NSA: patch now or take sites offline; sites worldwide went offline to patch; PHP ~70% of sites with known server language (W3Techs)",
+    "category": "ai_tech",
+    "style": "story",
+    "youtube_url": "https://www.youtube.com/watch?v=sGzjF3V2bgM",
+    "video_branch": "claude/video-2026-10-24"
   }
 ]

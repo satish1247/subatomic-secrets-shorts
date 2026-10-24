@@ -1,0 +1,24 @@
+{
+ "title": "AI Helped Find Critical PHP Flaws. Websites Went Offline to Patch",
+ "description": "Two critical flaws in PHP, the code behind about 70% of websites with a known server language, were found with help from AI: Calif used OpenAI's GPT-5.6 Sol, and Wiz independently found both.\nThe NSA said patch now or take sites offline; PHP shipped fixes on October 21 and sites around the world went dark while they updated.\n\nSources:\n- https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html\n- https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/\n- https://axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks\n- https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz\n- https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl\n- https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws\n- https://www.secureworld.io/industry-news/patch-php-now-php2shell\n- https://w3techs.com/technologies/details/pl-php\n\n#Shorts #SubatomicSecrets #PHP2Shell #CyberSecurity #AI\n\nThis video is animated and voiced with AI tools. Voice: Piper TTS, LibriTTS model (CC BY 4.0).",
+ "tags": [
+  "PHP2Shell",
+  "PHP",
+  "PHP vulnerability",
+  "cybersecurity",
+  "AI security",
+  "GPT-5.6 Sol",
+  "Wiz",
+  "NSA warning",
+  "website security",
+  "patch now",
+  "AI news",
+  "tech news",
+  "Subatomic Secrets",
+  "Shorts"
+ ],
+ "category": "Science & Technology",
+ "category_id": "28",
+ "made_for_kids": false,
+ "privacy": "public"
+}
