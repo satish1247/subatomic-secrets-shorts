@@ -1,0 +1,53 @@
+{
+  "duration": 44.2,
+  "lines": [
+    {
+      "text": "Apple's first folding iPhone just went on sale.",
+      "start": 0.35,
+      "dur": 2.246,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's called iPhone Duo. It launched on October 23, starting at $1,999.",
+      "start": 3.046,
+      "dur": 6.169,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things to know.",
+      "start": 9.665,
+      "dur": 1.141,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. Two screens. A 5.4-inch screen outside opens into a 7.6-inch screen inside.",
+      "start": 11.256,
+      "dur": 6.604,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. Opened up, it's just 5.2 millimetres thin. But at 254 grams, it's the heaviest iPhone yet.",
+      "start": 18.311,
+      "dur": 8.611,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. Face ID is gone. You unlock it with Touch ID in the side button.",
+      "start": 27.372,
+      "dur": 4.364,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "And demand is wild. About 30 minutes after pre-orders opened, new orders were already slipping to late January 2027.",
+      "start": 32.186,
+      "dur": 7.559,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Would you fold for $1,999?",
+      "start": 40.194,
+      "dur": 2.16,
+      "wav": "line_7.wav"
+    }
+  ]
+}

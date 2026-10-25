@@ -86,5 +86,9 @@
   {
     "date": "2026-10-24",
     "topic": "PHP2Shell: two critical PHP flaws (CVE-2026-109618/109619) found by Calif with OpenAI's GPT-5.6 Sol and independently by Wiz; PHP patches Oct 21; NSA: patch now or take sites offline; sites worldwide went offline to patch; PHP ~70% of sites with known server language (W3Techs)"
+  },
+  {
+    "date": "2026-10-25",
+    "topic": "Apple iPhone Duo, first foldable iPhone, on sale Oct 23 ($1,999): 5.4-in outer / 7.6-in inner screens, 5.2 mm open, 254 g heaviest iPhone, Touch ID in side button replaces Face ID; preorders (Oct 16) sold out in ~30 min, new orders ship late Jan 2027"
   }
 ]

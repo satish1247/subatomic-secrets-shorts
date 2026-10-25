@@ -196,5 +196,14 @@
     "style": "story",
     "youtube_url": "https://www.youtube.com/watch?v=sGzjF3V2bgM",
     "video_branch": "claude/video-2026-10-24"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Apple's First Folding iPhone: 3 Things to Know",
+    "topic": "Apple iPhone Duo, first foldable iPhone, on sale Oct 23 ($1,999): 5.4-in outer / 7.6-in inner screens, 5.2 mm open, 254 g heaviest iPhone, Touch ID in side button replaces Face ID; preorders (Oct 16) sold out in ~30 min, new orders ship late Jan 2027",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=rKMpGxEwQi8",
+    "video_branch": "claude/video-2026-10-25"
   }
 ]
