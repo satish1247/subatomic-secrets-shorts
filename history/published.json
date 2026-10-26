@@ -205,5 +205,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=rKMpGxEwQi8",
     "video_branch": "claude/video-2026-10-25"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "This Tiny Snake Escapes by Rolling Like a Wheel",
+    "topic": "Dwarf reedsnakes (Pseudorabdion, Borneo) roll like wheels to escape: up to 3.69 m/s, ~4x top slithering speed; alternating left/right body strokes, steady forward-facing head, 20 cm track (Toho Univ., Current Biology, Oct 19; 13 snakes, 3 species)",
+    "category": "science",
+    "style": "lab",
+    "youtube_url": "https://www.youtube.com/watch?v=fbMcU9DPd0k",
+    "video_branch": "claude/video-2026-10-26"
   }
 ]

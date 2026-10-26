@@ -1,0 +1,53 @@
+{
+  "duration": 44.87,
+  "lines": [
+    {
+      "text": "This snake doesn't just slither away from danger. It rolls, like a wheel.",
+      "start": 0.35,
+      "dur": 3.607,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "These are dwarf reedsnakes: tiny, secretive snakes from Borneo.",
+      "start": 4.407,
+      "dur": 3.752,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Scientists in Japan filmed 13 of them, from three species, with cameras at different angles.",
+      "start": 8.609,
+      "dur": 4.821,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "When they roll, they hit up to 3.7 metres per second. That's about four times faster than their top slithering speed.",
+      "start": 13.88,
+      "dur": 5.8,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "But the body doesn't spin like a stiff tube. One side whips forward and strikes the ground, then the other side. Left, right, left, right.",
+      "start": 20.13,
+      "dur": 7.477,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "The strangest part? While the body tumbles, the head stays steady, facing forward.",
+      "start": 28.057,
+      "dur": 4.232,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "They can even roll along a track just 20 centimetres wide.",
+      "start": 32.739,
+      "dur": 2.708,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "The study, from Toho University, is published in Current Biology. Sometimes the fastest escape is to stop slithering and start rolling.",
+      "start": 35.898,
+      "dur": 7.119,
+      "wav": "line_7.wav"
+    }
+  ]
+}
