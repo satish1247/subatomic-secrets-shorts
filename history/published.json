@@ -214,5 +214,14 @@
     "style": "lab",
     "youtube_url": "https://www.youtube.com/watch?v=fbMcU9DPd0k",
     "video_branch": "claude/video-2026-10-26"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "NASA's Swift Telescope Is Falling Back to Earth",
+    "topic": "NASA ends the Swift observatory's science mission ahead of re-entry (final observation Oct 20, announced Oct 23): launched 2004 for 2 yrs, ran ~22; >2,000 GRBs, >1,400 supernovae; solar-swollen atmosphere drag, no propulsion; Katalyst LINK rescue failed; re-entry within weeks; ~12 TB public archive",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=jVrU--OoDAw",
+    "video_branch": "claude/video-2026-10-27"
   }
 ]

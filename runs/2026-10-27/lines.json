@@ -1,0 +1,53 @@
+{
+  "duration": 48.65,
+  "lines": [
+    {
+      "text": "This space telescope is about to fall out of the sky.",
+      "start": 0.35,
+      "dur": 2.53,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "NASA has ended the science mission of Swift. It launched in 2004, built to last just two years. It ran for nearly 22.",
+      "start": 3.33,
+      "dur": 6.901,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Its job: catch gamma-ray bursts, some of the most powerful explosions in the universe, and swing its telescopes onto them in about a minute, before the glow fades.",
+      "start": 10.681,
+      "dur": 8.393,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "It caught more than 2,000 of them, plus over 1,400 supernovae.",
+      "start": 19.523,
+      "dur": 3.486,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "So why stop? An active Sun puffed up Earth's upper atmosphere. The extra drag kept pulling Swift lower, and it has no engine to climb back up.",
+      "start": 23.459,
+      "dur": 7.104,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "A robotic spacecraft was launched to boost it higher. But it ran into trouble, and the rescue failed.",
+      "start": 31.014,
+      "dur": 4.904,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "On October 20, Swift made its final observation. NASA expects it to re-enter the atmosphere within weeks.",
+      "start": 36.368,
+      "dur": 6.678,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "But its 12 terabytes of data stay public, for anyone to explore.",
+      "start": 43.496,
+      "dur": 3.302,
+      "wav": "line_7.wav"
+    }
+  ]
+}
