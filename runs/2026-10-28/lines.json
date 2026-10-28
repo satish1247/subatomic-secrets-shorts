@@ -1,0 +1,47 @@
+{
+  "duration": 50.67,
+  "lines": [
+    {
+      "text": "OpenAI just released a new AI model that's built to use a computer, like you do.",
+      "start": 0.35,
+      "dur": 4.991,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's called GPT-6.1 Terra. It's made for computer use, visual reasoning, coding and everyday work.",
+      "start": 5.791,
+      "dur": 5.716,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "The big deal is price. In the API, it costs half as much as the older GPT-5.6 Terra: one dollar per million input tokens.",
+      "start": 11.957,
+      "dur": 7.693,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "And OpenAI says it's better. On a test of professional computer tasks, it scored 15 points higher than the old Terra, at about a third of the cost.",
+      "start": 20.1,
+      "dur": 7.831,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "On the Terminal-Bench coding test, it solved about half the tasks. The old Terra managed about one in five.",
+      "start": 28.38,
+      "dur": 5.392,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "It's out now for Plus, Pro, Enterprise and Edu users in ChatGPT and Codex, and for developers in the API.",
+      "start": 34.222,
+      "dur": 6.111,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Why it matters: AI that works your apps for you just got a lot cheaper. But for the hardest coding jobs, OpenAI still points to its bigger models.",
+      "start": 40.783,
+      "dur": 8.038,
+      "wav": "line_6.wav"
+    }
+  ]
+}
