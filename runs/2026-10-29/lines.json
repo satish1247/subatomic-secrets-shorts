@@ -1,0 +1,89 @@
+{
+  "duration": 43.61,
+  "lines": [
+    {
+      "who": "arjun",
+      "text": "Nimi, my laptop is broken! I keep tapping the screen and nothing happens!",
+      "start": 0.25,
+      "dur": 4.009,
+      "wav": "line_0.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Arjun, that's a MacBook. MacBooks have never had touchscreens.",
+      "start": 4.609,
+      "dur": 3.39,
+      "wav": "line_1.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Never?!",
+      "start": 8.349,
+      "dur": 0.408,
+      "wav": "line_2.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Well, until now. On October 28, Apple unveiled its first MacBook with a touchscreen.",
+      "start": 9.107,
+      "dur": 5.575,
+      "wav": "line_3.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "No way!",
+      "start": 15.032,
+      "dur": 0.447,
+      "wav": "line_4.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It's a new MacBook Pro with a tandem OLED display, up to 2,000 nits at its brightest.",
+      "start": 15.829,
+      "dur": 5.364,
+      "wav": "line_5.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "And the iPhone's Dynamic Island comes to the Mac for the first time.",
+      "start": 21.543,
+      "dur": 3.318,
+      "wav": "line_6.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So I can poke my laptop like my phone? How much?",
+      "start": 25.211,
+      "dur": 2.754,
+      "wav": "line_7.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It starts at $2,899. That's $400 more than the same MacBook Pro without touch.",
+      "start": 28.315,
+      "dur": 5.625,
+      "wav": "line_8.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Four hundred dollars... just to poke?",
+      "start": 34.29,
+      "dur": 1.637,
+      "wav": "line_9.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Preorders are open now, and it arrives on November 6.",
+      "start": 36.277,
+      "dur": 3.089,
+      "wav": "line_10.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Fine. I'll keep poking this one... for free.",
+      "start": 39.717,
+      "dur": 2.143,
+      "wav": "line_11.wav"
+    }
+  ]
+}

@@ -232,5 +232,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=SHmKGzrS0IQ",
     "video_branch": "claude/video-2026-10-28"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Apple's First Touchscreen MacBook Is Here",
+    "topic": "Apple unveils its first touchscreen MacBook: MacBook Pro with PROLED XDR (tandem OLED, up to 2,000 nits peak), Dynamic Island on Mac for the first time, M5 Pro/M5 Max, from $2,899 (+$400 vs non-touch), preorders Oct 28, available Nov 6",
+    "category": "ai_tech",
+    "style": "story",
+    "youtube_url": "https://www.youtube.com/watch?v=R60li2jQ_W8",
+    "video_branch": "claude/video-2026-10-29"
   }
 ]
