@@ -1,0 +1,53 @@
+{
+  "duration": 51.96,
+  "lines": [
+    {
+      "text": "Astronomers may have just found a new dwarf planet, hiding beyond Pluto.",
+      "start": 0.35,
+      "dur": 3.198,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "For now, it's called 2026 ED138. It was spotted with the new Vera C. Rubin Observatory in Chile.",
+      "start": 3.998,
+      "dur": 7.292,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Astronomer Matthew Holman found it on October 13, in Rubin images taken since March.",
+      "start": 11.74,
+      "dur": 4.196,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Why did nobody see it before? It sits near the plane of the Milky Way, lost among millions of stars. Rubin picked it out by its slow motion.",
+      "start": 16.386,
+      "dur": 6.776,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Right now, it's about 46 times farther from the Sun than Earth is. One trip around the Sun takes roughly 280 years.",
+      "start": 23.612,
+      "dur": 6.447,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Its size is still uncertain: somewhere between 600 and 1,500 kilometres across. Pluto is about 2,377.",
+      "start": 30.509,
+      "dur": 7.424,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "If it's confirmed, it would join just five official dwarf planets: Pluto, Ceres, Eris, Haumea and Makemake.",
+      "start": 38.383,
+      "dur": 5.91,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Next, other telescopes will try to measure its true size. Our solar system may still be hiding more worlds.",
+      "start": 44.743,
+      "dur": 5.366,
+      "wav": "line_7.wav"
+    }
+  ]
+}

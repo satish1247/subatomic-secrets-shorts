@@ -241,5 +241,14 @@
     "style": "story",
     "youtube_url": "https://www.youtube.com/watch?v=R60li2jQ_W8",
     "video_branch": "claude/video-2026-10-29"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "A New Dwarf Planet Beyond Pluto? Meet 2026 ED138",
+    "topic": "Rubin Observatory's first dwarf planet candidate 2026 ED138 (MPC announced Oct 27; found by Matthew Holman Oct 13 in Rubin data since March): ~46 au, est. 600-1,500 km, ~280-yr orbit, near Milky Way plane; would join 5 IAU dwarf planets if confirmed",
+    "category": "science",
+    "style": "cosmic",
+    "youtube_url": "https://www.youtube.com/watch?v=8YmjGwMqjGs",
+    "video_branch": "claude/video-2026-10-30"
   }
 ]
