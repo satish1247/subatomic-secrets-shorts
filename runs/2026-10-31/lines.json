@@ -1,0 +1,53 @@
+{
+  "duration": 41.81,
+  "lines": [
+    {
+      "text": "Google just got an AI to answer from space.",
+      "start": 0.35,
+      "dur": 2.86,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Its Suncatcher prototype satellite took its first prompt in orbit and sent back a reply. Google calls it a \"hello world\" moment.",
+      "start": 3.66,
+      "dur": 6.473,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things to know.",
+      "start": 10.582,
+      "dur": 1.232,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. It's a tiny data center in orbit. It launched on October 1, built with Planet, carrying four of Google's AI chips, called TPUs.",
+      "start": 12.265,
+      "dur": 7.928,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. Power is tight. Only one chip can run at a time, for about 20 minutes.",
+      "start": 20.643,
+      "dur": 4.434,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. Its first answer was a poem. Engineers asked the Gemma 4 model on board for a haiku about space. It came down over Svalbard, Norway.",
+      "start": 25.526,
+      "dur": 7.831,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Next up: two more satellites in 2027, linked by lasers.",
+      "start": 33.807,
+      "dur": 4.432,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Would you put AI in orbit?",
+      "start": 38.69,
+      "dur": 1.27,
+      "wav": "line_7.wav"
+    }
+  ]
+}

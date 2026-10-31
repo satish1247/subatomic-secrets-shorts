@@ -250,5 +250,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=8YmjGwMqjGs",
     "video_branch": "claude/video-2026-10-30"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Google's AI Satellite Just Answered From Space: 3 Things to Know",
+    "topic": "Google's Project Suncatcher prototype satellite answers its first AI prompt from orbit (announced Oct 30): launched Oct 1 on SpaceX Transporter-18, built with Planet, 4 TPUs but only 1 runs at a time for ~20 min; Gemma 4 wrote a haiku about space, downlinked over Svalbard; 'hello world' milestone; 2 more satellites with optical/laser links in 2027",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=t_7YVafa6mE",
+    "video_branch": "claude/video-2026-10-31"
   }
 ]

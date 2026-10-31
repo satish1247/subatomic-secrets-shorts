@@ -1,0 +1,24 @@
+{
+  "title": "Google's AI Satellite Just Answered From Space: 3 Things to Know",
+  "description": "Google's Project Suncatcher prototype satellite received its first AI prompt in orbit and sent back a reply, which Google calls a \"hello world\" moment.\n3 things to know: it carries four TPU AI chips (launched Oct 1, built with Planet), power allows only one chip at a time for ~20 minutes, and its first answer was a Gemma 4 haiku about space, downlinked over Svalbard, Norway. Two more satellites with laser links are planned for 2027.\n\nSources:\n- Google: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/\n- Google: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\n- TechCrunch: https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\n- Interesting Engineering: https://interestingengineering.com/ai-robotics/google-space-data-center-orbital-poem\n- Notebookcheck: https://www.notebookcheck.net/Google-s-first-orbital-AI-data-center-is-up-and-running-and-it-wrote-a-strange-little-poem.1438409.0.html\n- GCN: https://gcn.com/google-project-suncatcher-puts-four-chips/22176\n\n#Shorts #SubatomicSecrets #ProjectSuncatcher #AIinSpace #Google\n\nThis video is animated and voiced with AI tools.",
+  "tags": [
+    "Project Suncatcher",
+    "Google",
+    "AI in space",
+    "space data center",
+    "TPU",
+    "Gemma 4",
+    "satellite",
+    "AI news",
+    "tech news",
+    "orbital computing",
+    "Planet",
+    "Subatomic Secrets",
+    "Shorts"
+  ],
+  "category": "Science & Technology",
+  "category_id": "28",
+  "made_for_kids": false,
+  "privacy_status": "public",
+  "default_language": "en"
+}
