@@ -114,5 +114,9 @@
   {
     "date": "2026-10-31",
     "topic": "Google's Project Suncatcher prototype satellite answers its first AI prompt from orbit (announced Oct 30): launched Oct 1 on SpaceX Transporter-18, built with Planet, 4 TPUs but only 1 runs at a time for ~20 min; Gemma 4 wrote a haiku about space, downlinked over Svalbard; 'hello world' milestone; 2 more satellites with optical/laser links in 2027"
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "Teghaza 001: rose-coloured Sahara meteorite (found Mali 2022) is Martian, formed >=4.1 billion years ago (zircon U-Pb), one of 3 oldest Mars meteorites on Earth (NASA); minerals match MRO view of cratered southern highlands, 13 candidate sites; evidence of surface water >4.1 Ga (Yang Liu); JPL-led, Science Oct 29"
   }
 ]

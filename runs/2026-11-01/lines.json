@@ -1,0 +1,47 @@
+{
+  "duration": 47.15,
+  "lines": [
+    {
+      "text": "This pink rock from the Sahara isn't from Earth. It's a piece of Mars.",
+      "start": 0.35,
+      "dur": 3.339,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It was found in Mali in 2022. Scientists call it Teghaza 001.",
+      "start": 4.139,
+      "dur": 4.749,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "To date it, they looked inside tiny zircon crystals. Uranium in them slowly turns into lead, like a built-in clock.",
+      "start": 9.339,
+      "dur": 6.09,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "That clock says the rock formed at least 4.1 billion years ago. NASA says it's one of the three oldest Mars meteorites found on Earth.",
+      "start": 15.878,
+      "dur": 7.07,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Its minerals match what NASA's Mars Reconnaissance Orbiter sees in the cratered southern highlands. The team found 13 possible places it came from.",
+      "start": 23.398,
+      "dur": 7.795,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "And it hides a clue about water. The lead scientist says Mars' surface had water more than 4.1 billion years ago.",
+      "start": 31.643,
+      "dur": 6.37,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The study, led by NASA's JPL, is published in Science. A desert rock, carrying a message from early Mars.",
+      "start": 38.463,
+      "dur": 6.833,
+      "wav": "line_6.wav"
+    }
+  ]
+}

@@ -259,5 +259,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=t_7YVafa6mE",
     "video_branch": "claude/video-2026-10-31"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "This Pink Rock From the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
+    "topic": "Teghaza 001: rose-coloured Sahara meteorite (found Mali 2022) is Martian, formed >=4.1 billion years ago (zircon U-Pb), one of 3 oldest Mars meteorites on Earth (NASA); minerals match MRO view of cratered southern highlands, 13 candidate sites; evidence of surface water >4.1 Ga (Yang Liu); JPL-led, Science Oct 29",
+    "category": "science",
+    "style": "lab",
+    "youtube_url": "https://www.youtube.com/watch?v=eRUpKPs4LWo",
+    "video_branch": "claude/video-2026-11-01"
   }
 ]
