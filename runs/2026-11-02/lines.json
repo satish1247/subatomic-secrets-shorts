@@ -1,0 +1,47 @@
+{
+  "duration": 50.64,
+  "lines": [
+    {
+      "text": "iPhones in China are finally getting Apple Intelligence. But part of the brain isn't Apple's.",
+      "start": 0.35,
+      "dur": 4.533,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On October 31st, Apple and Alibaba announced that Alibaba's Qwen AI will power parts of Apple Intelligence in China.",
+      "start": 5.333,
+      "dur": 7.814,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Qwen will work inside Siri, Writing Tools and Visual Intelligence, so you can ask about photos and documents, like PDFs.",
+      "start": 13.596,
+      "dur": 7.604,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Developers can test it in the iOS beta from November 4th. Everyone else gets it with iOS 27.3 in December.",
+      "start": 21.651,
+      "dur": 7.217,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Alibaba says it won't use your requests or answers to train its models. And you choose whether to switch it on.",
+      "start": 29.317,
+      "dur": 5.052,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "One catch: the new, smarter Siri that Apple showed at WWDC isn't part of this first release.",
+      "start": 34.819,
+      "dur": 5.89,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Why it matters: Apple's AI finally reaches China, running on a local partner's model, a bit like ChatGPT inside Siri elsewhere.",
+      "start": 41.159,
+      "dur": 7.629,
+      "wav": "line_6.wav"
+    }
+  ]
+}

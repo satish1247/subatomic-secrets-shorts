@@ -268,5 +268,14 @@
     "style": "lab",
     "youtube_url": "https://www.youtube.com/watch?v=eRUpKPs4LWo",
     "video_branch": "claude/video-2026-11-01"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Apple Intelligence Is Coming to China, Powered by Alibaba's Qwen",
+    "topic": "Apple Intelligence comes to China with Alibaba's Qwen (announced Oct 31): Qwen in Siri, Writing Tools & Visual Intelligence (ask about photos/PDFs); dev beta Nov 4, iOS 27.3 in December; Alibaba won't train on user requests/responses; users opt in; WWDC26 next-gen Siri not included",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=J9Lzk93OaPI",
+    "video_branch": "claude/video-2026-11-02"
   }
 ]
