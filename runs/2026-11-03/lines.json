@@ -1,0 +1,89 @@
+{
+  "duration": 50.22,
+  "lines": [
+    {
+      "who": "arjun",
+      "text": "Nimi! The login button is broken again, and my whole team is just chatting about it!",
+      "start": 0.25,
+      "dur": 4.149,
+      "wav": "line_0.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Then ask an AI agent. DeepSeek just open-sourced one called Super-Agent.",
+      "start": 4.749,
+      "dur": 3.439,
+      "wav": "line_1.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It came out on October 31, free on GitHub under the MIT licence.",
+      "start": 8.538,
+      "dur": 4.027,
+      "wav": "line_2.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Free? So what does it actually do?",
+      "start": 12.915,
+      "dur": 1.822,
+      "wav": "line_3.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It works on one GitHub repository, and it can also listen to a team chat app called Feishu.",
+      "start": 15.087,
+      "dur": 4.891,
+      "wav": "line_4.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "When an approved teammate asks, it opens a work item, works in its own session, and answers in the chat, for example with a pull request.",
+      "start": 20.329,
+      "dur": 7.105,
+      "wav": "line_5.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So it just jumps in whenever it wants?",
+      "start": 27.783,
+      "dur": 1.9,
+      "wav": "line_6.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "No. It only acts when someone asks, or when a rule your team wrote allows it.",
+      "start": 30.033,
+      "dur": 3.982,
+      "wav": "line_7.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Bloomberg reports DeepSeek is aiming it at Anthropic's Claude Code.",
+      "start": 34.365,
+      "dur": 3.443,
+      "wav": "line_8.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So my login bug is fixed by tonight?",
+      "start": 38.157,
+      "dur": 1.921,
+      "wav": "line_9.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Careful. DeepSeek calls it a research prototype, not an official product. Review it before you run it.",
+      "start": 40.428,
+      "dur": 4.726,
+      "wav": "line_10.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Fine. I'll ask it nicely... and then review everything.",
+      "start": 45.504,
+      "dur": 2.968,
+      "wav": "line_11.wav"
+    }
+  ]
+}

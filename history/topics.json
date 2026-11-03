@@ -122,5 +122,9 @@
   {
     "date": "2026-11-02",
     "topic": "Apple Intelligence comes to China with Alibaba's Qwen (announced Oct 31): Qwen in Siri, Writing Tools & Visual Intelligence (ask about photos/PDFs); dev beta Nov 4, iOS 27.3 in December; Alibaba won't train on user requests/responses; users opt in; WWDC26 next-gen Siri not included"
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "DeepSeek open-sources Super-Agent (dsh-superagent-prototype, Oct 31, MIT): proactive coding agent research prototype for one GitHub repo, optional Feishu chat; acts when asked or a team rule allows; replies e.g. with a pull request; Bloomberg: aimed at Claude Code; not an official product"
   }
 ]

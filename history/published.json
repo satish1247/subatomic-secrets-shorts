@@ -277,5 +277,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=J9Lzk93OaPI",
     "video_branch": "claude/video-2026-11-02"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "DeepSeek's Free AI Coding Agent Answers in Your Team Chat",
+    "topic": "DeepSeek open-sources Super-Agent (dsh-superagent-prototype, Oct 31, MIT): proactive coding agent research prototype for one GitHub repo, optional Feishu chat; acts when asked or a team rule allows; replies e.g. with a pull request; Bloomberg: aimed at Claude Code; not an official product",
+    "category": "ai_tech",
+    "style": "story",
+    "youtube_url": "https://www.youtube.com/watch?v=Ef38VsprR2s",
+    "video_branch": "claude/video-2026-11-03"
   }
 ]
