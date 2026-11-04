@@ -126,5 +126,9 @@
   {
     "date": "2026-11-03",
     "topic": "DeepSeek open-sources Super-Agent (dsh-superagent-prototype, Oct 31, MIT): proactive coding agent research prototype for one GitHub repo, optional Feishu chat; acts when asked or a team rule allows; replies e.g. with a pull request; Bloomberg: aimed at Claude Code; not an official product"
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "Google brings Dreambeans to India (TechCrunch Nov 2, Google India blog Nov 3): first market outside US; no-prompt illustrated daily stories from connected Google apps (Gmail, Calendar, Photos, YouTube, Search); some animated with Veo; 14 languages (English + 13 Indian), one at a time, no mixing; free Android/iOS, 18+; private, deletable; may hallucinate"
   }
 ]

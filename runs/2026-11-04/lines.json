@@ -1,0 +1,65 @@
+{
+  "duration": 49.26,
+  "lines": [
+    {
+      "text": "Google's AI wants to turn your day into a storybook. And it just landed in India.",
+      "start": 0.35,
+      "dur": 4.474,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It's called Dreambeans, and India is its first country outside the US.",
+      "start": 5.324,
+      "dur": 4.432,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Let's bust two myths.",
+      "start": 10.256,
+      "dur": 1.045,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Myth number one: you have to type a prompt.",
+      "start": 11.8,
+      "dur": 1.901,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Fact: no prompt needed. It builds illustrated stories from Google apps you choose to connect, like Gmail, Calendar and Photos.",
+      "start": 14.201,
+      "dur": 7.684,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Some stories even come to life as short animations made with Veo.",
+      "start": 22.386,
+      "dur": 3.504,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Myth number two: it mixes languages, like Hinglish.",
+      "start": 26.389,
+      "dur": 2.684,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Fact: it speaks 14 languages, English plus 13 Indian languages like Hindi, Tamil and Bengali. But only one at a time.",
+      "start": 29.573,
+      "dur": 7.08,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "It's free on Android and iOS, for adults 18 and over. Your stories are private, and you can delete your data anytime.",
+      "start": 37.153,
+      "dur": 5.828,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "Google warns it can still get things wrong. Would you let AI write your day?",
+      "start": 43.481,
+      "dur": 3.879,
+      "wav": "line_9.wav"
+    }
+  ]
+}

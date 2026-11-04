@@ -286,5 +286,14 @@
     "style": "story",
     "youtube_url": "https://www.youtube.com/watch?v=Ef38VsprR2s",
     "video_branch": "claude/video-2026-11-03"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Google's AI Turns Your Day Into a Storybook, Now in India",
+    "topic": "Google brings Dreambeans to India (TechCrunch Nov 2, Google India blog Nov 3): first market outside US; no-prompt illustrated daily stories from connected Google apps (Gmail, Calendar, Photos, YouTube, Search); some animated with Veo; 14 languages (English + 13 Indian), one at a time, no mixing; free Android/iOS, 18+; private, deletable; may hallucinate",
+    "category": "ai_tech",
+    "style": "mythfact",
+    "youtube_url": "https://www.youtube.com/watch?v=bsaHlAZDxrU",
+    "video_branch": "claude/video-2026-11-04"
   }
 ]
