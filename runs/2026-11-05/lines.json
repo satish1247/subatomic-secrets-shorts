@@ -1,0 +1,47 @@
+{
+  "duration": 44.0,
+  "lines": [
+    {
+      "text": "A humanoid robot just clocked in for a full eight-hour factory shift.",
+      "start": 0.35,
+      "dur": 3.484,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On November 4th, Xiaomi CEO Lei Jun shared a video from the final assembly workshop of Xiaomi's electric car factory.",
+      "start": 4.284,
+      "dur": 7.086,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "The job: sorting side covers for the car's centre console. Xiaomi says its robots kept going for 8 hours and 5 minutes.",
+      "start": 11.82,
+      "dur": 6.45,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "In the sped-up video, they pause to recharge twice: after about 3 hours, and again after about 6.",
+      "start": 18.72,
+      "dur": 5.831,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "When one robot dropped a part on the floor, a wheeled robot rolled over and picked it up.",
+      "start": 25.001,
+      "dur": 4.419,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Earlier this year, a Xiaomi humanoid did a factory internship. Now it's working full shifts.",
+      "start": 29.87,
+      "dur": 5.429,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The catch: Xiaomi hasn't said how often humans had to step in. But robots on real car lines are getting closer.",
+      "start": 35.749,
+      "dur": 6.403,
+      "wav": "line_6.wav"
+    }
+  ]
+}

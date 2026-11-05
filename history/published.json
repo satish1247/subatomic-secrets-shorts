@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots… in Molten Steel",
+    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India… But There's a Catch",
+    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -295,5 +295,14 @@
     "style": "mythfact",
     "youtube_url": "https://www.youtube.com/watch?v=bsaHlAZDxrU",
     "video_branch": "claude/video-2026-11-04"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Xiaomi's Humanoid Robots Just Worked a Full 8-Hour Factory Shift",
+    "topic": "Xiaomi says its humanoid robots worked a full 8-hour shift (8h05m) in final assembly at its EV factory (Lei Jun video Nov 4): sorting centre-console side covers; recharged ~3h and ~6h in sped-up video; wheeled robot fetched a dropped part; earlier 2026 'internship'; no data on human interventions",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=kWwugVE2eL8",
+    "video_branch": "claude/video-2026-11-05"
   }
 ]
