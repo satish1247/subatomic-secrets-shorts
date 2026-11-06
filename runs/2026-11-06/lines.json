@@ -1,0 +1,47 @@
+{
+  "duration": 47.87,
+  "lines": [
+    {
+      "text": "This toothbrush makes its own electricity, just from you brushing. No battery needed.",
+      "start": 0.35,
+      "dur": 4.536,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "It was built by scientists at Peking University's School of Stomatology. That's a dental school.",
+      "start": 5.336,
+      "dur": 5.054,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "The secret is the bristles. They're made of a plastic called PVDF, which builds up an electric charge when it bends.",
+      "start": 10.84,
+      "dur": 5.829,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "As you brush, that charge sparks reactions in your saliva. They make reactive oxygen molecules that damage bacteria.",
+      "start": 17.119,
+      "dur": 6.174,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "In lab tests, the new bristles killed about 53% of a major cavity-causing bacterium. Ordinary nylon bristles? Just 9%.",
+      "start": 23.743,
+      "dur": 8.253,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Then 115 volunteers brushed for three months. The new brush beat nylon on plaque, gum inflammation and bleeding.",
+      "start": 32.447,
+      "dur": 6.957,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "The study is in Science Advances, and experts say it needs more testing. But your next toothbrush might zap germs.",
+      "start": 39.854,
+      "dur": 6.162,
+      "wav": "line_6.wav"
+    }
+  ]
+}

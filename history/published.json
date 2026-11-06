@@ -304,5 +304,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=kWwugVE2eL8",
     "video_branch": "claude/video-2026-11-05"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "This Toothbrush Makes Its Own Electricity to Zap Bacteria",
+    "topic": "Self-charging toothbrush: Peking Univ. School of Stomatology PVDF piezoelectric bristles make charge when bent -> reactive oxygen species in saliva damage bacteria; lab ~53% of a cavity bacterium (S. mutans) killed vs 9% nylon; 3-month trial, 115 volunteers: less plaque, gum inflammation, bleeding vs nylon; experts: more testing needed (Science Advances, Nature news Nov 4)",
+    "category": "science",
+    "style": "lab",
+    "youtube_url": "https://www.youtube.com/watch?v=5ChNSEp6F1k",
+    "video_branch": "claude/video-2026-11-06"
   }
 ]
