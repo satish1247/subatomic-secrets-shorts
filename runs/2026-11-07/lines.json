@@ -1,0 +1,53 @@
+{
+  "duration": 45.76,
+  "lines": [
+    {
+      "text": "Four years ago, NASA crashed a spacecraft into an asteroid. Now Europe is back to inspect the damage.",
+      "start": 0.35,
+      "dur": 5.286,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "In 2022, NASA's DART probe slammed into Dimorphos, a tiny moon that circles the asteroid Didymos.",
+      "start": 6.086,
+      "dur": 5.723,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "That hit shortened the moon's orbit by about 32 minutes. A real test of planetary defence.",
+      "start": 12.259,
+      "dur": 4.928,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Now ESA's Hera spacecraft has sent its first close-up of both asteroids, from about 60 kilometres away.",
+      "start": 17.638,
+      "dur": 6.624,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "And it shows a side of Didymos that DART never got to see.",
+      "start": 24.712,
+      "dur": 2.574,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Boulders, craters, and strange grooves or ridges. Some may be debris thrown over from the crash.",
+      "start": 27.736,
+      "dur": 4.806,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Didymos is about 780 metres wide. Its little moon? Only about 150.",
+      "start": 32.992,
+      "dur": 4.879,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Next, Hera moves in closer for a full crash-site investigation, so we learn how to protect Earth.",
+      "start": 38.321,
+      "dur": 5.587,
+      "wav": "line_7.wav"
+    }
+  ]
+}
