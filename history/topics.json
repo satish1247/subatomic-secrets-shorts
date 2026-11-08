@@ -142,5 +142,9 @@
   {
     "date": "2026-11-07",
     "topic": "ESA's Hera sends its first close-up of Didymos & Dimorphos (released ~Nov 5) from ~60 km: side of Didymos DART never saw, boulders/craters/grooves, some maybe impact debris; DART hit Dimorphos 26 Sep 2022, orbit ~32 min shorter (11h55->11h23); Didymos ~780 m, Dimorphos ~150 m; next crash-site investigation"
+  },
+  {
+    "date": "2026-11-08",
+    "topic": "Meta's Muse AI agent gets real-time voice chats and expressive avatars (US rollout Nov 5, mobile/web/Mac): phone icon -> voice only / avatar beside chat / full-screen avatar; interrupt mid-answer, keeps working on tasks in background; Muse Realtime Avatar (Meta Superintelligence Labs) reads same speech tokens as voice; Meta's raters preferred it over Runway/HeyGen (Meta claim); coming to AI Glasses and Muse Charm, no date"
   }
 ]

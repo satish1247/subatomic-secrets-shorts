@@ -1,0 +1,3007 @@
+{
+ "run_date": "2026-11-08",
+ "rule": "last 10: 6 ai_tech / 4 science -> fewer than 7 ai_tech, so today must be ai_tech",
+ "avoid_styles": [
+  "cosmic",
+  "lab"
+ ],
+ "queries": [
+  "AI news November 7 2026",
+  "AI model release November 2026",
+  "OpenAI announcement November 6 2026",
+  "Google Gemini new feature November 2026",
+  "TechCrunch November 7 2026",
+  "The Verge tech news November 7 2026",
+  "open-source AI model open weights released November 2026",
+  "smartphone launch November 2026",
+  "\"November 6, 2026\" AI launch",
+  "Anthropic Claude announcement November 2026",
+  "Nvidia AMD chip announcement this week November 2026",
+  "humanoid robot news November 6 2026",
+  "India tech news AI launch November 7 2026",
+  "cybersecurity vulnerability disclosed November 6 2026",
+  "electric vehicle EV news November 7 2026",
+  "Electrek November 6 2026",
+  "Everything that happened in AI today November 7 2026",
+  "OpenAI GPT-6 Cyber launch vulnerabilities Firefox Linux",
+  "Gemini Omni Flash video generation 15 seconds",
+  "Perplexity Teammates AI agents launch",
+  "Baidu ERNIE 5.5 Flash Base open 280 billion parameters",
+  "Apple Creator Studio new AI features OpenAI models November",
+  "Tencent Hy4 model computer use image understanding",
+  "space mission news November 7 2026",
+  "DeepMind AI agents RSA 1024-bit signature forgery batch factoring",
+  "Meta Muse agent voice avatars",
+  "CrowdStrike acquires two AI security startups $495 million",
+  "Mistral Studio managed agents public preview",
+  "gadget launch smart glasses wearable November 2026",
+  "developer tools AI coding agent launch November 5 2026",
+  "quantum computing announcement November 2026",
+  "Microsoft Amazon Samsung AI announcement November 5 2026",
+  "Meta Muse Realtime Voice Realtime Avatar November 5 rollout US interrupt phone icon",
+  "Google \"Gemini Omni 1.2 Flash\" announcement",
+  "science discovery study published November 6 2026"
+ ],
+ "candidate_count": 109,
+ "weights": {
+  "recency": 1.5,
+  "source_credibility": 2.0,
+  "novelty": 1.5,
+  "audience_interest": 2.0,
+  "explainable_in_45s": 1.5,
+  "visual_potential": 1.2,
+  "wow_factor": 1.5,
+  "factual_certainty": 2.0,
+  "search_interest": 1.0,
+  "evergreen_value": 0.5,
+  "india_relevance": 0.6,
+  "low_risk": 1.5
+ },
+ "selected": {
+  "title": "Meta's Muse AI agent gets real-time voice chats and expressive avatars",
+  "style": "newsflash",
+  "score": 145.6,
+  "validation": "TheNextWeb, iPhone in Canada (Nov 5), Unite.ai, AlternativeTo (Nov 2026), iClarified all report the Nov 5 US rollout of Muse real-time voice + expressive avatars; Muse Realtime Avatar by Meta Superintelligence Labs; rater preference over Runway/HeyGen reported as Meta's own claim",
+  "sources": [
+   "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
+   "https://www.iphoneincanada.ca/2026/11/05/meta-muse-voice-expressive-avatars-us/",
+   "https://www.unite.ai/meta-brings-real-time-voice-and-expressive-avatars-to-muse/",
+   "https://alternativeto.net/news/2026/11/meta-adds-real-time-voice-chats-and-expressive-avatars-to-its-ai-agent-muse/",
+   "https://www.iclarified.com/103320/meta-adds-realtime-voice-conversations-and-expressive-avatars-to-muse-video"
+  ]
+ },
+ "runner_up": {
+  "title": "Google Gemini Omni 1.2 Flash makes 15-second AI videos",
+  "score": 141.4,
+  "sources": [
+   "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "https://www.androidauthority.com/google-gemini-omni-1-2-flash-announced-3732209/",
+   "https://www.phonearena.com/news/googles-newest-ai-model-lets-you-edit-video-by-just-talking-to-it_id180484"
+  ]
+ },
+ "top_runners_up": [
+  {
+   "title": "Google Gemini Omni 1.2 Flash makes 15-second AI videos",
+   "score": 141.4
+  },
+  {
+   "title": "Perplexity launches Teammates: persistent AI agents for Max users",
+   "score": 127.2
+  },
+  {
+   "title": "Apple Creator Studio adds AI assistants built on Apple models and OpenAI",
+   "score": 122.7
+  }
+ ],
+ "network_note": "Direct fetches of news sites blocked by sandbox egress proxy; validation relied on multi-source web search results",
+ "candidates": [
+  {
+   "title": "Meta's Muse AI agent gets real-time voice chats and expressive avatars",
+   "summary": "Nov 5: US rollout on mobile, web, Mac; tap phone icon; voice-only / avatar beside chat / full-screen avatar; interrupt mid-answer, Muse keeps working on tasks in background; avatars from Muse Realtime Avatar (Meta Superintelligence Labs) reading the same speech tokens as Muse Realtime Voice; Meta's raters preferred it to Runway/HeyGen (Meta claim); coming to AI Glasses and Muse Charm, no dates",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
+    "https://www.iphoneincanada.ca/2026/11/05/meta-muse-voice-expressive-avatars-us/",
+    "https://www.unite.ai/meta-brings-real-time-voice-and-expressive-avatars-to-muse/",
+    "https://alternativeto.net/news/2026/11/meta-adds-real-time-voice-chats-and-expressive-avatars-to-its-ai-agent-muse/",
+    "https://www.iclarified.com/103320/meta-adds-realtime-voice-conversations-and-expressive-avatars-to-muse-video"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 10,
+    "audience_interest": 9,
+    "explainable_in_45s": 9,
+    "visual_potential": 10,
+    "wow_factor": 8,
+    "factual_certainty": 8,
+    "search_interest": 8,
+    "evergreen_value": 6,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "5 outlets agree on core facts; rater-preference stated as Meta's own claim",
+   "weighted_score": 145.6,
+   "style": "newsflash"
+  },
+  {
+   "title": "Google Gemini Omni 1.2 Flash makes 15-second AI videos",
+   "summary": "Nov 5: video gen/edit model GA on Gemini API, AI Studio, Cloud; max clip 15 s (up from 10 s in 1.1); multi-turn conversational editing; Gemini app needs AI Ultra",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "https://www.androidauthority.com/google-gemini-omni-1-2-flash-announced-3732209/",
+    "https://www.phonearena.com/news/googles-newest-ai-model-lets-you-edit-video-by-just-talking-to-it_id180484"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 5,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "runner-up; pricing figure unofficial, excluded",
+   "weighted_score": 141.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Perplexity launches Teammates: persistent AI agents for Max users",
+   "summary": "Nov 5: named persistent agents built on Perplexity Computer; isolated desktop/browser; watch tools, message coworkers in Slack; Max credits",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "https://alphasignal.ai/news/perplexity-s-teammates-gives-ai-agents-persistent-roles-and-memory",
+    "https://shiftdelete.net/en/perplexity-teammates-ai-agents"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "paywalled Max feature, less general appeal",
+   "weighted_score": 127.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Apple Creator Studio adds AI assistants built on Apple models and OpenAI",
+   "summary": "Nov 5: Keynote, Pages, Numbers, Logic Pro assistants in beta; MCP support; Generate Presentation via OpenAI; $12.99/mo",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+    "https://thurrott.com/a-i/343266/apple-creator-studio-adds-new-ai-features-for-final-cut-pro-logic-pro-and-the-iwork-suite",
+    "https://www.thestar.com.my/tech/tech-news/2026/10/29/apple-announces-major-updates-to-creator-studio-with-new-ai-features"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "Apple topics used Oct 29 and Nov 2",
+   "weighted_score": 122.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Tencent launches Hy4 with vision and computer use",
+   "summary": "Nov 4: first Hunyuan model with visual understanding; operates CLI and GUI (Blender, CAD); 770B MoE reported; TokenHub",
+   "category": "ai_tech",
+   "date": "2026-11-04",
+   "sources": [
+    "https://www.techrepublic.com/article/news-tencent-hy4-ai-model-vision-computer-use/",
+    "https://interestingengineering.com/ai-robotics/tencent-hy4-open-source-model",
+    "https://macaubusiness.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "open-weights status conflicting",
+   "weighted_score": 117.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "CrowdStrike to buy Fiddler AI and Dreadnode for ~$495M",
+   "summary": "WSJ-reported price; Falcon Observe; AI Kill Switch in Falcon Guardian",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.govinfosecurity.com/crowdstrike-to-buy-ai-security-startups-for-495m-a-33285",
+    "https://securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode",
+    "https://dealroom.co/news/169315-crowdstrike-to-buy-ai-security-startups-fiddler-and-dreadnode-for-495m/"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 8,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "validated": true,
+   "note": "deal news; financial angle",
+   "weighted_score": 106.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Baidu open-sources ERNIE 5.5 Flash Base (280B MoE)",
+   "summary": "Nov 5: base checkpoint, ~14B active, 1M context, custom license; post-trained model to follow",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://ecosistemastartup.com/baidu-publica-ernie-5-5-flash-280b-para-entrenar-tu-modelo/",
+    "https://www.aichatdaily.com/ai-models/baidu-releases-ernie-5-5-flash-base-280b",
+    "https://phemex.com/news/article/baidu-opensources-ernie-55-flash-base-model-102497"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 6,
+    "novelty": 8,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "niche: base model, developer-only",
+   "weighted_score": 105.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "1024-bit RSA signatures forged in nearly SNFS time",
+   "summary": "IACR ePrint 2026/2131 (UCSD/INRIA): forgery with oracle access, 1380 core-years; deprecated keys only",
+   "category": "ai_tech",
+   "date": "2026-09",
+   "sources": [
+    "https://eprint.iacr.org/2026/2131",
+    "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 9,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 4,
+    "visual_potential": 4,
+    "wow_factor": 7,
+    "factual_certainty": 9,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": true,
+   "note": "not fresh (September), hard to explain in 45 s; digest's DeepMind link not confirmed",
+   "weighted_score": 104.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Mistral Studio adds managed agents and apps (public preview)",
+   "summary": "Nov 5: managed agents with skills, sandboxes, subagents, hooks; workflows GA; on-prem end of Nov",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://alphasignal.ai/news/mistral-rebuilds-studio-into-a-full-enterprise-ai-agent-platform",
+    "https://www.technobezz.com/news/mistral-studio-adds-managed-agents-apps",
+    "https://docs.mistral.ai/studio"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": true,
+   "note": "enterprise developer niche",
+   "weighted_score": 101.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "OpenAI GPT-6 Cyber reportedly finds 81 new Firefox flaws",
+   "summary": "Nov 5: security model for vetted Daybreak Red customers; OpenAI claims 81 high-severity Firefox bugs, Linux kernel findings; rated Critical",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+    "https://finimize.com/content/openais-gpt-6-cyber-takes-a-bigger-swing-at-bugs",
+    "https://www.roic.ai/news/openai-unveils-gpt-6-cyber-flags-critical-cybersecurity-risk-11-05-2026"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 7,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 9,
+    "factual_certainty": 5,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 5
+   },
+   "validated": false,
+   "note": "key figures are OpenAI's own claims; one outlet issued a correction on a figure -> factual certainty too low",
+   "weighted_score": 120.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Sunlight is about 8 minutes old when it reaches you",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Neutron star matter: a teaspoon weighs billions of tonnes",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "A day on Venus is longer than its year",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Saturn would float in a big enough bathtub (density < water)",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Your body has more bacterial cells than you think (~1:1 ratio)",
+   "summary": "evergreen human body fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Octopuses have three hearts",
+   "summary": "evergreen biology fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Bananas are slightly radioactive (potassium-40)",
+   "summary": "evergreen chemistry fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Water can boil and freeze at once (triple point)",
+   "summary": "evergreen physics fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Honey never spoils",
+   "summary": "evergreen chemistry fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Lightning is about 5x hotter than the Sun's surface",
+   "summary": "evergreen earth fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Trees talk via fungal networks",
+   "summary": "evergreen nature fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Tardigrades survive space vacuum",
+   "summary": "evergreen biology fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Your stomach lining renews every few days",
+   "summary": "evergreen human body fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Light from some stars is thousands of years old",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Earth's core is about as hot as the Sun's surface",
+   "summary": "evergreen earth fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Glass is an amorphous solid, not a slow liquid (myth)",
+   "summary": "evergreen physics fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Hummingbird hearts beat ~1,200 times a minute",
+   "summary": "evergreen biology fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Diamonds and pencil graphite are both pure carbon",
+   "summary": "evergreen chemistry fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "There are more stars than grains of sand on Earth's beaches (estimate)",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Sharks are older than trees",
+   "summary": "evergreen nature fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Mount Everest grows a few mm per year",
+   "summary": "evergreen earth fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Human DNA is ~99.9% identical between people",
+   "summary": "evergreen human body fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "A teaspoon of soil holds billions of microbes",
+   "summary": "evergreen nature fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Jupiter's Great Red Spot is bigger than Earth",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Sound travels ~4x faster in water than air",
+   "summary": "evergreen physics fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Mantis shrimp punch causes cavitation bubbles",
+   "summary": "evergreen biology fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Your bones are ~5x stronger than steel by weight (myth-check)",
+   "summary": "evergreen human body fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Helium makes voices high by changing resonance, not vocal cords",
+   "summary": "evergreen physics fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Ice is less dense than water, so lakes freeze top-down",
+   "summary": "evergreen chemistry fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "The Moon drifts ~3.8 cm away from Earth each year",
+   "summary": "evergreen space fact",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 9,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "science day not allowed: last 10 had only 6 ai_tech -> today must be ai_tech; not source-validated this run",
+   "weighted_score": 114.5,
+   "style": "lab"
+  },
+  {
+   "title": "Boston Dynamics Atlas at Hyundai plant",
+   "summary": "Jan 2026",
+   "category": "ai_tech",
+   "date": "2026-01",
+   "sources": [
+    "https://bostondynamics.com/news/boston-dynamics-robert-playter-on-the-new-atlas/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 9,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "not fresh; humanoid factory topic used Nov 5",
+   "weighted_score": 106.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Samsung smart glasses slip to mid-December",
+   "summary": "Nov 5 report; no display; built with Google, Gentle Monster, Warby Parker",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://idevice.com/samsung-intelligent-eyewear-mid-december-launch-us-korea.md",
+    "https://mezha.ua/en/news/samsung-first-smart-glasses-to-debut-in-november-315753/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 6,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "unofficial timing, rumour-based",
+   "weighted_score": 105.5,
+   "style": "newsflash"
+  },
+  {
+   "title": "Motorola Signature 27 global launch",
+   "summary": "announced Nov 5; specs vary between sources",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://tech-insider.org/november-2026-smartphone-launches-motorola-signature-27-iqoo-16-2026/",
+    "https://www.indianewsnetwork.com/en/new-smartphone-releases-november-2026-iqoo-motorola-more-20261103"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "specs unconfirmed/conflicting",
+   "weighted_score": 103.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Google AI glasses with Gemini in 2026",
+   "summary": "partners Samsung, Gentle Monster, Warby Parker",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.domain-b.com/technology/artificial-intelligence/google-confirms-first-ai-smart-glasses-launch-in-2026"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 101.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "GPT-6 Astra phased rollout",
+   "summary": "Semafor via Biztoc",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://biztoc.com/x/e268898307f051fd"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "not within 48h",
+   "weighted_score": 99.8,
+   "style": "newsflash"
+  },
+  {
+   "title": "1X Neo humanoid deposits",
+   "summary": "Nov 5 2025",
+   "category": "ai_tech",
+   "date": "2025-11-05",
+   "sources": [
+    "https://builtin.com/robotics/humanoid-robots"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "a year old",
+   "weighted_score": 99.5,
+   "style": "newsflash"
+  },
+  {
+   "title": "Meta Muse Charm device",
+   "summary": "Connect 2026",
+   "category": "ai_tech",
+   "date": "2026-09",
+   "sources": [
+    "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/?type=AI"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 98.6,
+   "style": "newsflash"
+  },
+  {
+   "title": "Intuitive Machines IM-3",
+   "summary": "Wikipedia",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://en.wikipedia.org/wiki/IM-3"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 98.5,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gemini Intelligence automates multi-step tasks on Android",
+   "summary": "I/O 2026",
+   "category": "ai_tech",
+   "date": "2026-05",
+   "sources": [
+    "https://www.newsbytesapp.com/news/science/google-unveils-gemini-intelligence-at-io-2026-supercharging-android-phones/tldr"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 97.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Chinese humanoid walks 130,000 steps on ice at -47.4 C",
+   "summary": "newsletter",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://ready-for-tomorrow.beehiiv.com/t/news"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "undated, single source",
+   "weighted_score": 97.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gemini Omni Flash 1.1 at I/O",
+   "summary": "May 2026",
+   "category": "ai_tech",
+   "date": "2026-05",
+   "sources": [
+    "https://www.technobezz.com/news/google-launches-gemini-omni-flash-model-that-generates-video-with-synchronized-audio"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "superseded by 1.2",
+   "weighted_score": 97.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "IBM advances to Stage C of DARPA QBI",
+   "summary": "Oct 7",
+   "category": "ai_tech",
+   "date": "2026-10-07",
+   "sources": [
+    "https://newsroom.ibm.com/index.php?s=34141&cat=25&l=10"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 5,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "outside 48h",
+   "weighted_score": 96.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "Single-letter insertion makes XX mice develop as males",
+   "summary": "Brightsurf archive",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.brightsurf.com/archive/2026/114"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 8,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "undated, single source; science not allowed today",
+   "weighted_score": 96.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gemini Spark 24/7 background agent",
+   "summary": "no rollout date in result",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://aitechin.substack.com/p/google-gemini-is-becoming-your-247"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 96.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "Amazon Leo satellite launches",
+   "summary": "Wikipedia list",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Amazon_Leo_launches"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "no specific fresh event",
+   "weighted_score": 95.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "SpaceX Crew-12",
+   "summary": "Wikipedia",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://en.wikipedia.org/wiki/SpaceX_Crew-12"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 95.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "IndiaAI Mission sovereign model releases (Sarvam, Gnani, BharatGen)",
+   "summary": "Feb 2026 summit",
+   "category": "ai_tech",
+   "date": "2026-02",
+   "sources": [
+    "https://www.angelone.in/news/economy/indiaai-mission-advances-with-sarvam-ai-gnani-ai-and-bharatgen-model-releases",
+    "https://organiser.org/2026/02/19/340755/bharat/bharat-unveils-indigenous-ai-powerhouse-sarvam-gnani-ai-and-bharatgen-lead-the-sovereign-ai-revolution/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 94.5,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gemini Daily Brief morning update",
+   "summary": "Gemini app",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://windowsreport.com/google-expands-gemini-app-with-daily-brief-ai-automation-and-more/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 92.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "Meta acquires AI coding startup Conductor",
+   "summary": "reported in Nov 6 digests",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "single aggregator in results",
+   "weighted_score": 91.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "OpenAI ExploitGym benchmark: GPT-6 Cyber 48.5% vs GPT-5.6 Cyber 32.1%",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Mozilla ships Firefox fixes for AI-found flaws",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "CrowdStrike AI Kill Switch for rogue agents",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://stocktwits.com/news-articles/markets/equity/crowd-strike-to-reportedly-buy-ai-security-startups-for-495-m-launches-kill-switch-for-rogue-agents/cNGXTrKR95n"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Apple Creator Studio gets MCP support for outside AI agents",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thebridge.jp/2026/10/apple-creator-studio-ai-assistant-mcp"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Tencent TokenHub 50% off Hy4 through Dec 31",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://orcarouter.ai/blog/tencent-hy4-ga-vision-computer-use"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Mistral agents deploy command lets Mistral host agents",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://docs.mistral.ai/studio/agents/learn/where-it-runs/deploy"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash conversational video editing",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.phonearena.com/news/googles-newest-ai-model-lets-you-edit-video-by-just-talking-to-it_id180484"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Meta Muse Realtime Avatar turns portraits into talking avatars",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://alphasignal.ai/news/meta-s-muse-turns-any-portrait-into-a-real-time-talking-avatar"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Display-less smart glasses shipments surge (Q1 2026)",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://dymesty.com/blogs/articles/buy-smart-glasses-now-or-wait-fall-2026"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Kumma AI teddy bear story (via aggregator)",
+   "summary": "sub-angle surfaced in research",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "sub-angle of a larger story or single source",
+   "weighted_score": 91.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Nvidia Vera Rubin platform",
+   "summary": "six chips as rack-scale system",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.techradar.com/pro/amd-says-its-instinct-mi500-ai-accelerator-will-come-in-2027-but-is-it-too-late-with-nvidia-set-to-introduce-vera-rubin-in-2026"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 4,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 90.8,
+   "style": "newsflash"
+  },
+  {
+   "title": "Black holes may bring light to mystery (CSU)",
+   "summary": "undated",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://newsmediarelations.colostate.edu/inthenews/black-holes-may-bring-light-to-mystery/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "undated; science not allowed today",
+   "weighted_score": 90.5,
+   "style": "newsflash"
+  },
+  {
+   "title": "Sarvam AI launches Indus app",
+   "summary": "Feb 2026",
+   "category": "ai_tech",
+   "date": "2026-02",
+   "sources": [
+    "https://www.indiantelevision.com/mam/sarvam-ai-launches-indus-indias-sovereign-ai-app/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "not fresh",
+   "weighted_score": 90.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "NASA Swift observatory rescue mission",
+   "summary": "June 2026; Swift topic used Oct 27",
+   "category": "science",
+   "date": "2026-06",
+   "sources": [
+    "https://feedbagel.com/roundup/space exploration/archive"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 2,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "duplicate of Oct 27",
+   "weighted_score": 90.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "METR: Anthropic improving models ~2x faster than a year ago",
+   "summary": "Nov 7 digest item",
+   "category": "ai_tech",
+   "date": "2026-11-07",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "single newsletter; methodology unclear",
+   "weighted_score": 89.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Nvidia RTX Spark consumer chip",
+   "summary": "COMPUTEX 2026",
+   "category": "ai_tech",
+   "date": "2026-06",
+   "sources": [
+    "https://www.noypigeeks.com/tag/nvidia-rtx-spark/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 89.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "AMD Instinct MI400 GA Q4 2026",
+   "summary": "roadmap",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.tweaktown.com/news/108825/amds-confirms-instinct-mi400-series-ai-gpus-drop-in-2026-next-gen-instinct-mi500-in-2027/index.html"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "no fresh news",
+   "weighted_score": 87.8,
+   "style": "newsflash"
+  },
+  {
+   "title": "Google takes over Crusoe's Wyoming data centre project",
+   "summary": "Nov 7 digest item",
+   "category": "ai_tech",
+   "date": "2026-11-07",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "single newsletter",
+   "weighted_score": 87.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Amazon Bee wearable ambient AI",
+   "summary": "undated",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.techmeme.com/260105/p9"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "undated/old",
+   "weighted_score": 86.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "Karbonn Rebel and Rebel Pro 5G India launch",
+   "summary": "launch calendar",
+   "category": "ai_tech",
+   "date": "2026-11-02",
+   "sources": [
+    "https://www.thehansindia.com/tech/upcoming-smartphone-launches-in-november-2026-iqoo-16-oneplus-16r-and-more-1137472"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 8,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "outside 48h, calendar only",
+   "weighted_score": 84.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "iQOO 16 India launch timing",
+   "summary": "CEO said coming soon; dates conflict",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.thehansindia.com/tags/iqoo-16"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 9,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "unconfirmed",
+   "weighted_score": 83.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "DigitalOcean Cuttlefish iPhone app for managing AI agents",
+   "summary": "Nov 6 digest",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "single aggregator",
+   "weighted_score": 83.1,
+   "style": "newsflash"
+  },
+  {
+   "title": "AWS adds GPU partitioning for multiple isolated models",
+   "summary": "Nov 7 digest item",
+   "category": "ai_tech",
+   "date": "2026-11-07",
+   "sources": [
+    "https://aiagentsdirectory.com/news/ai-agents-directory-daily-brief-november-7-2026"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "single aggregator",
+   "weighted_score": 82.6,
+   "style": "newsflash"
+  },
+  {
+   "title": "Samsung Family Hub fridge with Gemini",
+   "summary": "Jan 2026",
+   "category": "ai_tech",
+   "date": "2026-01",
+   "sources": [
+    "https://www.annielytics.com/tools/ai-timeline/topic/samsung-announcement/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 82.6,
+   "style": "newsflash"
+  },
+  {
+   "title": "AGIBOT enters US market at CES 2026",
+   "summary": "Jan",
+   "category": "ai_tech",
+   "date": "2026-01",
+   "sources": [
+    "https://www.roboticscenter.ai/news/digest/tag/humanoid/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 3,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 82.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Cursor uses Moonshot Kimi model",
+   "summary": "TechCrunch banner, undated",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://techcrunch.com/?p=1586336"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 81.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "Justice Department Super Intelligence Task Force",
+   "summary": "Nov 6-7 digests",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://aiagentsdirectory.com/news/ai-agents-news-brief-november-6-2026"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 3
+   },
+   "validated": false,
+   "note": "politics; dropped",
+   "weighted_score": 80.8,
+   "style": "newsflash"
+  },
+  {
+   "title": "OnePlus 16 India arrival",
+   "summary": "may arrive this November",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.thehansindia.com/tags/oneplus-16r"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 8,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "rumour",
+   "weighted_score": 80.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "Hidden genetic anomaly behind late-onset cerebellar ataxia (NEJM)",
+   "summary": "undated",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.newswise.com/articles/nejm-study-researchers-discover-hidden-genetic-anomaly-behind-common-late-onset-cerebellar-ataxia"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 4,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 4
+   },
+   "validated": false,
+   "note": "medical",
+   "weighted_score": 79.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "BeyondTrust CVE added to CISA KEV",
+   "summary": "Oct 16 advisory",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 4,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 8,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "outside 48h",
+   "weighted_score": 79.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Potential long COVID treatment (Sun lab, Science)",
+   "summary": "undated",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.immunology.virginia.edu/sun-lab-identifies-potential-long-covid-treatment/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 4,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 3
+   },
+   "validated": false,
+   "note": "medical advice risk",
+   "weighted_score": 78.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Shopify shares fall 7.6% after AI-linked margin drop",
+   "summary": "Nov 7 digest",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 3
+   },
+   "validated": false,
+   "note": "financial; dropped",
+   "weighted_score": 78.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Reflection AI releases Beam open-weight model",
+   "summary": "Oct 16 per forecast page",
+   "category": "ai_tech",
+   "date": "2026-10-16",
+   "sources": [
+    "https://futuresearch.ai/app/p/a/reflection-flagship-model-date"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "outside 48h",
+   "weighted_score": 77.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "OpenAI to end custom-model contract with Cursor on Nov 12",
+   "summary": "secondary listing",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://toolnavs.com/articles/tag/openai?page=19"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "single low-credibility source",
+   "weighted_score": 77.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Vivo X500 Pro Max India debut expected",
+   "summary": "rumoured Dimensity 9600 Pro",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.timesbull.com/4-biggest-smartphone-launches-in-india-this-november-2026-2/"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 2,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 8,
+    "low_risk": 7
+   },
+   "validated": false,
+   "note": "rumour",
+   "weighted_score": 77.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "Firecracker VM escape write-up (Linux kernel CVE)",
+   "summary": "Nov 7 digest",
+   "category": "ai_tech",
+   "date": "2026-11-07",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-07-2026-ai-governance"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 3,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "single source, too technical",
+   "weighted_score": 76.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "Non-coding genes cause neonatal diabetes in 19 children",
+   "summary": "Brightsurf",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.brightsurf.com/archive/2026/114"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 4
+   },
+   "validated": false,
+   "note": "medical; science not allowed today",
+   "weighted_score": 76.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Meta acquires Moltbook",
+   "summary": "TechCrunch banner, undated",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://techcrunch.com/?p=1586336"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 75.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "Claude Duet research preview",
+   "summary": "tracker-only claim",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/11"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 2,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "unverifiable",
+   "weighted_score": 75.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Microsoft-Anthropic-Nvidia cloud deal",
+   "summary": "undated",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://digital-release.newsnationnow.com/?p=3631724"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 74.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "Kimi K3.1 Pro release",
+   "summary": "tracker",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/11"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "outside 48h",
+   "weighted_score": 73.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "Qwen3.6 27B release",
+   "summary": "tracker",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/11"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "validated": false,
+   "note": "outside 48h",
+   "weighted_score": 73.9,
+   "style": "newsflash"
+  },
+  {
+   "title": "Anthropic IPO rumours (November 2026)",
+   "summary": "valuation claims conflict",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://digg.com/ai/o61pjxs3",
+    "https://blog.mean.ceo/anthropic-claude-news-november-2026/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 6,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 3
+   },
+   "validated": false,
+   "note": "rumour + financial; dropped",
+   "weighted_score": 73.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "India National Science AI Research Institute",
+   "summary": "June 2026 item",
+   "category": "ai_tech",
+   "date": "2026-06",
+   "sources": [
+    "https://buttondown.com/Mandar/archive/ai-brief-indias-national-science-ai-research/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 4,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 4,
+    "india_relevance": 9,
+    "low_risk": 8
+   },
+   "validated": false,
+   "note": "old, single source",
+   "weighted_score": 72.0,
+   "style": "newsflash"
+  },
+  {
+   "title": "Tata Motors restructures to focus on EVs",
+   "summary": "podcast listing",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://www.mypodcastdata.com/podcast/show/electric-vehicles-industry-news-inception-point-ai-21ky/episodes"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 3,
+    "novelty": 4,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 9,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 71.2,
+   "style": "newsflash"
+  },
+  {
+   "title": "Ford F-150 Lightning price cut",
+   "summary": "Electrek feed, undated",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://linkedin.com/company/electrek"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "undated, pricing",
+   "weighted_score": 70.7,
+   "style": "newsflash"
+  },
+  {
+   "title": "Microsoft pulls Claude Code from engineers (newsletter)",
+   "summary": "digest",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://buttondown.com/ai-digest-en/archive/microsoft-pulls-claude-code-from-its-own/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "single newsletter",
+   "weighted_score": 69.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Gitea flaw turned into automated intrusions",
+   "summary": "undated listing",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://securitybrief.co.nz/tag/patching?page=4"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 4,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "undated",
+   "weighted_score": 66.4,
+   "style": "newsflash"
+  },
+  {
+   "title": "Quantum Computing Inc Q3 results call Nov 9",
+   "summary": "financial event",
+   "category": "ai_tech",
+   "date": "2026-11-09",
+   "sources": [
+    "https://quantumcomputinginc.com/news?sf_paged=2"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 2,
+    "explainable_in_45s": 4,
+    "visual_potential": 3,
+    "wow_factor": 2,
+    "factual_certainty": 7,
+    "search_interest": 2,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "validated": false,
+   "note": "financial",
+   "weighted_score": 66.3,
+   "style": "newsflash"
+  },
+  {
+   "title": "Tesla Q1 2026 global EV sales down 3%",
+   "summary": "podcast listing",
+   "category": "ai_tech",
+   "date": "2026-04",
+   "sources": [
+    "https://www.mypodcastdata.com/podcast/show/electric-vehicles-industry-news-inception-point-ai-21ky/episodes"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 3,
+    "novelty": 3,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 6
+   },
+   "validated": false,
+   "note": "old",
+   "weighted_score": 63.2,
+   "style": "newsflash"
+  }
+ ]
+}

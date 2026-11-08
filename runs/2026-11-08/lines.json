@@ -1,0 +1,47 @@
+{
+  "duration": 45.91,
+  "lines": [
+    {
+      "text": "Meta's AI agent, Muse, can now talk with you out loud, in real time, with an animated face.",
+      "start": 0.35,
+      "dur": 5.476,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "On November 5th, Meta started rolling out live voice chats and expressive avatars in the Muse app, in the US, on mobile, web and Mac.",
+      "start": 6.276,
+      "dur": 7.058,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Tap the phone icon, then pick voice only, an avatar beside the chat, or a full-screen avatar.",
+      "start": 13.784,
+      "dur": 5.013,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "You can cut in mid-answer, and Muse can keep working on tasks in the background while you talk.",
+      "start": 19.246,
+      "dur": 3.996,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "The faces come from a Meta Superintelligence Labs model, Muse Realtime Avatar. It reads the same speech tokens as the voice, so lips and expressions stay in sync.",
+      "start": 23.692,
+      "dur": 8.43,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Meta says its own raters preferred these avatars over rivals like Runway and HeyGen. Remember, that's Meta's own test.",
+      "start": 32.573,
+      "dur": 5.861,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Voice is also coming to Meta's AI glasses and Muse Charm, but there's no date yet. Would you talk to an AI face?",
+      "start": 38.884,
+      "dur": 5.18,
+      "wav": "line_6.wav"
+    }
+  ]
+}

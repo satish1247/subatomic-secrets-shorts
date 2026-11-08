@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
+    "title": "Figure Retired Its Old Robots… in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
+    "title": "Apple Pay Is Finally in India… But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -322,5 +322,14 @@
     "style": "cosmic",
     "youtube_url": "https://www.youtube.com/watch?v=O8AyR3PkJOA",
     "video_branch": "claude/video-2026-11-07"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Meta's AI Agent Muse Can Now Talk Back, With a Face",
+    "topic": "Meta's Muse AI agent gets real-time voice chats and expressive avatars (US rollout Nov 5, mobile/web/Mac): phone icon -> voice only / avatar beside chat / full-screen avatar; interrupt mid-answer, keeps working on tasks in background; Muse Realtime Avatar (Meta Superintelligence Labs) reads same speech tokens as voice; Meta's raters preferred it over Runway/HeyGen (Meta claim); coming to AI Glasses and Muse Charm, no date",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=43ogD5FBztU",
+    "video_branch": "claude/video-2026-11-08"
   }
 ]
