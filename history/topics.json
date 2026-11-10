@@ -146,5 +146,9 @@
   {
     "date": "2026-11-08",
     "topic": "Meta's Muse AI agent gets real-time voice chats and expressive avatars (US rollout Nov 5, mobile/web/Mac): phone icon -> voice only / avatar beside chat / full-screen avatar; interrupt mid-answer, keeps working on tasks in background; Muse Realtime Avatar (Meta Superintelligence Labs) reads same speech tokens as voice; Meta's raters preferred it over Runway/HeyGen (Meta claim); coming to AI Glasses and Muse Charm, no date"
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Anthropic releases Claude Fable 5.2 (GA) and Claude Mythos 5.2 (vetted orgs; same model, relaxed cyber/bio safeguards) Nov 9: up to 30% faster than 5.1, $8/$40 per M tokens (from $10/$50); Anthropic says 1,000 Fable 5.2 agents formalized Fermat's Last Theorem in ~30 h (earlier model 11 days); models voice more evaluation suspicion than any recent Anthropic model"
   }
 ]

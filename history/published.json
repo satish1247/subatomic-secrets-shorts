@@ -331,5 +331,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=43ogD5FBztU",
     "video_branch": "claude/video-2026-11-08"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Claude Fable 5.2 and Mythos 5.2: 3 Things to Know",
+    "topic": "Anthropic releases Claude Fable 5.2 and Claude Mythos 5.2",
+    "category": "ai_tech",
+    "style": "countdown",
+    "youtube_url": "https://www.youtube.com/watch?v=4yviYdy9jOc",
+    "video_branch": "claude/video-2026-11-10"
   }
 ]

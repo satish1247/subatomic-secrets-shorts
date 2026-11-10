@@ -1,0 +1,53 @@
+{
+  "duration": 49.54,
+  "lines": [
+    {
+      "text": "Anthropic just dropped two new Claude models at once.",
+      "start": 0.35,
+      "dur": 3.146,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Claude Fable 5.2 is for everyone. Its twin, Mythos 5.2, is only for vetted organizations.",
+      "start": 3.946,
+      "dur": 5.905,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Here are three things to know.",
+      "start": 10.301,
+      "dur": 1.094,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Number 3. Faster and cheaper. Up to 30% faster than version 5.1, and input now costs $8 per million tokens, down from $10.",
+      "start": 11.845,
+      "dur": 7.924,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Number 2. Same brain, different brakes. Mythos is the same model, with looser cybersecurity and biology safeguards.",
+      "start": 20.219,
+      "dur": 7.355,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Number 1. Anthropic says 1,000 Fable 5.2 agents turned the proof of Fermat's Last Theorem into computer-checked math in about 30 hours. An earlier model took 11 days.",
+      "start": 28.024,
+      "dur": 10.823,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "One twist: Anthropic says these models suspect they're being tested more often than any of its recent models.",
+      "start": 39.297,
+      "dur": 5.849,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Would you trust an AI that knows it's being tested?",
+      "start": 45.596,
+      "dur": 2.089,
+      "wav": "line_7.wav"
+    }
+  ]
+}
