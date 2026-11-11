@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots… in Molten Steel",
+    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India… But There's a Catch",
+    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -340,5 +340,14 @@
     "style": "countdown",
     "youtube_url": "https://www.youtube.com/watch?v=4yviYdy9jOc",
     "video_branch": "claude/video-2026-11-10"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Spotify's AI DJ Gets 9 New Voices and Can Finally Talk Less",
+    "topic": "Spotify AI DJ update (Nov 10): 9 new voices (7 English: British/American/Irish/Australian/Indian accents, 2 Spanish), each with a personality; original X stays; new setting cuts chatter so DJ only speaks at session start or when asked for different music; Premium, markets where DJ is available",
+    "category": "ai_tech",
+    "style": "story",
+    "youtube_url": "https://www.youtube.com/watch?v=LYRjxtcBem4",
+    "video_branch": "claude/video-2026-11-11"
   }
 ]

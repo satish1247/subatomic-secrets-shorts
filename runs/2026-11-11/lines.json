@@ -1,0 +1,89 @@
+{
+  "duration": 46.67,
+  "lines": [
+    {
+      "who": "arjun",
+      "text": "Nimi! My AI DJ talks between every single song!",
+      "start": 0.25,
+      "dur": 3.229,
+      "wav": "line_0.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Good news. On November 10, Spotify gave its AI DJ a setting to cut the chatter.",
+      "start": 3.829,
+      "dur": 4.468,
+      "wav": "line_1.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Turn it on, and the DJ only speaks when your session starts, or when you ask for different music.",
+      "start": 8.647,
+      "dur": 4.71,
+      "wav": "line_2.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Finally! But I'm bored of the same voice.",
+      "start": 13.707,
+      "dur": 1.917,
+      "wav": "line_3.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Then pick a new one. There are nine new voices: seven in English and two in Spanish.",
+      "start": 15.975,
+      "dur": 4.259,
+      "wav": "line_4.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "The English voices have British, American, Irish, Australian and Indian accents, each with its own personality.",
+      "start": 20.584,
+      "dur": 6.363,
+      "wav": "line_5.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "An Indian accent? Now that's my DJ!",
+      "start": 27.297,
+      "dur": 2.118,
+      "wav": "line_6.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "And the original DJ voice, X, is still there if you miss it.",
+      "start": 29.764,
+      "dur": 3.672,
+      "wav": "line_7.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "It's rolling out to Premium listeners in markets where DJ is available.",
+      "start": 33.786,
+      "dur": 3.718,
+      "wav": "line_8.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "So my DJ finally knows when to stay quiet?",
+      "start": 37.854,
+      "dur": 2.704,
+      "wav": "line_9.wav"
+    },
+    {
+      "who": "nimi",
+      "text": "Exactly. More music, less talking.",
+      "start": 40.908,
+      "dur": 2.008,
+      "wav": "line_10.wav"
+    },
+    {
+      "who": "arjun",
+      "text": "Perfect. Now I can do the talking!",
+      "start": 43.266,
+      "dur": 1.651,
+      "wav": "line_11.wav"
+    }
+  ]
+}
