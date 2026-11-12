@@ -1,0 +1,25 @@
+{
+  "title": "Google's AI Just Math-Checked Signal's Encryption Code",
+  "description": "Google DeepMind's AlphaProof Code used AI agents to write machine-checked math proofs about the core encryption code of Signal (announced Nov 10, 2026), down to machine code, in about four weeks.\nAs a test, two old, already-fixed Signal bugs were put back and the proofs showed those versions insecure. No new flaws were found, and it does not cover the whole app.\n\nSources:\n- Google DeepMind: https://deepmind.google/blog/introducing-alphaproof-code/\n- Project page: https://google-deepmind.github.io/code-verification/\n- Axios: https://www.axios.com/2026/11/10/google-code-verification-signal\n- The Register: https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625\n- The Decoder: https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/\n\n#Shorts #SubatomicSecrets #DeepMind #Signal #Cybersecurity\n\nThis video is animated and voiced with AI tools.",
+  "tags": [
+    "Google DeepMind",
+    "AlphaProof Code",
+    "Signal",
+    "encryption",
+    "formal verification",
+    "Lean",
+    "AI agents",
+    "cybersecurity",
+    "AI math proof",
+    "machine code",
+    "AI news",
+    "tech news",
+    "Subatomic Secrets",
+    "Shorts"
+  ],
+  "category": "Science & Technology",
+  "category_id": "28",
+  "made_for_kids": false,
+  "privacy": "public",
+  "default_language": "en"
+}

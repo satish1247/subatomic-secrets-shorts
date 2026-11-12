@@ -349,5 +349,14 @@
     "style": "story",
     "youtube_url": "https://www.youtube.com/watch?v=LYRjxtcBem4",
     "video_branch": "claude/video-2026-11-11"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Google's AI Just Math-Checked Signal's Encryption Code",
+    "topic": "Google DeepMind's AlphaProof Code math-checks Signal's encryption core (announced Nov 10)",
+    "category": "ai_tech",
+    "style": "newsflash",
+    "youtube_url": "https://www.youtube.com/watch?v=zWJyA4K8uk0",
+    "video_branch": "claude/video-2026-11-12"
   }
 ]

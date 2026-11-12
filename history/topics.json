@@ -154,5 +154,9 @@
   {
     "date": "2026-11-11",
     "topic": "Spotify AI DJ update (Nov 10): 9 new voices (7 English: British/American/Irish/Australian/Indian accents, 2 Spanish), each with a personality; original X stays; new setting cuts chatter so DJ only speaks at session start or when asked for different music; Premium, markets where DJ is available"
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "Google DeepMind AlphaProof Code (Nov 10): AI agents wrote millions of lines of Lean proofs verifying key security properties of Signal's libsignal crypto core down to machine code, ~4 weeks vs years (DeepMind); 2 old fixed bugs re-inserted were proven insecure; no new flaws; not the whole app"
   }
 ]

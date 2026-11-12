@@ -1,0 +1,2912 @@
+{
+ "run_date": "2026-11-12",
+ "queries_run": 30,
+ "topic_balance": {
+  "last10_science": 3,
+  "last10_ai_tech": 7,
+  "rule": "free pick"
+ },
+ "avoid_styles": [
+  "story",
+  "countdown"
+ ],
+ "selected": "Google DeepMind's AlphaProof Code math-checks Signal's encryption core",
+ "selected_style": "newsflash",
+ "runner_up": "Hydrogen chloride over Mars' Alba Mons hints at buried magma",
+ "note": "WebFetch to most news hosts is blocked in this sandbox; validation is from web-search result snippets across multiple independent outlets.",
+ "candidates": [
+  {
+   "title": "Google DeepMind's AlphaProof Code math-checks Signal's encryption core",
+   "summary": "AI agents wrote millions of lines of Lean proofs verifying key security properties of libsignal down to machine code in ~4 weeks (vs years); re-inserted 2 old fixed bugs were proven insecure; no new flaws; not whole app",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "https://google-deepmind.github.io/code-verification/",
+    "https://www.axios.com/2026/11/10/google-code-verification-signal",
+    "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+    "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+    "https://www.scworld.com/brief/google-deepmind-uses-ai-to-verify-signal-protocol-security",
+    "https://cyberinsider.com/google-deepmind-signal-encryption-machine-code-verification/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 10,
+    "novelty": 10,
+    "audience_interest": 9,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 9,
+    "factual_certainty": 9,
+    "search_interest": 8,
+    "evergreen_value": 7,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted": 148.2,
+   "style": "newsflash",
+   "validated": true,
+   "note": "SELECTED"
+  },
+  {
+   "title": "Hydrogen chloride over Mars' Alba Mons hints at buried magma",
+   "summary": "ExoMars TGO HCl detections over fractures; Science Advances Nov 4; not proof of active volcanism",
+   "category": "science",
+   "date": "2026-11-04",
+   "sources": [
+    "https://www.eurekalert.org/news-releases/1150079",
+    "https://sci.news/space/mars-hydrogen-chloride-15178.html",
+    "https://www.khaleejtimes.com/space/is-mars-still-volcanically-active-scientists-discover-new-clues-beneath-its-surface"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 9,
+    "novelty": 9,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 6,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 132.7,
+   "style": "cosmic",
+   "validated": true,
+   "note": "4th (best science)"
+  },
+  {
+   "title": "Octopuses have three hearts and blue copper-based blood (evergreen)",
+   "summary": "Hemocyanin; 2 gill hearts + 1 systemic",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.livescience.com/how-many-hearts-does-an-octopus-have",
+    "https://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart",
+    "https://www.scientificamerican.com/blog/octopus-chronicles/octopuses-survive-sub-zero-temps-thanks-to-specialized-blue-blood/"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 8,
+    "novelty": 6,
+    "audience_interest": 8,
+    "explainable_in_45s": 9,
+    "visual_potential": 9,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 10,
+    "india_relevance": 4,
+    "low_risk": 10
+   },
+   "weighted": 127.7,
+   "style": "lab",
+   "validated": true,
+   "note": "evergreen"
+  },
+  {
+   "title": "Anthropic launches Claude Meetings, Whiteboards and Sheets",
+   "summary": "Workplace tools: Meetings beta (Team/Enterprise, Google Meet), Whiteboards & Sheets betas, Claude Data GA",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "https://dataconomy.com/2026/11/11/anthropic-launches-claude-meetings-for-real-time-workplace/",
+    "https://www.androidheadlines.com/2026/11/anthropic-claude-sheets-meetings-workplace-tools.html"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted": 124.9,
+   "style": "newsflash",
+   "validated": true,
+   "note": "RUNNER-UP (novelty lower: Anthropic covered Nov 10; Meetings availability reports conflict)"
+  },
+  {
+   "title": "Google TPU 8tx and TPU 8i Max",
+   "summary": "8tx adds confidential-inference security, can be deployed on-prem for select customers; 8i Max fuses two 8i chips for long-context inference",
+   "category": "ai_tech",
+   "date": "2026-11-09",
+   "sources": [
+    "https://datacenterknowledge.com/data-center-chips/google-adds-tpu-8tx-8i-max-for-enterprise-ai",
+    "https://datacenterdynamics.com/en/news/google-expands-eighth-generation-tpu-portfolio-with-two-new-tpu-systems",
+    "https://www.constellationr.com/insights/news/google-launches-tpu-8tx-tpu-8i-max"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 121.8,
+   "style": "newsflash",
+   "validated": true,
+   "note": "3rd"
+  },
+  {
+   "title": "Webb MoM-z14: galaxy ~280 Myr after Big Bang",
+   "summary": "Jan",
+   "category": "science",
+   "date": "2026-01-28",
+   "sources": [
+    "https://www.stsci.edu/contents/news-releases/2026/news-2026-107",
+    "https://www.livescience.com/space/astronomy/previously-unimaginable-james-webb-telescope-breaks-own-record-again-discovering-farthest-known-galaxy-in-the-universe"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 10,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 9,
+    "search_interest": 7,
+    "evergreen_value": 8,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted": 121.4,
+   "style": "cosmic",
+   "validated": true,
+   "note": "evergreen-ish, old"
+  },
+  {
+   "title": "Leopardus tilcayo: first new living cat species in a century",
+   "summary": "Current Biology",
+   "category": "science",
+   "date": "2026-10",
+   "sources": [
+    "https://www.karmactive.com/leopardus-tilcayo-new-cat-species-bolivia-yungas-andes-current-biology-2026/",
+    "https://www.goodgoodgood.co/articles/new-species-tilcayo-cat-bolivia-cute"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 9,
+    "audience_interest": 9,
+    "explainable_in_45s": 8,
+    "visual_potential": 8,
+    "wow_factor": 8,
+    "factual_certainty": 6,
+    "search_interest": 7,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted": 120.9,
+   "style": "lab",
+   "validated": true,
+   "note": "outside 48h; sources weaker"
+  },
+  {
+   "title": "LHCb finds evidence of one-in-10-billion B0->mu mu decay",
+   "summary": "~3 sigma evidence (not discovery) of rarest B decay",
+   "category": "science",
+   "date": "2026-11-03",
+   "sources": [
+    "https://home.cern/?p=29244",
+    "https://xenospectrum.com/en/lhcb-evidence-rare-b0-decay-standard-model/",
+    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 10,
+    "novelty": 9,
+    "audience_interest": 6,
+    "explainable_in_45s": 5,
+    "visual_potential": 5,
+    "wow_factor": 8,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 118.8,
+   "style": "cosmic",
+   "validated": true,
+   "note": "significance figure conflicts 3.0 vs 3.2"
+  },
+  {
+   "title": "CrowdStrike AI Kill Switch for rogue agents",
+   "summary": "Falcon Guardian feature at Fal.Con Europe, gateway enforcement first",
+   "category": "ai_tech",
+   "date": "2026-11-03",
+   "sources": [
+    "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+    "https://www.csoonline.com/article/4244509/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-agents.html",
+    "https://techradar.com/pro/security/crowdstrike-launches-ai-kill-switch-it-claims-can-stop-rogue-agents-and-more"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 8,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted": 116.8,
+   "style": "mythfact",
+   "validated": true,
+   "note": "outside 48h"
+  },
+  {
+   "title": "November 2026 Pixel Drop: Calculator math solver, widget builder",
+   "summary": "Digest claim",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://www.androidauthority.com/google-pixel-drop-november-2026-all-new-features-3733178/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 7,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted": 112.9,
+   "style": "countdown",
+   "validated": false,
+   "note": "second source not found"
+  },
+  {
+   "title": "Gemini 4 Carbon opens to paid API users",
+   "summary": "Paid Gemini API access reported Nov 10, intro pricing",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 8,
+    "evergreen_value": 4,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted": 112.5,
+   "style": "newsflash",
+   "validated": true,
+   "note": "availability dates conflict"
+  },
+  {
+   "title": "SLAC confirms altermagnetism in MnTe (chiral altermagnon)",
+   "summary": "Third type of magnetism observed directly; Science Oct 29",
+   "category": "science",
+   "date": "2026-10-29",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "https://news.stanford.edu/stories/2026/10/altermagnetism-magnetic-phase-research",
+    "https://www.newswise.com/doescience/slac-researchers-find-proof-of-altermagnetism-a-new-magnetic-phase"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 9,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 4,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 8,
+    "search_interest": 5,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 111.8,
+   "style": "lab",
+   "validated": true,
+   "note": ""
+  },
+  {
+   "title": "Sunlight is ~8 minutes old when it reaches you (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/sun/facts/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "A day on Venus is longer than its year (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/venus/venus-facts/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Neutron star: a teaspoon would weigh billions of tons (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/universe/neutron-stars/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Bananas are slightly radioactive (potassium-40) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.acs.org/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Your body has more bacterial cells than once thought? (~1:1 ratio) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/articles/nature.2016.19136"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Tardigrades survive the vacuum of space (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Lightning is ~5x hotter than the Sun's surface (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.weather.gov/safety/lightning-science-overview"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Water can boil and freeze at once (triple point) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nist.gov/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Saturn's density is lower than water (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/saturn/facts/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Atoms are mostly empty space (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.energy.gov/science/doe-explainsatoms"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Glass is not a slow liquid (myth) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.scientificamerican.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Humans glow faintly (bioluminescence)  (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://journals.plos.org/plosone/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Honey never spoils (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.smithsonianmag.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Sharks are older than trees (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nhm.ac.uk/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Mantis shrimp punch creates cavitation bubbles (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Earth's core is as hot as the Sun's surface (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.esrf.fr/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "DNA in one cell is ~2 m long (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.genome.gov/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Space is silent (no medium for sound) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Olympus Mons is ~2.5x Everest's height (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/mars/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Hot water can freeze faster (Mpemba) - contested (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nature.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Your stomach lining renews every few days (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nih.gov/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Wombat poop is cube-shaped (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://pubs.rsc.org/en/content/articlelanding/2021/sm/d0sm01230k"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Light from the Andromeda galaxy is 2.5 million years old (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://science.nasa.gov/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Diamonds rain on Neptune and Uranus (lab evidence) (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www6.slac.stanford.edu/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Pistol shrimp snap is as loud as a gunshot (evergreen)",
+   "summary": "Evergreen science fact candidate; second source not checked this run",
+   "category": "science",
+   "date": "evergreen",
+   "sources": [
+    "https://www.nationalgeographic.com/"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 9,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 108.3,
+   "style": "lab",
+   "validated": false,
+   "note": "needs 2nd source; science day not required"
+  },
+  {
+   "title": "Soket Labs EKA-1 and ZenteiQ Dhir 2B/5B under IndiaAI Mission",
+   "summary": "Indigenous Indian foundation models",
+   "category": "ai_tech",
+   "date": "2026-11-03",
+   "sources": [
+    "https://theprint.in/economy/ai-push-soket-labs-zenteiq-launch-indigenous-foundation-models/3089566/",
+    "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 10,
+    "low_risk": 8
+   },
+   "weighted": 107.5,
+   "style": "newsflash",
+   "validated": true,
+   "note": "outside 48h, few specs"
+  },
+  {
+   "title": "Gentoo penguins are actually four species",
+   "summary": "Sep 21",
+   "category": "science",
+   "date": "2026-09-21",
+   "sources": [
+    "https://www.sciencedaily.com/news/plants_animals/new_species/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 7,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 7,
+    "india_relevance": 3,
+    "low_risk": 10
+   },
+   "weighted": 106.7,
+   "style": "lab",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Webb hints at first-star signal in odd galaxy",
+   "summary": "",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://science.nasa.gov/universe/galaxies/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars-2/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 106.1,
+   "style": "cosmic",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "VS Code 1.144: Copilot cloud sessions, Agent Host, computer use",
+   "summary": "Oct 28",
+   "category": "ai_tech",
+   "date": "2026-10-28",
+   "sources": [
+    "https://visualstudiomagazine.com/articles/2026/10/28/vs-code-1-144-unleashes-copilot-fusion-ai-image-generation-and-computer-use.aspx?admgarea=ALM",
+    "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 8,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted": 104.5,
+   "style": "newsflash",
+   "validated": true,
+   "note": "too old"
+  },
+  {
+   "title": "Webb most distant jellyfish galaxy",
+   "summary": "",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.sci.news/astronomy/webb-most-distant-jellyfish-galaxy-14568.html"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 7,
+    "novelty": 6,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 7,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 103.8,
+   "style": "cosmic",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Webb 'Astronomy's Platypus' galaxies",
+   "summary": "",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.stsci.edu/contents/news-releases/2026/news-2026-101?user=lotz"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 9,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 103.6,
+   "style": "cosmic",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Motorola Signature 27: first non-Pixel phone officially supported by GrapheneOS",
+   "summary": "Global launch Nov 5",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://us.smartprix.com/bytes/motorolas-signature-27-lands-in-novemebr-its-the-first-non-pixel-phone-grapheneos-officially-supports/",
+    "https://tech-insider.org/november-2026-smartphone-launches-motorola-signature-27-iqoo-16-2026/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "weighted": 101.9,
+   "style": "newsflash",
+   "validated": true,
+   "note": "outside 48h, aggregator sources"
+  },
+  {
+   "title": "New Guinea snake named after Slash",
+   "summary": "",
+   "category": "science",
+   "date": "2026-09",
+   "sources": [
+    "https://www.sciencedaily.com/news/plants_animals/new_species/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 8,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 101.9,
+   "style": "lab",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Alzheimer's mutations disrupt nerve-muscle links outside the brain",
+   "summary": "UCF lab-grown systems",
+   "category": "science",
+   "date": "2026-11",
+   "sources": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 6,
+    "novelty": 8,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 4,
+    "low_risk": 5
+   },
+   "weighted": 100.9,
+   "style": "lab",
+   "validated": false,
+   "note": "medical; 1 source"
+  },
+  {
+   "title": "OpenAI DevDay 2026: agents get their own computers",
+   "summary": "Sep 29",
+   "category": "ai_tech",
+   "date": "2026-09-29",
+   "sources": [
+    "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced?amp=1"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 8,
+    "novelty": 4,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted": 99.6,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "GPT-Image 2.6 Sunburst and Flare",
+   "summary": "Nov 4",
+   "category": "ai_tech",
+   "date": "2026-11-04",
+   "sources": [
+    "https://thursdai.news/releases/2026-11"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted": 98.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": "1 tracker"
+  },
+  {
+   "title": "Image-to-3D model tops Hugging Face trending",
+   "summary": "Nov 9",
+   "category": "ai_tech",
+   "date": "2026-11-09",
+   "sources": [
+    "https://tproger.ru/articles/otkrytye-nejroseti-noyabrya-2026-zapuskayutsya-na-videokarte-ot-8-gb"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 8,
+    "wow_factor": 6,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 97.9,
+   "style": "newsflash",
+   "validated": false,
+   "note": "unnamed"
+  },
+  {
+   "title": "CATL 3rd-gen Shenxing superfast charging battery",
+   "summary": "Apr 2026",
+   "category": "ai_tech",
+   "date": "2026-04-21",
+   "sources": [
+    "https://evkx.net/en/technology/battery/latest-in-battery/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 5,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted": 97.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "240-million-year-old Tanzanian animal rethinks dinosaur timeline",
+   "summary": "",
+   "category": "science",
+   "date": "2026-09",
+   "sources": [
+    "https://www.sciencedaily.com/news/plants_animals/new_species/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 7,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 97.6,
+   "style": "lab",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Webb: dwarf galaxy Sextans A makes dust",
+   "summary": "",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.stsci.edu/contents/news-releases/2026/news-2026-102"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 9,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 4,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 97.6,
+   "style": "cosmic",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Blue Origin pushes New Glenn launch into 2027",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.silicon.co.uk/articles/2026/11"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 96.7,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Tesla confirms Optimus production, sales late 2027",
+   "summary": "Oct 18",
+   "category": "ai_tech",
+   "date": "2026-10-18",
+   "sources": [
+    "https://humanoid.guide/category/news"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 8,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 8,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "weighted": 95.3,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Arrive AI invests in Ottonomy, up to 50 delivery robots",
+   "summary": "Press release",
+   "category": "ai_tech",
+   "date": "2026-11-11",
+   "sources": [
+    "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/arrive-ai-announces-strategic-investment-in-ottonomy-to-accelerat-1249769"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 95.0,
+   "style": "newsflash",
+   "validated": false,
+   "note": "press release only"
+  },
+  {
+   "title": "OpenAI models wind down in Cursor Nov 12",
+   "summary": "After SpaceX acquisition of Cursor",
+   "category": "ai_tech",
+   "date": "2026-11-12",
+   "sources": [
+    "https://vpsranking.com/news/ai/ai-2026-08-28-openai-cursor-contract-winddown/"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted": 94.1,
+   "style": "newsflash",
+   "validated": false,
+   "note": "1 weak source"
+  },
+  {
+   "title": "Xpeng Iron humanoid batteries in small-batch production",
+   "summary": "late Oct",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://humanoid.guide/category/news"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 93.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Humanoid shipments 19,100 units in 1H 2026 (+272%)",
+   "summary": "SAG",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://humanoid.guide/category/news"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 93.6,
+   "style": "countdown",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "OpenAI ChatGPT 'App Store for AI' push",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://www.thestandard.com.hk/world/article/344225/ChatGPT-maker-wants-to-be-the-App-Store-for-AI-as-safety-concerns-grow"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 7
+   },
+   "weighted": 93.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Oppo Reno 17 / 17 Pro China launch",
+   "summary": "Nov 9",
+   "category": "ai_tech",
+   "date": "2026-11-09",
+   "sources": [
+    "https://www.technerdiness.com/android/all-upcoming-phones-launching-this-week-november-9-15/"
+   ],
+   "scores": {
+    "recency": 8,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 6,
+    "low_risk": 9
+   },
+   "weighted": 93.3,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "US charges 3 over AI impersonation scam targeting law firms ($129M)",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.techmeme.com/river?m=1"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 7,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 3
+   },
+   "weighted": 93.3,
+   "style": "story",
+   "validated": false,
+   "note": "crime"
+  },
+  {
+   "title": "VS Code 1.143 makes Copilot default, model bake-off",
+   "summary": "Oct 21",
+   "category": "ai_tech",
+   "date": "2026-10-21",
+   "sources": [
+    "https://visualstudiomagazine.com/articles/2026/10/21/vs-code-1-143-makes-copilot-default-adds-ai-model-bake-off-and-local-ai-without-credits.aspx"
+   ],
+   "scores": {
+    "recency": 1,
+    "source_credibility": 8,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 5,
+    "low_risk": 9
+   },
+   "weighted": 93.0,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Anthropic IPO roadshow",
+   "summary": "Finance",
+   "category": "ai_tech",
+   "date": "2026-11-11",
+   "sources": [
+    "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 8,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 3
+   },
+   "weighted": 92.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": "financial; excluded"
+  },
+  {
+   "title": "Google to invest $17bn in Wyoming data centre",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.silicon.co.uk/articles/2026/11"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 8
+   },
+   "weighted": 92.2,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "WordPress Core unauthenticated RCE during upgrades",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.esecurityplanet.com/weekly-roundup/active-exploits-ai-attacks-and-massive-breaches-define-the-week/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 6
+   },
+   "weighted": 92.2,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "NASA Crew-13 set for liftoff",
+   "summary": "date unclear",
+   "category": "science",
+   "date": "2026",
+   "sources": [
+    "https://www.foxweather.com/earth-space/nasas-crew-13-set-liftoff-long-duration-space-mission"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 92.2,
+   "style": "cosmic",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Google Home AI Camera Search & Help Me Create",
+   "summary": "Oct 28",
+   "category": "ai_tech",
+   "date": "2026-10-28",
+   "sources": [
+    "https://getcoai.com/news/google-home-introduces-new-gemini-ai-features-this-week"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 92.0,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Claude for Google Workspace add-on beta",
+   "summary": "Oct 6",
+   "category": "ai_tech",
+   "date": "2026-10-06",
+   "sources": [
+    "https://www.reworked.co/digital-workplace/anthropic-opens-claude-for-google-workspace-in-beta/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 7,
+    "novelty": 4,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 7,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 91.9,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "New frog from western Amazon found by DNA and call",
+   "summary": "",
+   "category": "science",
+   "date": "2026-09",
+   "sources": [
+    "https://www.sciencedaily.com/news/plants_animals/new_species/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 6,
+    "india_relevance": 2,
+    "low_risk": 10
+   },
+   "weighted": 90.4,
+   "style": "lab",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "MiniMax-H3 33.1B open video model add-ons trend",
+   "summary": "HF trends Nov 9",
+   "category": "ai_tech",
+   "date": "2026-11-09",
+   "sources": [
+    "https://tproger.ru/articles/otkrytye-nejroseti-noyabrya-2026-zapuskayutsya-na-videokarte-ot-8-gb"
+   ],
+   "scores": {
+    "recency": 7,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 90.2,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "NASA CRS-35 launched Oct 13",
+   "summary": "",
+   "category": "science",
+   "date": "2026-10-13",
+   "sources": [
+    "https://nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 9,
+    "novelty": 3,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 3,
+    "factual_certainty": 8,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted": 90.1,
+   "style": "cosmic",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Osteoporosis drugs linked to lower dementia risk",
+   "summary": "Observational 120k",
+   "category": "science",
+   "date": "2026-11",
+   "sources": [
+    "https://www.sciencedaily.com/news/"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 7,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 3
+   },
+   "weighted": 89.2,
+   "style": "lab",
+   "validated": false,
+   "note": "medical advice risk"
+  },
+  {
+   "title": "US-China AI incident-alert channel",
+   "summary": "Policy",
+   "category": "ai_tech",
+   "date": "2026-11-11",
+   "sources": [
+    "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 8,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 3,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 2
+   },
+   "weighted": 88.1,
+   "style": "newsflash",
+   "validated": false,
+   "note": "politics; excluded"
+  },
+  {
+   "title": "Nvidia RTX Spark PC chip hit Intel/AMD shares",
+   "summary": "June",
+   "category": "ai_tech",
+   "date": "2026-06-01",
+   "sources": [
+    "https://invezz.com/en-ae/news/2026/06/01/intel-amd-and-qualcomm-slide-as-nvidia-targets-ai-pc-market-with-rtx-spark-chip/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 3,
+    "audience_interest": 7,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 7,
+    "search_interest": 7,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted": 87.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old, covered"
+  },
+  {
+   "title": "OpenAI acquires AI travel-agent startup Odessia",
+   "summary": "Digest claim",
+   "category": "ai_tech",
+   "date": "2026-11-11",
+   "sources": [
+    "https://bitdigest.substack.com/p/wednesday-november-11-2026"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 3,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 7
+   },
+   "weighted": 87.1,
+   "style": "newsflash",
+   "validated": false,
+   "note": "1 source"
+  },
+  {
+   "title": "Hyundai cheaper EV cells, 30% cost cut from 2027",
+   "summary": "Aug",
+   "category": "ai_tech",
+   "date": "2026-08",
+   "sources": [
+    "https://www.cars24.com.au/car-news/hyundai-ev-battery-costs-lifespan-2027/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 86.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "IBM + Microsoft Imagine Enterprise agentic platform",
+   "summary": "6,000 IBM Consulting agents with Microsoft Foundry",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-10-2026-ai-security-and"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 4,
+    "low_risk": 8
+   },
+   "weighted": 85.7,
+   "style": "newsflash",
+   "validated": false,
+   "note": "digest only"
+  },
+  {
+   "title": "AMD + Microsoft Project Zenith dev environment",
+   "summary": "Windows 11 dev env on Ryzen AI Halo",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-10-2026-ai-security-and"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 4,
+    "low_risk": 9
+   },
+   "weighted": 85.7,
+   "style": "newsflash",
+   "validated": false,
+   "note": "digest only"
+  },
+  {
+   "title": "GPT-6 Cyber released",
+   "summary": "Nov 5",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://thursdai.news/releases/2026-11"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 4,
+    "search_interest": 6,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted": 85.6,
+   "style": "newsflash",
+   "validated": false,
+   "note": "1 tracker"
+  },
+  {
+   "title": "Vivo X500 series late November (rumoured)",
+   "summary": "Unconfirmed",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://us.smartprix.com/bytes/upcoming-smartphone-launches-in-india-november-2026-motorola-signature-27-vivo-x500-series-karbonn-rebel-others/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 6,
+    "wow_factor": 4,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 8,
+    "low_risk": 9
+   },
+   "weighted": 85.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": "rumour"
+  },
+  {
+   "title": "iQOO 16 India launch confirmed (no date)",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://tech-insider.org/november-2026-smartphone-launches-motorola-signature-27-iqoo-16-2026/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 3,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 9,
+    "low_risk": 9
+   },
+   "weighted": 85.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "BEVs 27% of EU new cars in Q3 2026",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://battery-tech.net/batterytech-news-updates-2026-44/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 5,
+    "novelty": 5,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 4,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 85.3,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "TianGong Ultra full-size humanoid",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://humanoid.guide/category/news"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 5,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 85.2,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Harvard breach exposes ~851,000 emails",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.esecurityplanet.com/weekly-roundup/active-exploits-ai-attacks-and-massive-breaches-define-the-week/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 6,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 84.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": "breach victims"
+  },
+  {
+   "title": "Gemini for Healthcare US preview",
+   "summary": "Reported preview with Northwell, Stanford",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-10-2026-ai-security-and"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 5,
+    "explainable_in_45s": 5,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 5
+   },
+   "weighted": 83.6,
+   "style": "newsflash",
+   "validated": false,
+   "note": "could not confirm; medical"
+  },
+  {
+   "title": "Sony So-net breach: 2.59M records",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.esecurityplanet.com/weekly-roundup/active-exploits-ai-attacks-and-massive-breaches-define-the-week/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 83.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "China blocks SoftBank's acquisition of ABB Robotics",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.silicon.co.uk/articles/2026/11"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 6,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 83.2,
+   "style": "newsflash",
+   "validated": false,
+   "note": "politics"
+  },
+  {
+   "title": "Microsoft Green Skills & Applied AI CoE in Noida",
+   "summary": "Opened Nov 2",
+   "category": "ai_tech",
+   "date": "2026-11-02",
+   "sources": [
+    "https://www.communicationstoday.co.in/?p=427445"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 7,
+    "visual_potential": 3,
+    "wow_factor": 2,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 9,
+    "low_risk": 9
+   },
+   "weighted": 81.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Karbonn Rebel and Rebel Pro 5G on sale in India",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-02",
+   "sources": [
+    "https://us.smartprix.com/bytes/upcoming-smartphone-launches-in-india-november-2026-motorola-signature-27-vivo-x500-series-karbonn-rebel-others/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 2,
+    "factual_certainty": 5,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 9,
+    "low_risk": 9
+   },
+   "weighted": 81.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "OpenAI IPO slips to next year",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-10",
+   "sources": [
+    "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 7,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 5,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 3
+   },
+   "weighted": 80.9,
+   "style": "newsflash",
+   "validated": false,
+   "note": "financial"
+  },
+  {
+   "title": "New York launches state-run AI testing",
+   "summary": "Policy",
+   "category": "ai_tech",
+   "date": "2026-11-11",
+   "sources": [
+    "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
+   ],
+   "scores": {
+    "recency": 10,
+    "source_credibility": 4,
+    "novelty": 7,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 4,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 80.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": "politics"
+  },
+  {
+   "title": "Intel Xeon 6+ on 18A",
+   "summary": "June",
+   "category": "ai_tech",
+   "date": "2026-06",
+   "sources": [
+    "https://www.spokesman.com/stories/2026/jun/01/nvidia-is-taking-on-intel-and-amd-with-new-ai-chip/"
+   ],
+   "scores": {
+    "recency": 0,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 5,
+    "wow_factor": 4,
+    "factual_certainty": 6,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 9
+   },
+   "weighted": 80.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": "old"
+  },
+  {
+   "title": "Xiaomi 18 Pro global launch expected",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://tech-insider.org/november-2026-smartphone-launches-motorola-signature-27-iqoo-16-2026/"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 3,
+    "novelty": 5,
+    "audience_interest": 6,
+    "explainable_in_45s": 7,
+    "visual_potential": 5,
+    "wow_factor": 3,
+    "factual_certainty": 2,
+    "search_interest": 7,
+    "evergreen_value": 2,
+    "india_relevance": 7,
+    "low_risk": 9
+   },
+   "weighted": 80.7,
+   "style": "newsflash",
+   "validated": false,
+   "note": "rumour"
+  },
+  {
+   "title": "GLM-5.2 753B open MoE, 1M context",
+   "summary": "no date",
+   "category": "ai_tech",
+   "date": "2026",
+   "sources": [
+    "https://interconnects.ai"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 6,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 80.6,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Cl0p hits 40 enterprises; six CVSS 9.8 flaws exploited",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://blog.openvpn.net/this-week-in-cybersecurity-cl0p-hits-40-enterprises-3.7m-patient-records-stolen-and-six-cvss-9.8-flaws-under-active-attack"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 5,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 5,
+    "search_interest": 5,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 79.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Kimi K3.1 Pro open weights",
+   "summary": "date conflict",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thursdai.news/releases/2026-11"
+   ],
+   "scores": {
+    "recency": 3,
+    "source_credibility": 4,
+    "novelty": 6,
+    "audience_interest": 5,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 5,
+    "factual_certainty": 3,
+    "search_interest": 5,
+    "evergreen_value": 3,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 79.1,
+   "style": "newsflash",
+   "validated": false,
+   "note": "date conflict"
+  },
+  {
+   "title": "Cygnus NG-25 cargo launch NET Nov 29",
+   "summary": "",
+   "category": "science",
+   "date": "2026-11-29",
+   "sources": [
+    "https://orbitalradar.com/launch/falcon-9-cygnus-crs-2-ng-25"
+   ],
+   "scores": {
+    "recency": 2,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 7,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 3,
+    "india_relevance": 2,
+    "low_risk": 9
+   },
+   "weighted": 78.6,
+   "style": "cosmic",
+   "validated": false,
+   "note": "future"
+  },
+  {
+   "title": "TRAI proposes AI disclosure rules for telecom vendors",
+   "summary": "Comments till Nov 27",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.communicationstoday.co.in/?p=427445"
+   ],
+   "scores": {
+    "recency": 5,
+    "source_credibility": 5,
+    "novelty": 7,
+    "audience_interest": 3,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 5,
+    "search_interest": 3,
+    "evergreen_value": 3,
+    "india_relevance": 9,
+    "low_risk": 5
+   },
+   "weighted": 78.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": "regulation"
+  },
+  {
+   "title": "SpaceX classified Space Force launch Nov 13",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-13",
+   "sources": [
+    "https://nextspaceflight.com/launches/details/8441"
+   ],
+   "scores": {
+    "recency": 6,
+    "source_credibility": 5,
+    "novelty": 4,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 6,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 7
+   },
+   "weighted": 78.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": "no detail"
+  },
+  {
+   "title": "OpenAI-ADNOC AI deployment deal",
+   "summary": "AI across Abu Dhabi state energy firm",
+   "category": "ai_tech",
+   "date": "2026-11-10",
+   "sources": [
+    "https://riorundown.substack.com/p/ai-news-nov-10-2026-ai-security-and"
+   ],
+   "scores": {
+    "recency": 9,
+    "source_credibility": 4,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 4,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 6
+   },
+   "weighted": 77.9,
+   "style": "newsflash",
+   "validated": false,
+   "note": "digest only; business"
+  },
+  {
+   "title": "Frontline Education breach, ~1.3M people",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.esecurityplanet.com/weekly-roundup/active-exploits-ai-attacks-and-massive-breaches-define-the-week/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 4,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 77.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "University of Copenhagen test system breach, 525k",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-06",
+   "sources": [
+    "https://www.esecurityplanet.com/weekly-roundup/active-exploits-ai-attacks-and-massive-breaches-define-the-week/"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 5,
+    "audience_interest": 3,
+    "explainable_in_45s": 7,
+    "visual_potential": 4,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 4
+   },
+   "weighted": 74.5,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "SWE-2 Flash release",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thursdai.news/releases/2026-11"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 4,
+    "explainable_in_45s": 6,
+    "visual_potential": 4,
+    "wow_factor": 4,
+    "factual_certainty": 3,
+    "search_interest": 4,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 73.6,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Cloudflare Q3 revenue +39%",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11-05",
+   "sources": [
+    "https://www.techmeme.com/river?m=1"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 6,
+    "novelty": 4,
+    "audience_interest": 3,
+    "explainable_in_45s": 6,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 6,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 2,
+    "low_risk": 5
+   },
+   "weighted": 71.8,
+   "style": "newsflash",
+   "validated": false,
+   "note": "financial"
+  },
+  {
+   "title": "Ripple-65B Preview",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://thursdai.news/releases/2026-11"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 3,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 66.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  },
+  {
+   "title": "Nace AI Drex Max v1 open weights",
+   "summary": "",
+   "category": "ai_tech",
+   "date": "2026-11",
+   "sources": [
+    "https://www.nocode.mba/ai-release-tracker/2026/11"
+   ],
+   "scores": {
+    "recency": 4,
+    "source_credibility": 3,
+    "novelty": 6,
+    "audience_interest": 3,
+    "explainable_in_45s": 5,
+    "visual_potential": 3,
+    "wow_factor": 3,
+    "factual_certainty": 3,
+    "search_interest": 3,
+    "evergreen_value": 2,
+    "india_relevance": 3,
+    "low_risk": 8
+   },
+   "weighted": 66.4,
+   "style": "newsflash",
+   "validated": false,
+   "note": ""
+  }
+ ],
+ "top_runner_ups": [
+  "Hydrogen chloride over Mars' Alba Mons hints at buried magma",
+  "Anthropic launches Claude Meetings, Whiteboards and Sheets",
+  "Google TPU 8tx and TPU 8i Max"
+ ]
+}
