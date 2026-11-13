@@ -1,0 +1,65 @@
+{
+  "duration": 50.02,
+  "lines": [
+    {
+      "text": "This owl swallowed a cockroach 47 million years ago. And that last meal just revealed a secret.",
+      "start": 0.35,
+      "dur": 5.492,
+      "wav": "line_0.wav"
+    },
+    {
+      "text": "Scientists found the fossil in Germany's Messel Pit and named it Masillastrix blattophaga: the cockroach eater.",
+      "start": 6.342,
+      "dur": 5.273,
+      "wav": "line_1.wav"
+    },
+    {
+      "text": "Let's bust two owl myths.",
+      "start": 12.114,
+      "dur": 1.122,
+      "wav": "line_2.wav"
+    },
+    {
+      "text": "Myth number one: owls have always hunted at night.",
+      "start": 13.736,
+      "dur": 2.426,
+      "wav": "line_3.wav"
+    },
+    {
+      "text": "Fact: this early owl probably hunted by day. The cockroach in its stomach had iridescent wings, a trait linked to daytime insects.",
+      "start": 16.662,
+      "dur": 7.375,
+      "wav": "line_4.wav"
+    },
+    {
+      "text": "Its upper wing bones were short and stocky too, unlike the slender ones of today's night owls.",
+      "start": 24.537,
+      "dur": 4.06,
+      "wav": "line_5.wav"
+    },
+    {
+      "text": "Myth number two: owls became night hunters right from the start.",
+      "start": 29.097,
+      "dur": 3.045,
+      "wav": "line_6.wav"
+    },
+    {
+      "text": "Fact: the team thinks night hunting evolved later, sometime between about 47 and 34 million years ago.",
+      "start": 32.642,
+      "dur": 6.543,
+      "wav": "line_7.wav"
+    },
+    {
+      "text": "Owl fossils are rare, so this timeline could still change. And the owl might have snacked at dawn or dusk.",
+      "start": 39.685,
+      "dur": 4.942,
+      "wav": "line_8.wav"
+    },
+    {
+      "text": "So the ultimate night hunter may have started out as a daytime bird.",
+      "start": 45.128,
+      "dur": 2.992,
+      "wav": "line_9.wav"
+    }
+  ]
+}

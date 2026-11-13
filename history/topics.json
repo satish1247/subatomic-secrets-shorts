@@ -158,5 +158,9 @@
   {
     "date": "2026-11-12",
     "topic": "Google DeepMind AlphaProof Code (Nov 10): AI agents wrote millions of lines of Lean proofs verifying key security properties of Signal's libsignal crypto core down to machine code, ~4 weeks vs years (DeepMind); 2 old fixed bugs re-inserted were proven insecure; no new flaws; not the whole app"
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "47-million-year-old Messel Pit owl Masillastrix blattophaga ('cockroach eater', Current Biology, Nov 2026; Senckenberg): iridescent cockroach in stomach (trait linked to daytime insects) + short stocky humerus -> probably diurnal; owls became nocturnal later, ~47-34 Ma; sparse fossil record, could have eaten at dawn/dusk"
   }
 ]

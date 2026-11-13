@@ -19,7 +19,7 @@
   },
   {
     "date": "2026-10-02",
-    "title": "Figure Retired Its Old Robots\u2026 in Molten Steel",
+    "title": "Figure Retired Its Old Robots… in Molten Steel",
     "topic": "Figure retires its F.02 humanoid robots by having them leap into molten steel (Finland)",
     "category": "ai_tech",
     "style": "countdown",
@@ -28,7 +28,7 @@
   },
   {
     "date": "2026-10-03",
-    "title": "Apple Pay Is Finally in India\u2026 But There's a Catch",
+    "title": "Apple Pay Is Finally in India… But There's a Catch",
     "topic": "Apple Pay launches in India with Axis Bank (no UPI, no RuPay)",
     "category": "ai_tech",
     "style": "newsflash",
@@ -358,5 +358,14 @@
     "style": "newsflash",
     "youtube_url": "https://www.youtube.com/watch?v=zWJyA4K8uk0",
     "video_branch": "claude/video-2026-11-12"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "This 47-Million-Year-Old Owl Probably Hunted by Day",
+    "topic": "47-million-year-old Messel Pit owl Masillastrix blattophaga ('cockroach eater', Current Biology, Nov 2026; Senckenberg): iridescent cockroach in stomach (trait linked to daytime insects) + short stocky humerus -> probably diurnal; owls became nocturnal later, ~47-34 Ma; sparse fossil record, could have eaten at dawn/dusk",
+    "category": "science",
+    "style": "mythfact",
+    "youtube_url": "https://www.youtube.com/watch?v=kZQZXrqJAmc",
+    "video_branch": "claude/video-2026-11-13"
   }
 ]
